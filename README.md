@@ -1,6 +1,6 @@
-# 30-days--AI-learning-jorurney
-A Public 30 day journey documenting my path to becoming AL/ML ready through daily learning, projects, problem-solving and consistency
-Welconme to my 30 days journey to become AI/ML ready.
+# AI-learning-jorurney
+A Public journey documenting my path to becoming AL/ML ready through daily learning, projects, problem-solving and consistency
+Welconme to  journey to become AI/ML ready.
 
 #Goals
 -Build strong AI/ML fundamentals
