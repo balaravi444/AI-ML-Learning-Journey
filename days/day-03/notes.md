@@ -12,7 +12,7 @@
 - if-else Conditions
 - if-elif-else Ladder
 - Nested Conditions
-- Logical Operators (`and`, `or`)
+- Logical Operators (`and`, & `or`)
 
 ---
 
