@@ -1,4 +1,4 @@
-# Problem 2 - Counting Lines and Words in a File
+# Problem 3 - Student Marks Manager
 # Day 10 - File handling
 
 # Save student marks
