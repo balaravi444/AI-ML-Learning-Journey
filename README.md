@@ -14,9 +14,6 @@ I'm starting from scratch and sharing everything openly — notes, code, mistake
 **Started:** 19 May 2026
 **Goal:** Land my first AI Engineer job
 
-**Started:** May 2025  
-**Goal:** Build strong AI/ML fundamentals and become industry-ready
-
 ---
 
 ## 🎯 Goals
@@ -35,7 +32,7 @@ I'm starting from scratch and sharing everything openly — notes, code, mistake
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
 | Day 01 | Introduction to AI & Setup | [📝 Notes](days/day-01/notes.md) | [💻 Code](days/day-01/code) |
-| Day 02 | Python Basics | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-01/code) |
+| Day 02 | Python Basics | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-02/code) |
 | Day 03 | Python Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
 | Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | [💻 Code](days/day-04/code) |
 | Day 05 | Advanced Functions & Recursion | [📝 Notes](days/day-05/notes.md) | [💻 Code](days/day-05/code) |
