@@ -2,7 +2,7 @@
 
 > A public commitment to becoming AI/ML ready — one day at a time.
 
-![Progress](https://img.shields.io/badge/Day-7%20-blue)
+![Progress](https://img.shields.io/badge/Day-10%20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## 👋 About This Journey
@@ -34,12 +34,16 @@ I'm starting from scratch and sharing everything openly — notes, code, mistake
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
-| Day 01 | Introduction to AI & Setup | [📝 Notes](days/day-01/notes.md) | — |
-| Day 02 | Python Basics | [📝 Notes](days/day-02/notes.md) | — |
-| Day 03 | Python Control Flow | [📝 Notes](days/day-03/notes.md) | — |
-| Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | — |
-| Day 05 | Advanced Functions & Recursion | [📝 Notes](days/day-05/notes.md) | — |
-| Day 06 | Python Data Structures | [📝 Notes](days/day-06/notes.md) | — |
+| Day 01 | Introduction to AI & Setup | [📝 Notes](days/day-01/notes.md) | [💻 Code](days/day-01/code) |
+| Day 02 | Python Basics | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-01/code) |
+| Day 03 | Python Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
+| Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | [💻 Code](days/day-04/code) |
+| Day 05 | Advanced Functions & Recursion | [📝 Notes](days/day-05/notes.md) | [💻 Code](days/day-05/code) |
+| Day 06 | Python Data Structures | [📝 Notes](days/day-06/notes.md) | [💻 Code](days/day-06/code) |
+| Day 07 | Sets, Arrays & List Comprehensions | [📝 Notes](days/day-07/notes.md) | [💻 Code](days/day-07/code) |
+| Day 08 | Python Collections Module | [📝 Notes](days/day-08/notes.md) | [💻 Code](days/day-08/code) |
+| Day 09 | Exception Handling | [📝 Notes](days/day-09/notes.md) | [💻 Code](days/day-09/code) |
+| Day 10 | Python File Handling | [📝 Notes](days/day-10/notes.md) | [💻 Code](days/day-10/code) |
 
 ---
 
