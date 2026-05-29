@@ -1,7 +1,7 @@
 # Day 09 — Exception Handling 🚀
 
 **Date:** 28 May 2026  
-**Time Spent:** (add your hours)  
+**Time Spent:** (2 hours)  
 **Resource Used:** [GeeksforGeeks Python Course](https://www.geeksforgeeks.org/python-programming-language/)
 
 ---
