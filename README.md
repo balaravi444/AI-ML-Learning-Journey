@@ -2,7 +2,7 @@
 
 > A public commitment to becoming AI/ML ready — one day at a time.
 
-![Progress](https://img.shields.io/badge/Day-10%20-blue)
+![Progress](https://img.shields.io/badge/Day-11%20-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## 👋 About This Journey
@@ -41,7 +41,7 @@ I'm starting from scratch and sharing everything openly — notes, code, mistake
 | Day 08 | Python Collections Module | [📝 Notes](days/day-08/notes.md) | [💻 Code](days/day-08/code) |
 | Day 09 | Exception Handling | [📝 Notes](days/day-09/notes.md) | [💻 Code](days/day-09/code) |
 | Day 10 | Python File Handling | [📝 Notes](days/day-10/notes.md) | [💻 Code](days/day-10/code) |
-
+| Day 11 | OOP — Classes & Objects | [📝 Notes](days/day-11/notes.md) | [💻 Code](days/day-11/code) |
 ---
 
 ## 🗂️ Repository Structure
