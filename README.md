@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
 - 🎯 On a mission to become an **AI Engineer** by November 2026
@@ -60,19 +59,19 @@
 
 <div align="center">
 
-![Bala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true" alt="Bala's GitHub Stats" />
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=balaravi444&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=balaravi444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
