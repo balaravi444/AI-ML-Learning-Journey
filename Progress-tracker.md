@@ -19,7 +19,7 @@
 | Day 09 | Exception Handling | ✅ Done | 27 May 2026 |
 | Day 10 | File Handling | ✅ Done | 29 May 2026 |
 | Day 11 | OOP — Classes & Objects | ✅ Done | 30 May 2026 |
-| Day 12 | OOP — Inheritance & Polymorphism | 🔒 Pending | — |
+| Day 12 | OOP — Inheritance & Polymorphism | ✅ Done | 31 May 2026 |
 | Day 13 | OOP — Encapsulation & Abstraction | 🔒 Pending | — |
 | Day 14 | OOP — Magic Methods & Operator Overloading | 🔒 Pending | — |
 | Day 15 | OOP — Decorators & Generators | 🔒 Pending | — |
@@ -160,7 +160,7 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 10 |
+| 📅 Days Completed | 12 |
 | 💻 Programs Written | 60+ |
 | 📝 Topics Covered | 15+ |
 | 🏗️ Projects Built | 0 (starting soon!) |
