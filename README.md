@@ -56,9 +56,6 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <div align="center">
