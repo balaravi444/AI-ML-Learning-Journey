@@ -29,7 +29,7 @@
 
 | Phase | Topics | Status |
 |-------|--------|--------|
-| 🐍 Phase 1 | Python Foundations (Day 01-20) | ⏳ In Progress |
+| 🐍 Phase 1 | Python Foundations (Day 01-20) — Day 12/20 | ⏳ In Progress |
 | 🔢 Phase 2 | Math, DSA & Data Science (Day 21-40) | 🔒 Pending |
 | 🤖 Phase 3 | Machine Learning (Day 41-65) | 🔒 Pending |
 | 🧠 Phase 4 | Deep Learning & AI (Day 66-90) | 🔒 Pending |
@@ -80,11 +80,11 @@
 
 ## 📅 Latest Learning Updates
 
+- ✅ **Day 12** — OOP: Encapsulation, Polymorphism, Abstract Classes
 - ✅ **Day 11** — OOP: Classes, Inheritance, Method Overriding
 - ✅ **Day 10** — File Handling
 - ✅ **Day 09** — Exception Handling
 - ✅ **Day 08** — Collections Module
-- ✅ **Day 07** — Sets, Arrays & List Comprehensions
 
 👉 [See all daily updates](https://github.com/balaravi444/AI-ML-Learning-Journey)
 
