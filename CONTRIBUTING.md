@@ -12,6 +12,7 @@ If you're also on an AI/ML learning journey:
 - 🍴 **Fork it** and start your own journey using this structure
 - 💬 **Open a Discussion** to share your progress or ask questions
 - 🐛 **Open an Issue** if you spot any mistakes in my notes or code
+-  💼 **LinkedIn** https://www.linkedin.com/in/bala-ravi444/
 
 ---
 
