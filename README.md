@@ -1,8 +1,14 @@
+# 🤖 AI/ML Learning Journey — Road to My First AI Engineer Job
+
+> A public day-by-day journey from Python basics to AI Engineer 🎯
+> Everything documented openly — notes, code, projects, and mistakes!
+
 <div align="center">
 
-# 👋 Hi, I'm Bala Ravi!
-
-### 🤖 Aspiring AI Engineer | Python Developer | Learning in Public
+![Day](https://img.shields.io/badge/Day-12%20of%2090-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
+![Started](https://img.shields.io/badge/Started-May%202026-purple)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bala%20Ravi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bala-ravi444/)
 [![GitHub](https://img.shields.io/badge/GitHub-balaravi444-black?style=flat&logo=github)](https://github.com/balaravi444)
@@ -11,30 +17,68 @@
 </div>
 
 ---
-## 🚀 About Me
+
+## 👋 About This Journey
+
+Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journey day by day until I land my first job as an **AI Engineer**.
 
 - 🎯 On a mission to become an **AI Engineer** by November 2026
 - 📚 Currently learning **Python → DSA → ML → Deep Learning**
-- 🌱 Documenting every single day of my journey publicly
+- 🌱 Documenting every single day publicly
 - 💡 Started from absolute scratch — no prior coding experience
 - 🇮🇳 Based in India
 
+**Started:** 19 May 2026
+**Target:** November 2026
+**Current Phase:** Python Foundations — OOP
+
 ---
 
-## 🗺️ My AI/ML Learning Journey
+## 🗺️ Roadmap Overview
 
-> I'm publicly documenting my path from Python basics to AI Engineer
-> — one day at a time. Notes, code, and projects all open source!
+| Phase | Topics | Days | Status |
+|-------|--------|------|--------|
+| 🐍 Phase 1 | Python Foundations — Day 12/20 | Day 01–20 | ⏳ In Progress |
+| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | 🔒 Pending |
+| 🤖 Phase 3 | Machine Learning | Day 41–65 | 🔒 Pending |
+| 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | 🔒 Pending |
 
-| Phase | Topics | Status |
-|-------|--------|--------|
-| 🐍 Phase 1 | Python Foundations (Day 01-20) — Day 12/20 | ⏳ In Progress |
-| 🔢 Phase 2 | Math, DSA & Data Science (Day 21-40) | 🔒 Pending |
-| 🤖 Phase 3 | Machine Learning (Day 41-65) | 🔒 Pending |
-| 🧠 Phase 4 | Deep Learning & AI (Day 66-90) | 🔒 Pending |
+---
 
-📂 **Follow my full journey here:**
-👉 [AI-ML-Learning-Journey](https://github.com/balaravi444/AI-ML-Learning-Journey)
+## 📅 Daily Progress
+
+| Day | Topic | Notes | Code |
+|-----|-------|-------|------|
+| Day 01 | Python Basics — Variables, I/O, Loops | [📝 Notes](days/day-01/notes.md) | [💻 Code](days/day-01/code) |
+| Day 02 | Data Types, Operators, Conditions | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-02/code) |
+| Day 03 | Python Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
+| Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | [💻 Code](days/day-04/code) |
+| Day 05 | Advanced Functions & Recursion | [📝 Notes](days/day-05/notes.md) | [💻 Code](days/day-05/code) |
+| Day 06 | Python Data Structures | [📝 Notes](days/day-06/notes.md) | [💻 Code](days/day-06/code) |
+| Day 07 | Sets, Arrays & List Comprehensions | [📝 Notes](days/day-07/notes.md) | [💻 Code](days/day-07/code) |
+| Day 08 | Python Collections Module | [📝 Notes](days/day-08/notes.md) | [💻 Code](days/day-08/code) |
+| Day 09 | Exception Handling | [📝 Notes](days/day-09/notes.md) | [💻 Code](days/day-09/code) |
+| Day 10 | File Handling | [📝 Notes](days/day-10/notes.md) | [💻 Code](days/day-10/code) |
+| Day 11 | OOP — Classes & Inheritance | [📝 Notes](days/day-11/notes.md) | [💻 Code](days/day-11/code) |
+| Day 12 | OOP — Encapsulation, Polymorphism, Abstract Classes | [📝 Notes](days/day-12/notes.md) | [💻 Code](days/day-12/code) |
+| Day 13 | OOP Capstone Project | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 14 | Modules, Packages & Virtual Environments | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 15 | Regular Expressions | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 16 | Working with JSON & CSV | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 17 | Python APIs — requests library | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 18 | Magic Methods & Operator Overloading | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 19 | Decorators & Generators | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 20 | 🏗️ Project 1 — Student Report Card Generator | 🔒 Coming Soon | 🔒 Coming Soon |
+
+---
+
+## 📅 Latest Learning Updates
+
+- ✅ **Day 12** — OOP: Encapsulation, Polymorphism, Abstract Classes
+- ✅ **Day 11** — OOP: Classes, Inheritance, Method Overriding
+- ✅ **Day 10** — File Handling
+- ✅ **Day 09** — Exception Handling
+- ✅ **Day 08** — Collections Module
 
 ---
 
@@ -55,6 +99,22 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
+
+## 🏗️ Projects
+
+| # | Project | Skills | Status |
+|---|---------|--------|--------|
+| 1 | Student Report Card Generator | OOP, File Handling | 🔒 Coming Soon |
+| 2 | Data Analysis on Real Dataset | Pandas, NumPy | 🔒 Coming Soon |
+| 3 | House Price Predictor | ML, Regression | 🔒 Coming Soon |
+| 4 | Email Spam Classifier | NLP, Classification | 🔒 Coming Soon |
+| 5 | Sentiment Analyzer Web App | NLP, Flask | 🔒 Coming Soon |
+| 6 | Image Classifier | CNN, Keras | 🔒 Coming Soon |
+| 7 | Text Summarizer | Transformers | 🔒 Coming Soon |
+| 8 | Final AI Portfolio Project | Everything | 🔒 Coming Soon |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -77,27 +137,25 @@
 
 ---
 
-## 📅 Latest Learning Updates
+## 📈 Stats
 
-- ✅ **Day 12** — OOP: Encapsulation, Polymorphism, Abstract Classes
-- ✅ **Day 11** — OOP: Classes, Inheritance, Method Overriding
-- ✅ **Day 10** — File Handling
-- ✅ **Day 09** — Exception Handling
-- ✅ **Day 08** — Collections Module
-
-👉 [See all daily updates](https://github.com/balaravi444/AI-ML-Learning-Journey)
+| Stat | Count |
+|------|-------|
+| 📅 Days Completed | 12 |
+| 💻 Programs Written | 68+ |
+| 📝 Topics Covered | 20+ |
+| 🏗️ Projects Built | 0 (starting Day 20!) |
+| ⭐ Target | AI Engineer by November 2026 |
 
 ---
 
-## 🏗️ Projects (Coming Soon!)
+## 🎯 For Fellow Learners
 
-| # | Project | Skills |
-|---|---------|--------|
-| 1 | Student Report Card Generator | OOP, File Handling |
-| 2 | Data Analysis on Real Dataset | Pandas, NumPy |
-| 3 | House Price Predictor | ML, Regression |
-| 4 | Email Spam Classifier | NLP, ML |
-| 5 | Final AI Engineer Portfolio Project | Everything |
+If you're also starting your AI/ML journey:
+- ⭐ **Star this repo** to follow along
+- 🍴 **Fork it** and start your own journey
+- 💬 **Open a Discussion** to share your progress
+- 📄 Check [progress-tracker.md](progress-tracker.md) for the full roadmap
 
 ---
 
@@ -112,9 +170,8 @@
 
 ## 💬 Let's Connect!
 
-I'm always happy to connect with fellow learners and AI enthusiasts!
-
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-ravi444/)
+[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/balaravi444)
 
 ---
 
