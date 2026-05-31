@@ -80,5 +80,6 @@ I started from absolute scratch — no prior coding experience — and I'm shari
 | 📄 [CONTRIBUTING.md](CONTRIBUTING.md) | How to use and contribute to this repo |
 
 ---
-
+- 💼 LinkedIn: [Bala Ravi](https://www.linkedin.com/in/bala-ravi444/)
+---
 ## 🗂️ Repository Structure
