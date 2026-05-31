@@ -1,7 +1,7 @@
 # Day 12 — OOP: Encapsulation, Polymorphism & Abstract Classes 🚀
 
 **Date:** 31 May 2026
-**Time Spent:** (add your hours)
+**Time Spent:** (1 hour)
 **Resource Used:** [GeeksforGeeks OOP](https://www.geeksforgeeks.org/python-oops-concepts/)
 
 ---
