@@ -1,188 +1,137 @@
-# 🤖 AI/ML Learning Journey — Road to My First AI Engineer Job
-
-> A public day-by-day journey from Python basics to AI Engineer 🎯
-> Everything documented openly — notes, code, projects, and mistakes!
-
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-12%20of%2090-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
-![Started](https://img.shields.io/badge/Started-May%202026-purple)
+# 🤖 AI/ML Learning Journey
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bala%20Ravi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bala-ravi444/)
-[![GitHub](https://img.shields.io/badge/GitHub-balaravi444-black?style=flat&logo=github)](https://github.com/balaravi444)
-![Profile Views](https://komarev.com/ghpvc/?username=balaravi444&color=blue)
+### Road to My First AI Engineer Job
+
+[![Day](https://img.shields.io/badge/Day-10%20of%20∞-blue?style=for-the-badge)](https://github.com/balaravi444/AI-ML-Learning-Journey)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/balaravi444/AI-ML-Learning-Journey)
+[![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python)](https://github.com/balaravi444/AI-ML-Learning-Journey)
+[![Commits](https://img.shields.io/github/commit-activity/w/balaravi444/AI-ML-Learning-Journey?style=for-the-badge&label=Weekly%20Commits)](https://github.com/balaravi444/AI-ML-Learning-Journey/commits/main)
+
+**Started:** May 19, 2026 &nbsp;|&nbsp; **Goal:** Land my first AI Engineer job &nbsp;|&nbsp; **Location:** India 🇮🇳
+
+[📅 Daily Log](#-daily-progress) • [🗺️ Roadmap](#️-learning-roadmap) • [🤝 Contribute](#-contribute) • [📬 Connect](#-connect)
 
 </div>
 
 ---
 
-## 👋 About This Journey
+## 👋 Why This Repo Exists
 
-Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journey day by day until I land my first job as an **AI Engineer**.
+Most AI/ML repos show you the finished product — clean code, polished notebooks, zero mistakes.
 
-- 🎯 On a mission to become an **AI Engineer** by November 2026
-- 📚 Currently learning **Python → DSA → ML → Deep Learning**
-- 🌱 Documenting every single day publicly
-- 💡 Started from absolute scratch — no prior coding experience
-- 🇮🇳 Based in India
+**This one shows the journey.**
 
-**Started:** 19 May 2026
-**Target:** November 2026
-**Current Phase:** Python Foundations — OOP
+I'm **Balaravi**, a developer starting from scratch and documenting every single day of my path to becoming an AI Engineer. No hiding mistakes, no skipping the hard parts. Just real, honest progress — one commit at a time.
+
+If you're on a similar path, this repo is for you too.
+
+> 💡 **The goal isn't just to learn AI/ML. It's to prove that consistent, public learning is the fastest path to a job.**
 
 ---
 
-## 🗺️ Roadmap Overview
+## 🎯 Goals
 
-| Phase | Topics | Days | Status |
-|-------|--------|------|--------|
-| 🐍 Phase 1 | Python Foundations — Day 12/20 | Day 01–20 | ⏳ In Progress |
-| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | 🔒 Pending |
-| 🤖 Phase 3 | Machine Learning | Day 41–65 | 🔒 Pending |
-| 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | 🔒 Pending |
+- [x] Set up Python environment and AI/ML toolchain
+- [x] Build strong Python fundamentals (functions, data structures, OOP)
+- [ ] Learn NumPy, Pandas, Matplotlib
+- [ ] Understand core ML algorithms (regression, classification, clustering)
+- [ ] Build and train neural networks with PyTorch / TensorFlow
+- [ ] Complete 3 real-world ML projects
+- [ ] Land my first AI Engineer job 🚀
+
+---
+
+## 🗺️ Learning Roadmap
+
+```
+Phase 1 — Python Foundations     ████████████░░░░░░░░  [Days 01–15]  ← You are here
+Phase 2 — Math for ML            ░░░░░░░░░░░░░░░░░░░░  [Days 16–30]
+Phase 3 — Core ML Algorithms     ░░░░░░░░░░░░░░░░░░░░  [Days 31–60]
+Phase 4 — Deep Learning          ░░░░░░░░░░░░░░░░░░░░  [Days 61–90]
+Phase 5 — Projects & Portfolio   ░░░░░░░░░░░░░░░░░░░░  [Days 91–120]
+```
 
 ---
 
 ## 📅 Daily Progress
 
-| Day | Topic | Notes | Code |
-|-----|-------|-------|------|
-| Day 01 | Python Basics — Variables, I/O, Loops | [📝 Notes](days/day-01/notes.md) | [💻 Code](days/day-01/code) |
-| Day 02 | Data Types, Operators, Conditions | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-02/code) |
-| Day 03 | Python Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
-| Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | [💻 Code](days/day-04/code) |
-| Day 05 | Advanced Functions & Recursion | [📝 Notes](days/day-05/notes.md) | [💻 Code](days/day-05/code) |
-| Day 06 | Python Data Structures | [📝 Notes](days/day-06/notes.md) | [💻 Code](days/day-06/code) |
-| Day 07 | Sets, Arrays & List Comprehensions | [📝 Notes](days/day-07/notes.md) | [💻 Code](days/day-07/code) |
-| Day 08 | Python Collections Module | [📝 Notes](days/day-08/notes.md) | [💻 Code](days/day-08/code) |
-| Day 09 | Exception Handling | [📝 Notes](days/day-09/notes.md) | [💻 Code](days/day-09/code) |
-| Day 10 | File Handling | [📝 Notes](days/day-10/notes.md) | [💻 Code](days/day-10/code) |
-| Day 11 | OOP — Classes & Inheritance | [📝 Notes](days/day-11/notes.md) | [💻 Code](days/day-11/code) |
-| Day 12 | OOP — Encapsulation, Polymorphism, Abstract Classes | [📝 Notes](days/day-12/notes.md) | [💻 Code](days/day-12/code) |
-| Day 13 | OOP Capstone Project | 🔒 Coming Soon | 🔒 Coming Soon |
-| Day 14 | Modules, Packages & Virtual Environments | 🔒 Coming Soon | 🔒 Coming Soon |
-| Day 15 | Regular Expressions | 🔒 Coming Soon | 🔒 Coming Soon |
-| Day 16 | Working with JSON & CSV | 🔒 Coming Soon | 🔒 Coming Soon |
-| Day 17 | Python APIs — requests library | 🔒 Coming Soon | 🔒 Coming Soon |
-| Day 18 | Magic Methods & Operator Overloading | 🔒 Coming Soon | 🔒 Coming Soon |
-| Day 19 | Decorators & Generators | 🔒 Coming Soon | 🔒 Coming Soon |
-| Day 20 | 🏗️ Project 1 — Student Report Card Generator | 🔒 Coming Soon | 🔒 Coming Soon |
+Each day includes:
+- 📝 **Notes** — what I learned, explained simply
+- 💻 **Code** — working implementations you can run
+- 🧠 **Reflection** — what clicked, what confused me
+
+| Day | Topic | Notes | Code | Key Takeaway |
+|-----|-------|-------|------|--------------|
+| Day 01 | Introduction to AI & Setup | [📝](days/day-01/notes.md) | [💻](days/day-01/code) | Set up Python, Jupyter, and understood the AI landscape |
+| Day 02 | Python Basics | [📝](days/day-02/notes.md) | [💻](days/day-02/code) | Variables, types, strings — the building blocks |
+| Day 03 | Python Control Flow | [📝](days/day-03/notes.md) | [💻](days/day-03/code) | if/else, loops — logic that drives programs |
+| Day 04 | Functions & Variable Scope | [📝](days/day-04/notes.md) | [💻](days/day-04/code) | Writing reusable, clean code |
+| Day 05 | Advanced Functions & Recursion | [📝](days/day-05/notes.md) | [💻](days/day-05/code) | Lambda, map, filter — and the recursion rabbit hole |
+| Day 06 | Python Data Structures | [📝](days/day-06/notes.md) | [💻](days/day-06/code) | Lists, tuples, dicts — the backbone of data manipulation |
+| Day 07 | Sets, Arrays & List Comprehensions | [📝](days/day-07/notes.md) | [💻](days/day-07/code) | Writing Pythonic, efficient code |
+| Day 08 | Python Collections Module | [📝](days/day-08/notes.md) | [💻](days/day-08/code) | Counter, defaultdict, deque — power tools |
+| Day 09 | Exception Handling | [📝](days/day-09/notes.md) | [💻](days/day-09/code) | Writing code that doesn't break silently |
+| Day 10 | Python File Handling | [📝](days/day-10/notes.md) | [💻](days/day-10/code) | Reading/writing files — essential for real data work |
+
+> 📌 New days added every weekday. **Star the repo** to follow along.
 
 ---
 
-## 📅 Latest Learning Updates
+## 🗂️ Repository Structure
 
-- ✅ **Day 12** — OOP: Encapsulation, Polymorphism, Abstract Classes
-- ✅ **Day 11** — OOP: Classes, Inheritance, Method Overriding
-- ✅ **Day 10** — File Handling
-- ✅ **Day 09** — Exception Handling
-- ✅ **Day 08** — Collections Module
-
----
-
-## 🛠️ Skills & Tools
-
-**Currently Learning:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-**Tools:**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+```
+AI-ML-Learning-Journey/
+│
+├── days/
+│   ├── day-01/
+│   │   ├── notes.md        ← Concepts explained in plain English
+│   │   └── code/           ← Runnable Python implementations
+│   ├── day-02/
+│   └── ...
+│
+└── README.md
+```
 
 ---
 
-## 🏗️ Projects
+## 🤝 Contribute
 
-| # | Project | Skills | Status |
-|---|---------|--------|--------|
-| 1 | Student Report Card Generator | OOP, File Handling | 🔒 Coming Soon |
-| 2 | Data Analysis on Real Dataset | Pandas, NumPy | 🔒 Coming Soon |
-| 3 | House Price Predictor | ML, Regression | 🔒 Coming Soon |
-| 4 | Email Spam Classifier | NLP, Classification | 🔒 Coming Soon |
-| 5 | Sentiment Analyzer Web App | NLP, Flask | 🔒 Coming Soon |
-| 6 | Image Classifier | CNN, Keras | 🔒 Coming Soon |
-| 7 | Text Summarizer | Transformers | 🔒 Coming Soon |
-| 8 | Final AI Portfolio Project | Everything | 🔒 Coming Soon |
+This is an **open learning repo** — your input makes it better for everyone.
 
----
+**Ways to contribute:**
+- ⭐ **Star** the repo to show support and help others find it
+- 🍴 **Fork** and adapt it for your own learning journey
+- 💬 **Open an Issue** to suggest a topic, ask a question, or share a resource
+- 🔀 **Submit a PR** to fix a bug, improve notes, or add a code example
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=balaravi444&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=balaravi444&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balaravi444&theme=tokyonight" alt="Summary" />
-
-</div>
-
-
-
-## 📈 Stats
-
-| Stat | Count |
-|------|-------|
-| 📅 Days Completed | 12 |
-| 💻 Programs Written | 68+ |
-| 📝 Topics Covered | 20+ |
-| 🏗️ Projects Built | 0 (starting Day 20!) |
-| ⭐ Target | AI Engineer by November 2026 |
+**Discussion ideas are always welcome** — What topic should I cover next? What did I explain poorly? Open an issue and let me know.
 
 ---
 
-## 🎯 For Fellow Learners
+## 📬 Connect
 
-If you're also starting your AI/ML journey:
-- ⭐ **Star this repo** to follow along
-- 🍴 **Fork it** and start your own journey
-- 💬 **Open a Discussion** to share your progress
-- 📄 Check [progress-tracker.md](progress-tracker.md) for the full roadmap
+I post daily updates about this journey. Follow along:
 
----
-
-## 🎯 2026 Goals
-
-- [ ] Complete 90-day AI/ML roadmap
-- [ ] Build 8 real projects
-- [ ] Land first AI Engineer job 🎉
-- [ ] Help 100+ beginners start their AI journey
+- 🐦 **Twitter/X:** [@balaravi444](https://twitter.com/balaravi444) — daily progress threads `#100DaysOfCode`
+- 💼 **LinkedIn:** [Balaravi](https://linkedin.com/in/balaravi444) — weekly reflections and lessons
+- 🐙 **GitHub:** You're already here!
 
 ---
 
-## 💬 Let's Connect!
+## 📊 Stats
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-ravi444/)
-[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/balaravi444)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/balaravi444/AI-ML-Learning-Journey?style=flat-square&label=Monthly%20Commits)
+![GitHub last commit](https://img.shields.io/github/last-commit/balaravi444/AI-ML-Learning-Journey?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/balaravi444/AI-ML-Learning-Journey?style=flat-square)
 
 ---
 
 <div align="center">
 
-*"Consistency beats motivation. Show up every day."* 🔥
+**If this repo helped you or inspired you, a ⭐ means a lot.**
 
-**Started: 19 May 2026 | Target: AI Engineer by November 2026**
+*Building in public. Learning every day. One commit closer to the goal.*
 
 </div>
