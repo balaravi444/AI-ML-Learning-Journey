@@ -119,19 +119,17 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+[![Bala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=balaravi444&theme=tokyo-night&hide_border=true)](https://github.com/balaravi444)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=balaravi444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
+
+
 
 ## 📈 Stats
 
