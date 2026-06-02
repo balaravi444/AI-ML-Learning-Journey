@@ -104,7 +104,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 1 | Student Report Card Generator | OOP, File Handling | 🔒 Coming Soon |
+| 1 | AI Learning Management System | OOP, File Handling | ✅ [View Project](projects/01_ai_learning_management_system/) |
 | 2 | Data Analysis on Real Dataset | Pandas, NumPy | 🔒 Coming Soon |
 | 3 | House Price Predictor | ML, Regression | 🔒 Coming Soon |
 | 4 | Email Spam Classifier | NLP, Classification | 🔒 Coming Soon |
