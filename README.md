@@ -119,23 +119,33 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true" alt="Bala's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=balaravi444&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=balaravi444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balaravi444&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
 
 ## 📈 Stats
 
