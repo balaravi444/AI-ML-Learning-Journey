@@ -61,7 +61,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 10 | File Handling | [📝 Notes](days/day-10/notes.md) | [💻 Code](days/day-10/code) |
 | Day 11 | OOP — Classes & Inheritance | [📝 Notes](days/day-11/notes.md) | [💻 Code](days/day-11/code) |
 | Day 12 | OOP — Encapsulation, Polymorphism, Abstract Classes | [📝 Notes](days/day-12/notes.md) | [💻 Code](days/day-12/code) |
-| Day 13 | OOP Capstone Project | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 13 | OOP Capstone — AI Learning Management System | ✅ Done | 01 June 2026 |
 | Day 14 | Modules, Packages & Virtual Environments | 🔒 Coming Soon | 🔒 Coming Soon |
 | Day 15 | Regular Expressions | 🔒 Coming Soon | 🔒 Coming Soon |
 | Day 16 | Working with JSON & CSV | 🔒 Coming Soon | 🔒 Coming Soon |
