@@ -20,7 +20,7 @@
 | Day 10 | File Handling | ✅ Done | 29 May 2026 |
 | Day 11 | OOP — Classes & Objects | ✅ Done | 30 May 2026 |
 | Day 12 | OOP — Inheritance & Polymorphism | ✅ Done | 31 May 2026 |
-| Day 13 | OOP — Encapsulation & Abstraction | 🔒 Pending | — |
+| Day 13 | OOP Capstone — AI Learning Management System | ✅ Done | 01 June 2026 |
 | Day 14 | OOP — Magic Methods & Operator Overloading | 🔒 Pending | — |
 | Day 15 | OOP — Decorators & Generators | 🔒 Pending | — |
 | Day 16 | Modules, Packages & Virtual Environments | 🔒 Pending | — |
@@ -129,7 +129,7 @@
 
 | # | Project | Phase | Skills Used | Status |
 |---|---------|-------|-------------|--------|
-| 1 | Student Report Card Generator | Python | OOP, File Handling, Functions | 🔒 Pending |
+| 1 | AI Learning Management System | Python | OOP, File Handling, Exception Handling | ✅ Done |
 | 2 | Data Analysis on Real Dataset | Data Science | Pandas, NumPy, Matplotlib | 🔒 Pending |
 | 3 | House Price Predictor | ML | Regression, Scikit-learn | 🔒 Pending |
 | 4 | Email Spam Classifier | ML | Classification, NLP | 🔒 Pending |
@@ -160,10 +160,10 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 12 |
+| 📅 Days Completed | 13 |
 | 💻 Programs Written | 60+ |
 | 📝 Topics Covered | 15+ |
-| 🏗️ Projects Built | 0 (starting soon!) |
+| 🏗️ Projects Built | 1 |
 | 🎯 Target | AI Engineer Job in 6 months |
 
 ---
