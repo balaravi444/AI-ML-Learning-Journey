@@ -74,11 +74,11 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 ## 📅 Latest Learning Updates
 
+- ✅ **Day 13** — OOP Capstone: AI Learning Management System 🏗️
 - ✅ **Day 12** — OOP: Encapsulation, Polymorphism, Abstract Classes
 - ✅ **Day 11** — OOP: Classes, Inheritance, Method Overriding
 - ✅ **Day 10** — File Handling
 - ✅ **Day 09** — Exception Handling
-- ✅ **Day 08** — Collections Module
 
 ---
 
@@ -144,7 +144,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | 📅 Days Completed | 12 |
 | 💻 Programs Written | 68+ |
 | 📝 Topics Covered | 20+ |
-| 🏗️ Projects Built | 0 (starting Day 20!) |
+| 🏗️ Projects Built | 1 |
 | ⭐ Target | AI Engineer by November 2026 |
 
 ---
