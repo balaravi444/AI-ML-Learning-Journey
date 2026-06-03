@@ -21,8 +21,8 @@
 | Day 11 | OOP — Classes & Objects | ✅ Done | 30 May 2026 |
 | Day 12 | OOP — Inheritance & Polymorphism | ✅ Done | 31 May 2026 |
 | Day 13 | OOP Capstone — AI Learning Management System | ✅ Done | 01 June 2026 |
-| Day 14 | OOP — Magic Methods & Operator Overloading | 🔒 Pending | — |
-| Day 15 | OOP — Decorators & Generators | 🔒 Pending | — |
+| Day 14 | OOP — Magic Methods & Operator Overloading | ✅ Done | 02 June 2026 |
+| Day 15 | OOP — Decorators & Generators | ✅ Done | 03 June 2026 |
 | Day 16 | Modules, Packages & Virtual Environments | 🔒 Pending | — |
 | Day 17 | Regular Expressions (Regex) | 🔒 Pending | — |
 | Day 18 | Working with JSON & CSV files | 🔒 Pending | — |
@@ -160,8 +160,8 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 13 |
-| 💻 Programs Written | 60+ |
+| 📅 Days Completed | 15 |
+| 💻 Programs Written | 70 |
 | 📝 Topics Covered | 15+ |
 | 🏗️ Projects Built | 1 |
 | 🎯 Target | AI Engineer Job in 6 months |
