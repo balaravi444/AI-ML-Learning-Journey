@@ -62,8 +62,8 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 11 | OOP — Classes & Inheritance | [📝 Notes](days/day-11/notes.md) | [💻 Code](days/day-11/code) |
 | Day 12 | OOP — Encapsulation, Polymorphism, Abstract Classes | [📝 Notes](days/day-12/notes.md) | [💻 Code](days/day-12/code) |
 | Day 13 | OOP Capstone — AI Learning Management System | [📝 Notes](days/day-13/notes.md) | [💻 Code](days/day-13/code) |
-| Day 14 | Modules, Packages & Virtual Environments | [📝 Notes](days/day-14/notes.md) | [💻 Code](days/day-14/code)  |
-| Day 15 | Regular Expressions |  [📝 Notes](days/day-15/notes.md) | [💻 Code](days/day-15/code) ||
+| Day 14 | Modules, Packages & Virtual Environments | [📝 Notes](days/day-14/notes.md) | [💻 Code](days/day-14/code) |
+| Day 15 | Regular Expressions (Regex) | [📝 Notes](days/day-15/notes.md) | [💻 Code](days/day-15/code) |
 | Day 16 | Working with JSON & CSV | 🔒 Coming Soon | 🔒 Coming Soon |
 | Day 17 | Python APIs — requests library | 🔒 Coming Soon | 🔒 Coming Soon |
 | Day 18 | Magic Methods & Operator Overloading | 🔒 Coming Soon | 🔒 Coming Soon |
@@ -74,12 +74,12 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 ## 📅 Latest Learning Updates
 
-
-- ✅ **Day 15** —  Regular Expressions 
-- ✅ **Day 14** —  Modules, Packages & Virtual Environments
-- ✅ **Day 13** — OOP Capstone: AI Learning Management System 🏗️
+- ✅ **Day 15** — Regular Expressions (Regex)
+- ✅ **Day 14** — Modules, Packages & Virtual Environments
+- ✅ **Day 13** — OOP Capstone: AI Learning Management System
 - ✅ **Day 12** — OOP: Encapsulation, Polymorphism, Abstract Classes
 - ✅ **Day 11** — OOP: Classes, Inheritance, Method Overriding
+
   
 
 
