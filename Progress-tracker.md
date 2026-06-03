@@ -21,12 +21,12 @@
 | Day 11 | OOP — Classes & Objects | ✅ Done | 30 May 2026 |
 | Day 12 | OOP — Inheritance & Polymorphism | ✅ Done | 31 May 2026 |
 | Day 13 | OOP Capstone — AI Learning Management System | ✅ Done | 01 June 2026 |
-| Day 14 | OOP — Magic Methods & Operator Overloading | ✅ Done | 02 June 2026 |
-| Day 15 | OOP — Decorators & Generators | ✅ Done | 03 June 2026 |
-| Day 16 | Modules, Packages & Virtual Environments | 🔒 Pending | — |
-| Day 17 | Regular Expressions (Regex) | 🔒 Pending | — |
-| Day 18 | Working with JSON & CSV files | 🔒 Pending | — |
-| Day 19 | Python APIs — requests library | 🔒 Pending | — |
+| Day 14 | Modules, Packages & Virtual Environments | ✅ Done | 02 June 2026 |
+| Day 15 | Regular Expressions (Regex) | ✅ Done | 03 June 2026 |
+| Day 16 | Working with JSON & CSV Files | ⏳ Up Next | — |
+| Day 17 | Python APIs — requests library | 🔒 Pending | — |
+| Day 18 | Magic Methods & Operator Overloading | 🔒 Pending | — |
+| Day 19 | Decorators & Generators | 🔒 Pending | — |
 | Day 20 | 🏗️ Project 1 — Student Report Card Generator | 🔒 Pending | — |
 
 ---
