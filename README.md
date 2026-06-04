@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-15%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-16%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -64,7 +64,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 13 | OOP Capstone — AI Learning Management System | [📝 Notes](days/day-13/notes.md) | [💻 Code](days/day-13/code) |
 | Day 14 | Modules, Packages & Virtual Environments | [📝 Notes](days/day-14/notes.md) | [💻 Code](days/day-14/code) |
 | Day 15 | Regular Expressions (Regex) | [📝 Notes](days/day-15/notes.md) | [💻 Code](days/day-15/code) |
-| Day 16 | Working with JSON & CSV | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 16 | Working with JSON & CSV Files | [📝 Notes](days/day-16/notes.md) | [💻 Code](days/day-16/code) |
 | Day 17 | Python APIs — requests library | 🔒 Coming Soon | 🔒 Coming Soon |
 | Day 18 | Magic Methods & Operator Overloading | 🔒 Coming Soon | 🔒 Coming Soon |
 | Day 19 | Decorators & Generators | 🔒 Coming Soon | 🔒 Coming Soon |
@@ -154,8 +154,8 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 15 |
-| 💻 Programs Written | 74+ |
+| 📅 Days Completed | 16 |
+| 💻 Programs Written | 76+ |
 | 📝 Topics Covered | 20+ |
 | 🏗️ Projects Built | 1 |
 | ⭐ Target | AI Engineer by November 2026 |
