@@ -74,11 +74,11 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 ## 📅 Latest Learning Updates
 
+- ✅ **Day 16** — Working with JSON & CSV Files
 - ✅ **Day 15** — Regular Expressions (Regex)
 - ✅ **Day 14** — Modules, Packages & Virtual Environments
 - ✅ **Day 13** — OOP Capstone: AI Learning Management System
 - ✅ **Day 12** — OOP: Encapsulation, Polymorphism, Abstract Classes
-- ✅ **Day 11** — OOP: Classes, Inheritance, Method Overriding
 
   
 
