@@ -38,7 +38,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 | Phase | Topics | Days | Status |
 |-------|--------|------|--------|
-| 🐍 Phase 1 | Python Foundations — Day 16/20 | Day 01–20 | ⏳ In Progress |
+| 🐍 Phase 1 | Python Foundations — Day 17/20 | Day 01–20 | ⏳ In Progress |
 | 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | 🔒 Pending |
 | 🤖 Phase 3 | Machine Learning | Day 41–65 | 🔒 Pending |
 | 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | 🔒 Pending |
