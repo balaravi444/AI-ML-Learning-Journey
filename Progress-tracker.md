@@ -23,7 +23,7 @@
 | Day 13 | OOP Capstone — AI Learning Management System | ✅ Done | 01 June 2026 |
 | Day 14 | Modules, Packages & Virtual Environments | ✅ Done | 02 June 2026 |
 | Day 15 | Regular Expressions (Regex) | ✅ Done | 03 June 2026 |
-| Day 16 | Working with JSON & CSV Files | ⏳ Up Next | — |
+| Day 16 | Working with JSON & CSV Files | ✅ Done | 04 June 2026 |
 | Day 17 | Python APIs — requests library | 🔒 Pending | — |
 | Day 18 | Magic Methods & Operator Overloading | 🔒 Pending | — |
 | Day 19 | Decorators & Generators | 🔒 Pending | — |
