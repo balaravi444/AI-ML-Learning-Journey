@@ -17,14 +17,14 @@
 | Day 07 | Sets, Arrays, List Comprehensions | ✅ Done | 25 May 2026 |
 | Day 08 | Collections Module | ✅ Done | 26 May 2026 |
 | Day 09 | Exception Handling | ✅ Done | 27 May 2026 |
-| Day 10 | File Handling | ✅ Done | 29 May 2026 |
-| Day 11 | OOP — Classes & Objects | ✅ Done | 30 May 2026 |
-| Day 12 | OOP — Inheritance & Polymorphism | ✅ Done | 31 May 2026 |
-| Day 13 | OOP Capstone — AI Learning Management System | ✅ Done | 01 June 2026 |
-| Day 14 | Modules, Packages & Virtual Environments | ✅ Done | 02 June 2026 |
-| Day 15 | Regular Expressions (Regex) | ✅ Done | 03 June 2026 |
-| Day 16 | Working with JSON & CSV Files | ✅ Done | 04 June 2026 |
-| Day 17 | Python APIs — requests library | 🔒 Pending | — |
+| Day 10 | File Handling | ✅ Done | 28 May 2026 |
+| Day 11 | OOP — Classes & Objects | ✅ Done | 29 May 2026 |
+| Day 12 | OOP — Inheritance & Polymorphism | ✅ Done | 30 May 2026 |
+| Day 13 | OOP Capstone — AI Learning Management System | ✅ Done | 31 June 2026 |
+| Day 14 | Modules, Packages & Virtual Environments | ✅ Done | 01 June 2026 |
+| Day 15 | Regular Expressions (Regex) | ✅ Done | 02 June 2026 |
+| Day 16 | Working with JSON & CSV Files | ✅ Done | 03 June 2026 |
+| Day 17 | Python APIs — requests library | ✅ Done | 04 June 2026 |
 | Day 18 | Magic Methods & Operator Overloading | 🔒 Pending | — |
 | Day 19 | Decorators & Generators | 🔒 Pending | — |
 | Day 20 | 🏗️ Project 1 — Student Report Card Generator | 🔒 Pending | — |
@@ -160,7 +160,7 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 15 |
+| 📅 Days Completed | 17 |
 | 💻 Programs Written | 70 |
 | 📝 Topics Covered | 15+ |
 | 🏗️ Projects Built | 1 |
