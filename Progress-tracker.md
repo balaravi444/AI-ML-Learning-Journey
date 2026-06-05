@@ -25,7 +25,7 @@
 | Day 15 | Regular Expressions (Regex) | ✅ Done | 02 June 2026 |
 | Day 16 | Working with JSON & CSV Files | ✅ Done | 03 June 2026 |
 | Day 17 | Python APIs — requests library | ✅ Done | 04 June 2026 |
-| Day 18 | Magic Methods & Operator Overloading | 🔒 Pending | — |
+| Day 18 | Magic Methods & Operator Overloading | ✅ Done | 05 June 2026 |
 | Day 19 | Decorators & Generators | 🔒 Pending | — |
 | Day 20 | 🏗️ Project 1 — Student Report Card Generator | 🔒 Pending | — |
 
@@ -160,9 +160,9 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 17 |
+| 📅 Days Completed | 18 |
 | 💻 Programs Written | 70 |
-| 📝 Topics Covered | 15+ |
+| 📝 Topics Covered | 25+ |
 | 🏗️ Projects Built | 1 |
 | 🎯 Target | AI Engineer Job in 6 months |
 
