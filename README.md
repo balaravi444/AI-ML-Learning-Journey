@@ -104,6 +104,15 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | 7 | Text Summarizer | Transformers | 🔒 Coming Soon |
 | 8 | Final AI Portfolio Project | Everything | 🔒 Coming Soon |
 
+## 🚀 Featured Projects
+
+| Project Name | Skills Used | Status |
+| :--- | :--- | :--- |
+| **[AI Learning Management System](./days/day-13)** | `OOP`, `Abstract Classes`, `File I/O` | ✅ Completed |
+| **[NLP Text Preprocessor](./days/day-15)** | `NLTK`, `Regex`, `Data Cleaning` | ✅ Completed |
+| **[Teachable Machine AI](https://github.com/balaravi444 )** | `FastAPI`, `PyTorch`, `Streamlit` | 🛠️ In Progress |
+| **[Causal Insight Engine](https://github.com/balaravi444 )** | `Causal AI`, `Python`, `DoWhy` | 🛠️ In Progress |
+
 ---
 
 ## 📊 GitHub Stats
