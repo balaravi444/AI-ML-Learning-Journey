@@ -1,0 +1,14 @@
+{
+    "name": "Bala",
+    "roll_no": 101,
+    "marks": {
+        "Python": 85,
+        "Mathematics": 72,
+        "English": 90,
+        "Science": 65,
+        "Tamil": 78
+    },
+    "total": 390,
+    "percentage": 78.0,
+    "grade": "B"
+}
