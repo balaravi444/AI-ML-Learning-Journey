@@ -67,8 +67,8 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 16 | Working with JSON & CSV Files | [📝 Notes](days/day-16/notes.md) | [💻 Code](days/day-16/code) |
 | Day 17 | Python APIs — requests library | [📝 Notes](days/day-17/notes.md) | [💻 Code](days/day-17/code) |
 | Day 18 | Magic Methods & Operator Overloading | [📝 Notes](days/day-18/notes.md) | [💻 Code](days/day-18/code) |
-| Day 19 | Decorators & Generators |  [📝 Notes](days/day-19/notes.md) | [💻 Code](days/day-19/code) 
-| Day 20 | 🏗️ Project 1 — Student Report Card Generator | 🔒 Coming Soon | 🔒 Coming Soon |
+| Day 19 | Decorators & Generators |  [📝 Notes](days/day-19/notes.md) | [💻 Code](days/day-19/code) |
+| Day 20 | 🏗️ Project 1 — Student Report Card Generator |  [📝 Notes](days/day-20/notes.md) | [💻 Code](days/day-20/code) |
 
 ---
 
