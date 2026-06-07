@@ -9,7 +9,7 @@
 
 | # | Project | Concepts Used | Status |
 |---|---------|--------------|--------|
-| 1 | Student Report Card Generator | OOP, File Handling, Functions | 🔒 Coming Soon |
+| 1 | Student Report Card Generator | OOP, File Handling, Functions | ✅ Done |
 | 2 | Data Analysis on Real Dataset | Pandas, NumPy, Matplotlib | 🔒 Coming Soon |
 | 3 | House Price Predictor | ML, Regression, Scikit-learn | 🔒 Coming Soon |
 | 4 | Email Spam Classifier | ML, NLP, Classification | 🔒 Coming Soon |
