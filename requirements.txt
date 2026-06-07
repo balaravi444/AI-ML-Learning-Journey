@@ -1,0 +1,15 @@
+# Core Python Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Web & API
+fastapi>=0.100.0
+uvicorn>=0.22.0
+requests>=2.31.0
+streamlit>=1.24.0
+
+# AI & ML
+torch>=2.0.0
+scikit-learn>=1.2.0
+nltk>=3.8.0
