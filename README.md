@@ -33,15 +33,15 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 **Current Phase:** Python Foundations — OOP
 
 ---
+## 🗺️ Learning Roadmap
 
-## 🗺️ Roadmap Overview
-
-| Phase | Topics | Days | Status |
-|-------|--------|------|--------|
-| 🐍 Phase 1 | Python Foundations — Day 19/20 | Day 01–20 |✅ Done  |
-| 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | 🔒 Pending |
-| 🤖 Phase 3 | Machine Learning | Day 41–65 | 🔒 Pending |
-| 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | 🔒 Pending |
+- [x] Python Basics (Days 1–10)
+- [x] OOP, Modules & Advanced Python (Days 11–20)
+- [ ] Pandas & Data Visualization (Days 21–30)
+- [ ] Classical ML with Scikit-learn (Days 31–50)
+- [ ] First End-to-End ML Project (Day 50)
+- [ ] Deep Learning & Neural Networks (Days 51–70)
+- [ ] LLMs & AI Agents (Days 71–90)
 
 ---
 
