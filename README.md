@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-19%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-20%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -38,7 +38,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 | Phase | Topics | Days | Status |
 |-------|--------|------|--------|
-| 🐍 Phase 1 | Python Foundations — Day 19/20 | Day 01–20 | ⏳ In Progress |
+| 🐍 Phase 1 | Python Foundations — Day 19/20 | Day 01–20 |✅ Done  |
 | 🔢 Phase 2 | Math, DSA & Data Science | Day 21–40 | 🔒 Pending |
 | 🤖 Phase 3 | Machine Learning | Day 41–65 | 🔒 Pending |
 | 🧠 Phase 4 | Deep Learning & AI | Day 66–90 | 🔒 Pending |
