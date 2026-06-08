@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-20%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-21%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -69,6 +69,33 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 18 | Magic Methods & Operator Overloading | [📝 Notes](days/day-18/notes.md) | [💻 Code](days/day-18/code) |
 | Day 19 | Decorators & Generators |  [📝 Notes](days/day-19/notes.md) | [💻 Code](days/day-19/code) |
 | Day 20 | 🏗️ Project 1 — Student Report Card Generator |  [📝 Notes](days/day-20/notes.md) | [💻 Code](days/day-20/code) |
+
+
+## 🔢 Phase 2 — Math & DSA for AI (Days 21–40)
+*Goal: Build the problem-solving brain that ML interviews test*
+
+| Day | Topic | Status | Date |
+|-----|-------|--------|------|
+| Day 21 | DSA — Arrays, Searching & Sorting | [📝 Notes](days/day-21/notes.md) | [💻 Code](days/day-21/code) |
+| Day 22 | DSA — Stacks & Queues | 🔒 Pending | — |
+| Day 23 | DSA — Linked Lists | 🔒 Pending | — |
+| Day 24 | DSA — Hash Maps & Sets | 🔒 Pending | — |
+| Day 25 | DSA — Recursion & Backtracking | 🔒 Pending | — |
+| Day 26 | DSA — Trees & Binary Search Trees | 🔒 Pending | — |
+| Day 27 | DSA — Graphs Basics | 🔒 Pending | — |
+| Day 28 | DSA — Dynamic Programming Basics | 🔒 Pending | — |
+| Day 29 | Math — Linear Algebra (Vectors & Matrices) | 🔒 Pending | — |
+| Day 30 | Math — Statistics (Mean, Median, Std Dev) | 🔒 Pending | — |
+| Day 31 | Math — Probability & Distributions | 🔒 Pending | — |
+| Day 32 | Math — Calculus Basics (Gradients, Derivatives) | 🔒 Pending | — |
+| Day 33 | NumPy — Arrays, Operations, Broadcasting | 🔒 Pending | — |
+| Day 34 | NumPy — Linear Algebra with NumPy | 🔒 Pending | — |
+| Day 35 | Pandas — DataFrames, Reading CSV | 🔒 Pending | — |
+| Day 36 | Pandas — Data Cleaning & Manipulation | 🔒 Pending | — |
+| Day 37 | Matplotlib & Seaborn — Data Visualization | 🔒 Pending | — |
+| Day 38 | Exploratory Data Analysis (EDA) | 🔒 Pending | — |
+| Day 39 | Data Preprocessing & Feature Engineering | 🔒 Pending | — |
+| Day 40 | 🏗️ Project 2 — Data Analysis on Real Dataset | 🔒 Pending | — |
 
 ---
 
@@ -151,7 +178,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 20 |
+| 📅 Days Completed | 21 |
 | 💻 Programs Written | 76+ |
 | 📝 Topics Covered | 25+ |
 | 🏗️ Projects Built | 1 |
