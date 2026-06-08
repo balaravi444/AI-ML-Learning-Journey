@@ -27,7 +27,7 @@
 | Day 17 | Python APIs — requests library | ✅ Done | 04 June 2026 |
 | Day 18 | Magic Methods & Operator Overloading | ✅ Done | 05 June 2026 |
 | Day 19 | Decorators & Generators | ✅ Done | 06 June 2026 |
-| Day 20 | 🏗️ Project 1 — Student Report Card Generator | 🔒 Pending | — |
+| Day 20 | 🏗️ Project 1 — Student Report Card Generator |✅ Done | 07 June 2026 |
 
 ---
 
@@ -36,7 +36,7 @@
 
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
-| Day 21 | DSA — Arrays, Searching & Sorting | 🔒 Pending | — |
+| Day 21 | DSA — Arrays, Searching & Sorting | ✅ Done | 08 June 2026  |
 | Day 22 | DSA — Stacks & Queues | 🔒 Pending | — |
 | Day 23 | DSA — Linked Lists | 🔒 Pending | — |
 | Day 24 | DSA — Hash Maps & Sets | 🔒 Pending | — |
@@ -146,8 +146,8 @@
 |-----------|--------|
 | ✅ Started the journey publicly | ✅ Done |
 | ✅ Completed Python Basics (Day 1–10) | ✅ Done |
-| ⏳ Complete Python Advanced + OOP (Day 11–20) | ⏳ In Progress |
-| 🔒 Complete Phase 2 — Math & DSA | 🔒 Pending |
+| ⏳ Complete Python Advanced + OOP (Day 11–20) | ✅ Done |
+| 🔒 Complete Phase 2 — Math & DSA | ⏳ In Progress |
 | 🔒 Complete Phase 3 — Machine Learning | 🔒 Pending |
 | 🔒 Complete Phase 4 — Deep Learning & AI | 🔒 Pending |
 | 🔒 Build 8 projects for portfolio | 🔒 Pending |
@@ -160,7 +160,7 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 19 |
+| 📅 Days Completed | 21 |
 | 💻 Programs Written | 75 |
 | 📝 Topics Covered | 25+ |
 | 🏗️ Projects Built | 1 |
