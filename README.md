@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-21%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-22%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -77,7 +77,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
 | Day 21 | DSA — Arrays, Searching & Sorting | [📝 Notes](days/day-21/notes.md) | [💻 Code](days/day-21/code) |
-| Day 22 | DSA — Stacks & Queues | 🔒 Pending | — |
+| Day 22 | DSA — Stacks & Queues | [📝 Notes](days/day-22/notes.md) | [💻 Code](days/day-22/code) |
 | Day 23 | DSA — Linked Lists | 🔒 Pending | — |
 | Day 24 | DSA — Hash Maps & Sets | 🔒 Pending | — |
 | Day 25 | DSA — Recursion & Backtracking | 🔒 Pending | — |
@@ -178,8 +178,8 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 21 |
-| 💻 Programs Written | 76+ |
+| 📅 Days Completed | 22 |
+| 💻 Programs Written | 85+ |
 | 📝 Topics Covered | 25+ |
 | 🏗️ Projects Built | 1 |
 | ⭐ Target | AI Engineer by November 2026 |
