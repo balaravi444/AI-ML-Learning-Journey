@@ -160,8 +160,8 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 21 |
-| 💻 Programs Written | 75 |
+| 📅 Days Completed | 22 |
+| 💻 Programs Written | 85 |
 | 📝 Topics Covered | 25+ |
 | 🏗️ Projects Built | 1 |
 | 🎯 Target | AI Engineer Job in 6 months |
