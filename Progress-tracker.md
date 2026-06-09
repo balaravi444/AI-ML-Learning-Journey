@@ -37,7 +37,7 @@
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
 | Day 21 | DSA — Arrays, Searching & Sorting | ✅ Done | 08 June 2026  |
-| Day 22 | DSA — Stacks & Queues | 🔒 Pending | — |
+| Day 22 | DSA — Stacks & Queues |  ✅ Done | 09 June 2026 |
 | Day 23 | DSA — Linked Lists | 🔒 Pending | — |
 | Day 24 | DSA — Hash Maps & Sets | 🔒 Pending | — |
 | Day 25 | DSA — Recursion & Backtracking | 🔒 Pending | — |
