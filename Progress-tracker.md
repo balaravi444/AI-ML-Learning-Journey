@@ -38,7 +38,7 @@
 |-----|-------|--------|------|
 | Day 21 | DSA — Arrays, Searching & Sorting | ✅ Done | 08 June 2026  |
 | Day 22 | DSA — Stacks & Queues |  ✅ Done | 09 June 2026 |
-| Day 23 | DSA — Linked Lists | 🔒 Pending | — |
+| Day 23 | DSA — Linked Lists | ✅ Done | 10 June 2026 |
 | Day 24 | DSA — Hash Maps & Sets | 🔒 Pending | — |
 | Day 25 | DSA — Recursion & Backtracking | 🔒 Pending | — |
 | Day 26 | DSA — Trees & Binary Search Trees | 🔒 Pending | — |
@@ -160,8 +160,8 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 22 |
-| 💻 Programs Written | 85 |
+| 📅 Days Completed | 23 |
+| 💻 Programs Written | 85+ |
 | 📝 Topics Covered | 25+ |
 | 🏗️ Projects Built | 1 |
 | 🎯 Target | AI Engineer Job in 6 months |
