@@ -1,7 +1,7 @@
 # Day 23 — DSA: Linked Lists 🚀
 
 **Date:** 10 June 2026
-**Time Spent:** (add your hours)
+**Time Spent:** (4 hours)
 **Resource Used:** [LeetCode](https://leetcode.com/) | [CS50P](https://cs50.harvard.edu/python/)
 
 ---
