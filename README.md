@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-23%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-24%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -79,7 +79,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 21 | DSA — Arrays, Searching & Sorting | [📝 Notes](days/day-21/notes.md) | [💻 Code](days/day-21/code) |
 | Day 22 | DSA — Stacks & Queues | [📝 Notes](days/day-22/notes.md) | [💻 Code](days/day-22/code) |
 | Day 23 | DSA — Linked Lists | [📝 Notes](days/day-23/notes.md) | [💻 Code](days/day-23/code) |
-| Day 24 | DSA — Hash Maps & Sets | 🔒 Pending | — |
+| Day 24 | DSA — Hash Maps & Sets | [📝 Notes](days/day-24/notes.md) | [💻 Code](days/day-24/code) |
 | Day 25 | DSA — Recursion & Backtracking | 🔒 Pending | — |
 | Day 26 | DSA — Trees & Binary Search Trees | 🔒 Pending | — |
 | Day 27 | DSA — Graphs Basics | 🔒 Pending | — |
@@ -173,16 +173,6 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaravi444&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
-
-## 📈 Stats
-
-| Stat | Count |
-|------|-------|
-| 📅 Days Completed | 23 |
-| 💻 Programs Written | 85+ |
-| 📝 Topics Covered | 25+ |
-| 🏗️ Projects Built | 1 |
-| ⭐ Target | AI Engineer by November 2026 |
 
 ---
 
