@@ -40,8 +40,8 @@
 | Day 22 | Stacks & Queues | ✅ Done | 10 Jun 2026 |
 | Day 23 | Linked Lists | ✅ Done | 10 Jun 2026 |
 | Day 24 | Hash Maps & Sets | ✅ Done | 11 Jun 2026 |
-| Day 25 | Recursion & Backtracking | ⏳ Up Next | — |
-| Day 26 | Trees & Binary Search Trees | 🔒 Pending | — |
+| Day 25 | Recursion & Backtracking |  ✅ Done | 12 Jun 2026  |
+| Day 26 | Trees & Binary Search Trees |  ✅ Done | 13 Jun 2026  |
 | Day 27 | Graphs — BFS & DFS | 🔒 Pending | — |
 | Day 28 | Dynamic Programming Basics | 🔒 Pending | — |
 | Day 29 | 🏗️ Project 2 — Smart Autocomplete Engine | 🔒 Pending | — |
@@ -170,7 +170,7 @@
 
 | Stat | Count |
 |------|-------|
-| 📅 Days Completed | 24 |
+| 📅 Days Completed | 26 |
 | 💻 Programs Written | 100+ |
 | 🏗️ Projects Built | 1 |
 | 🎯 LeetCode Problems | 10+ |
