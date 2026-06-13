@@ -1,60 +1,67 @@
-# Program 3 — Recursive Binary Search
-# Day 25 — Recursion & Backtracking
+"""
+Day 25 — DSA: Recursion & Backtracking
+Topic: Permutations — LeetCode #46
+Date: 12 June 2026
+Author: Bala Ravi
 
-# ============================================
-# Iterative Binary Search (Day 21 version)
-# ============================================
-def binary_search_iterative(arr, target):
-    left  = 0
-    right = len(arr) - 1
+Difficulty: Medium
+Pattern: Backtracking
 
-    while left <= right:
-        mid = (left + right) // 2
-        if arr[mid] == target:
-            return mid
-        elif arr[mid] < target:
-            left = mid + 1
-        else:
-            right = mid - 1
-    return -1
+Generate all possible orderings of array!
 
+Time Complexity:  O(n! * n)
+Space Complexity: O(n)
 
-# ============================================
-# Recursive Binary Search — cleaner!
-# ============================================
-def binary_search_recursive(arr, target, left, right):
-    # Base case — not found!
-    if left > right:
-        return -1
-
-    mid = (left + right) // 2
-
-    # Found!
-    if arr[mid] == target:
-        return mid
-
-    # Search right half
-    elif arr[mid] < target:
-        return binary_search_recursive(arr, target, mid + 1, right)
-
-    # Search left half
-    else:
-        return binary_search_recursive(arr, target, left, mid - 1)
+Real World Connection:
+    Permutations used in:
+    - Testing all possible layer orderings in neural nets
+    - Finding optimal sequence in NLP
+    - Route optimization in logistics ML!
+"""
 
 
-# ============================================
-# Test both!
-# ============================================
-numbers = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+def permute(nums: list[int]) -> list[list[int]]:
+    """
+    Generate all permutations using backtracking.
 
-print("=== Iterative Binary Search ===")
-print(binary_search_iterative(numbers, 70))   # 6
-print(binary_search_iterative(numbers, 99))   # -1
+    Args:
+        nums: List of distinct integers
 
-print("\n=== Recursive Binary Search ===")
-print(binary_search_recursive(numbers, 70, 0, len(numbers)-1))   # 6
-print(binary_search_recursive(numbers, 99, 0, len(numbers)-1))   # -1
+    Returns:
+        All possible permutations
 
-# Complexity:
-# Time  → O(log n)  — same as iterative!
-# Space → O(log n)  — extra stack frames! (iterative is O(1))
+    Time Complexity: O(n! * n)
+    Space Complexity: O(n)
+    """
+    result = []
+
+    def backtrack(current: list, remaining: list) -> None:
+        # Base case — used all numbers
+        if not remaining:
+            result.append(current.copy())
+            return
+
+        for i in range(len(remaining)):
+            # Make choice
+            current.append(remaining[i])
+            new_remaining = remaining[:i] + remaining[i+1:]
+
+            # Recurse
+            backtrack(current, new_remaining)
+
+            # Backtrack
+            current.pop()
+
+    backtrack([], nums)
+    return result
+
+
+if __name__ == "__main__":
+    print("=== Permutations — LeetCode #46 ===")
+
+    nums = [1, 2, 3]
+    result = permute(nums)
+    print(f"Input: {nums}")
+    print(f"Total permutations: {len(result)}")
+    for perm in result:
+        print(f"  {perm}")
