@@ -43,7 +43,7 @@
 | Day 25 | Recursion & Backtracking |  ✅ Done | 12 Jun 2026  |
 | Day 26 | Trees & Binary Search Trees |  ✅ Done | 13 Jun 2026  |
 | Day 27 | Graphs — BFS & DFS |✅ Done | 14 Jun 2026  |
-| Day 28 | Dynamic Programming Basics | 🔒 Pending | — |
+| Day 28 | Dynamic Programming Basics | ✅ Done | 15 Jun 2026 |
 | Day 29 | 🏗️ Project 2 — Smart Autocomplete Engine | 🔒 Pending | — |
 | Day 30 | 🏗️ Project 2 — Complete & Deploy | 🔒 Pending | — |
 | Day 31 | Sliding Window Pattern | 🔒 Pending | — |
