@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-27%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-28%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -83,7 +83,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 25 | DSA — Recursion & Backtracking | [📝 Notes](days/day-25/notes.md) | [💻 Code](days/day-25/code) |
 | Day 26 | DSA — Trees & Binary Search Trees | [📝 Notes](days/day-26/notes.md) | [💻 Code](days/day-26/code)|
 | Day 27 | DSA — Graphs Basics | [📝 Notes](days/day-27/notes.md) | [💻 Code](days/day-27/code)|
-| Day 28 | DSA — Dynamic Programming Basics | 🔒 Pending | — |
+| Day 28 | DSA — Dynamic Programming Basics | [📝 Notes](days/day-28/notes.md) | [💻 Code](days/day-28/code) |
 | Day 29 | Math — Linear Algebra (Vectors & Matrices) | 🔒 Pending | — |
 | Day 30 | Math — Statistics (Mean, Median, Std Dev) | 🔒 Pending | — |
 | Day 31 | Math — Probability & Distributions | 🔒 Pending | — |
