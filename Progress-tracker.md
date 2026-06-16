@@ -44,8 +44,8 @@
 | Day 26 | Trees & Binary Search Trees |  ✅ Done | 13 Jun 2026  |
 | Day 27 | Graphs — BFS & DFS |✅ Done | 14 Jun 2026  |
 | Day 28 | Dynamic Programming Basics | ✅ Done | 15 Jun 2026 |
-| Day 29 | 🏗️ Project 2 — Smart Autocomplete Engine | 🔒 Pending | — |
-| Day 30 | 🏗️ Project 2 — Complete & Deploy | 🔒 Pending | — |
+| Day 29 | DSA — Advanced Patterns + ArthAI Launch | ✅ Done | 16 June 2026 |
+| Day 30 | 🏗️ ArthAI — Core Features Build | ⏳ Up Next | — |
 | Day 31 | Sliding Window Pattern | 🔒 Pending | — |
 | Day 32 | Two Pointers Pattern | 🔒 Pending | — |
 | Day 33 | Binary Search on Answer | 🔒 Pending | — |
