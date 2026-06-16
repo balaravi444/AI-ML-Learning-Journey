@@ -84,8 +84,8 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 26 | DSA — Trees & Binary Search Trees | [📝 Notes](days/day-26/notes.md) | [💻 Code](days/day-26/code)|
 | Day 27 | DSA — Graphs Basics | [📝 Notes](days/day-27/notes.md) | [💻 Code](days/day-27/code)|
 | Day 28 | DSA — Dynamic Programming Basics | [📝 Notes](days/day-28/notes.md) | [💻 Code](days/day-28/code) |
-| Day 29 | Math — Linear Algebra (Vectors & Matrices) | 🔒 Pending | — |
-| Day 30 | Math — Statistics (Mean, Median, Std Dev) | 🔒 Pending | — |
+| Day 29 | DSA — Advanced Patterns + ArthAI Launch | [📝 Notes](days/day-29/notes.md) | [💻 Code](days/day-29/code) |
+| Day 30 | 🏗️ project 2 ArthAI — Core Features Build | ⏳ Up Next | — |
 | Day 31 | Math — Probability & Distributions | 🔒 Pending | — |
 | Day 32 | Math — Calculus Basics (Gradients, Derivatives) | 🔒 Pending | — |
 | Day 33 | NumPy — Arrays, Operations, Broadcasting | 🔒 Pending | — |
@@ -95,7 +95,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 37 | Matplotlib & Seaborn — Data Visualization | 🔒 Pending | — |
 | Day 38 | Exploratory Data Analysis (EDA) | 🔒 Pending | — |
 | Day 39 | Data Preprocessing & Feature Engineering | 🔒 Pending | — |
-| Day 40 | 🏗️ Project 2 — Data Analysis on Real Dataset | 🔒 Pending | — |
+| Day 40 | 🏗️ Project 3 — Data Analysis on Real Dataset | 🔒 Pending | — |
 
 ---
 
@@ -123,7 +123,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
 | 1 | AI Learning Management System | OOP, File Handling | ✅ [View Project](projects/01_ai_learning_management_system/) |
-| 2 | Data Analysis on Real Dataset | Pandas, NumPy | 🔒 Coming Soon |
+| 2 | introducing ArthAI- Smart Financial Advisor | 🔒 coming up next |
 | 3 | House Price Predictor | ML, Regression | 🔒 Coming Soon |
 | 4 | Email Spam Classifier | NLP, Classification | 🔒 Coming Soon |
 | 5 | Sentiment Analyzer Web App | NLP, Flask | 🔒 Coming Soon |
