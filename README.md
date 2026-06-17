@@ -85,7 +85,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 27 | DSA — Graphs Basics | [📝 Notes](days/day-27/notes.md) | [💻 Code](days/day-27/code)|
 | Day 28 | DSA — Dynamic Programming Basics | [📝 Notes](days/day-28/notes.md) | [💻 Code](days/day-28/code) |
 | Day 29 | DSA — Advanced Patterns + ArthAI Launch | [📝 Notes](days/day-29/notes.md) | [💻 Code](days/day-29/code) |
-| Day 30 | 🏗️ project 2 ArthAI — Core Features Build | ⏳ Up Next | — |
+| Day 30 | 🏗️ ArthAI — Web Interface Complete | [📝 Notes](days/day-30/notes.md) | [💻 Code](projects/arthAI) |
 | Day 31 | Math — Probability & Distributions | 🔒 Pending | — |
 | Day 32 | Math — Calculus Basics (Gradients, Derivatives) | 🔒 Pending | — |
 | Day 33 | NumPy — Arrays, Operations, Broadcasting | 🔒 Pending | — |
@@ -123,7 +123,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
 | 1 | AI Learning Management System | OOP, File Handling | ✅ [View Project](projects/01_ai_learning_management_system/) |
-| 2 | introducing ArthAI- Smart Financial Advisor | 🔒 coming up next |
+| 2 | ArthAI — Smart Financial Advisor | DSA, FastAPI, Financial Math | ✅ v1.0 Live |
 | 3 | House Price Predictor | ML, Regression | 🔒 Coming Soon |
 | 4 | Email Spam Classifier | NLP, Classification | 🔒 Coming Soon |
 | 5 | Sentiment Analyzer Web App | NLP, Flask | 🔒 Coming Soon |
