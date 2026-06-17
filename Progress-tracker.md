@@ -138,7 +138,7 @@
 | # | Project | Problem Solved | Skills | Status |
 |---|---------|---------------|--------|--------|
 | 1 | AI Learning Management System | Track student progress | OOP, File Handling | ✅ Done |
-| 2 | Smart Autocomplete Engine | Fast text suggestions | DSA, Trie, Hash Map | 🔒 Day 29 |
+| 2 | Smart Autocomplete Engine | Fast text suggestions | DSA, Trie, Hash Map |  ✅ Done |
 | 3 | Indian Job Market Analyzer | Job market insights | Pandas, EDA, Visualization | 🔒 Day 47 |
 | 4 | Student Performance Predictor | Predict student success | ML, Scikit-learn, Flask | 🔒 Day 59 |
 | 5 | AI Hiring Assistant | Automate resume screening | NLP, ML, Deployment | 🔒 Day 69 |
