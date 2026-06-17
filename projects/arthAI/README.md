@@ -65,6 +65,42 @@ Deploy   → Render(free!)
 - [ ] Web Interface (coming soon)
 
 ---
+## 📸 Screenshots
+
+### Smart Budget Planner
+![Budget Planner](screenshots/01_budget_planner.png)
+*AI-generated budget based on 50/30/20 rule customized for Indian income levels*
+
+### EMI Calculator
+![EMI Calculator](screenshots/02_emi_calculator.png)
+*Complete loan analysis with amortization schedule*
+
+### SIP Investment Planner
+![SIP Calculator](screenshots/03_sip_calculator.png)
+*Binary search algorithm finds minimum SIP needed for any goal*
+
+### Retirement Planner
+![Retirement Planner](screenshots/04_retirement_planner.png)
+*Inflation-adjusted retirement corpus calculation*
+
+### Tax Saving Calculator
+![Tax Calculator](screenshots/05_tax_calculator.png)
+*India-specific tax optimization under 80C, 80D, NPS*
+
+---
+
+
+
+## 💻 Run Locally
+
+```bash
+git clone https://github.com/balaravi444/AI-ML-Learning-Journey
+cd projects/arthAI
+pip install -r requirements.txt
+uvicorn app:app --reload
+```
+
+Visit `http://localhost:8000`
 
 *Built by Balaravi — Day 29 of AI/ML Journey*
 *github.com/balaravi444/AI-ML-Learning-Journey*
