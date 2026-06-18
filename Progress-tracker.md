@@ -46,7 +46,7 @@
 | Day 28 | Dynamic Programming Basics | ✅ Done | 15 Jun 2026 |
 | Day 29 | DSA — Advanced Patterns + ArthAI Launch | ✅ Done | 16 June 2026 |
 | Day 30 | 🏗️ ArthAI — Web Interface Complete | ✅ Done | 17 June 2026 |
-| Day 31 | Sliding Window Pattern | 🔒 Pending | — |
+| Day 31 | 🏗️ ArthAI — Deployed Live + Goal Planner | ✅ Done | 18 June 2026 |
 | Day 32 | Two Pointers Pattern | 🔒 Pending | — |
 | Day 33 | Binary Search on Answer | 🔒 Pending | — |
 | Day 34 | 🏗️ Project 3 — Route Finder | 🔒 Pending | — |
