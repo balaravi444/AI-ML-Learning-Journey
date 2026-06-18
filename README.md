@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-29%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-31%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -86,7 +86,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 28 | DSA — Dynamic Programming Basics | [📝 Notes](days/day-28/notes.md) | [💻 Code](days/day-28/code) |
 | Day 29 | DSA — Advanced Patterns + ArthAI Launch | [📝 Notes](days/day-29/notes.md) | [💻 Code](days/day-29/code) |
 | Day 30 | 🏗️ ArthAI — Web Interface Complete | [📝 Notes](days/day-30/notes.md) | [💻 Code](projects/arthAI) |
-| Day 31 | Math — Probability & Distributions | 🔒 Pending | — |
+| Day 31 | 🏗️ ArthAI — Deployed Live + Goal Planner | [📝 Notes](days/day-31/notes.md) | [💻 Code](projects/arthAI) |
 | Day 32 | Math — Calculus Basics (Gradients, Derivatives) | 🔒 Pending | — |
 | Day 33 | NumPy — Arrays, Operations, Broadcasting | 🔒 Pending | — |
 | Day 34 | NumPy — Linear Algebra with NumPy | 🔒 Pending | — |
