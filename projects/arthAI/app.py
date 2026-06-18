@@ -9,6 +9,7 @@ from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
+from modules.goal_planner import generate_goal_report
 from pydantic import BaseModel
 from modules.financial_utils import (
     calculate_emi,
@@ -54,6 +55,16 @@ class TaxRequest(BaseModel):
     investment_80c: float = 0
     health_insurance: float = 0
     nps: float = 0
+class Goal(BaseModel):
+    name: str
+    target_amount: float
+    years: int
+    priority: int
+
+
+class GoalPlannerRequest(BaseModel):
+    goals: list[Goal]
+    monthly_savings: float
 
 
 # ===== Routes =====
@@ -130,6 +141,27 @@ async def get_tax_savings(data: TaxRequest):
     result = calculate_tax_savings(
         data.annual_income, investments)
     return result
+    
+@app.post("/api/goals")
+async def get_goal_plan(data: GoalPlannerRequest):
+    """Calculate optimized multi-goal plan."""
+    from modules.financial_utils import find_minimum_sip
+
+    goals_with_amounts = []
+    for g in data.goals:
+        monthly = find_minimum_sip(g.target_amount, 10, g.years)
+        goals_with_amounts.append({
+            "name": g.name,
+            "target_amount": g.target_amount,
+            "years": g.years,
+            "priority": g.priority,
+            "monthly_required": monthly
+        })
+
+    report = generate_goal_report(
+        goals_with_amounts, data.monthly_savings)
+    return report
+
 
 
 if __name__ == "__main__":
