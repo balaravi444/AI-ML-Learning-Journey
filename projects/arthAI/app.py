@@ -11,6 +11,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 from modules.goal_planner import generate_goal_report
 from pydantic import BaseModel
+nfrom modules.ai_advisor import get_ai_response
 from modules.financial_utils import (
     calculate_emi,
     total_interest_paid,
@@ -161,7 +162,24 @@ async def get_goal_plan(data: GoalPlannerRequest):
     report = generate_goal_report(
         goals_with_amounts, data.monthly_savings)
     return report
+from modules.ai_advisor import get_ai_response
 
+
+class ChatRequest(BaseModel):
+    question: str
+    user_data: dict = None
+    chat_history: list = None
+
+
+@app.post("/api/chat")
+async def chat_with_arthai(data: ChatRequest):
+    """AI-powered financial advice chatbot."""
+    response = get_ai_response(
+        data.question,
+        data.user_data,
+        data.chat_history
+    )
+    return {"response": response}
 
 
 if __name__ == "__main__":
