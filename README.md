@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-34%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-35%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -87,9 +87,9 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 29 | DSA — Advanced Patterns + ArthAI Launch | [📝 Notes](days/day-29/notes.md) | [💻 Code](days/day-29/code) |
 | Day 30 | 🏗️ ArthAI — Web Interface Complete | [📝 Notes](days/day-30/notes.md) | [💻 Code](projects/arthAI) |
 | Day 31 | 🏗️ ArthAI — Deployed Live + Goal Planner | [📝 Notes](days/day-31/notes.md) | [💻 Code](projects/arthAI) |
-| Day 32 | Math — Calculus Basics (Gradients, Derivatives) | 🔒 Pending | — |
-| Day 33 | NumPy — Arrays, Operations, Broadcasting | 🔒 Pending | — |
-| Day 34 | NumPy — Linear Algebra with NumPy | 🔒 Pending | — |
+| Day 32 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | [📝 Notes](days/day-32/notes.md) | [💻 Code](projects/arthAI) |
+| Day 33 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | [📝 Notes](days/day-33/notes.md) | [💻 Code](projects/arthAI) |
+| Day 34 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | [📝 Notes](days/day-34/notes.md) | [💻 Code](projects/arthAI) |
 | Day 35 | Pandas — DataFrames, Reading CSV | 🔒 Pending | — |
 | Day 36 | Pandas — Data Cleaning & Manipulation | 🔒 Pending | — |
 | Day 37 | Matplotlib & Seaborn — Data Visualization | 🔒 Pending | — |
