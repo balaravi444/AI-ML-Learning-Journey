@@ -47,10 +47,11 @@
 | Day 29 | DSA — Advanced Patterns + ArthAI Launch | ✅ Done | 16 June 2026 |
 | Day 30 | 🏗️ ArthAI — Web Interface Complete | ✅ Done | 17 June 2026 |
 | Day 31 | 🏗️ ArthAI — Deployed Live + Goal Planner | ✅ Done | 18 June 2026 |
-| Day 32 | Two Pointers Pattern | 🔒 Pending | — |
-| Day 33 | Binary Search on Answer | 🔒 Pending | — |
-| Day 34 | 🏗️ Project 3 — Route Finder | 🔒 Pending | — |
-| Day 35 | 🏗️ Project 3 — Complete & Deploy | 🔒 Pending | — |
+| Day 32 | 🏗️ ArthAI — AI Chatbot with Gemini LLM | ✅ Done | 19 June 2026 |
+| Day 33 | 🏗️ ArthAI — Portfolio Tracker & Risk Analysis | ✅ Done | 20 June 2026 |
+| Day 34 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | ✅ Done | 21 June 2026 |
+| Day 35 | DSA Complete Review + Phase 2 Wrap-Up | ✅ Done | 22 June 2026 |
+
 
 ---
 
@@ -59,7 +60,7 @@
 
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
-| Day 36 | NumPy — Arrays & Operations | 🔒 Pending | — |
+| Day 36 | NumPy — Arrays & Operations | ✅ Done | 23 June 2026 |
 | Day 37 | NumPy — Linear Algebra | 🔒 Pending | — |
 | Day 38 | Pandas — DataFrames & Reading CSV | 🔒 Pending | — |
 | Day 39 | Pandas — Data Cleaning & Manipulation | 🔒 Pending | — |
@@ -149,13 +150,11 @@
 
 ## 🏆 Milestone Tracker
 
-| Milestone | Status |
-|-----------|--------|
 | ✅ Complete Python Foundations | ✅ Done |
 | ✅ Build first real project | ✅ Done |
-| ⏳ Complete DSA Phase | ⏳ Day 30/35 |
-| 🔒 Build Smart Autocomplete Engine | ✅ Done |
-| 🔒 Complete Data Science Phase | 🔒 Pending |
+| ✅ Complete DSA Phase | ✅ Done — Day 35 |
+| ✅ Build ArthAI — Smart Financial Advisor | ✅ Done — Day 34 |
+| ⏳ Complete Data Science Phase | ⏳ Day 36/50 |
 | 🔒 Build Indian Job Market Analyzer | 🔒 Day 47 |
 | 🔒 Complete ML Phase | 🔒 Pending |
 | 🔒 Build AI Hiring Assistant | 🔒 Day 69 |
@@ -164,15 +163,13 @@
 | 🔒 Apply for AI Engineer jobs | 🔒 Day 90 |
 | 🔒 Land first AI Engineer job 🎉 | 🔒 Target Nov 2026 |
 
----
-
 
 ## ⏱️ 6 Month Timeline
 
 | Month | Phase | Goal |
 |-------|-------|------|
 | Month 1 (May) | Phase 1 | Python mastery ✅ |
-| Month 2 (Jun) | Phase 2 | DSA + 2 projects |
+| Month 2 (Jun) | Phase 2 | DSA + 2 projects ✅ |
 | Month 3 (Jul) | Phase 3 | Data Science + Job Analyzer |
 | Month 4 (Aug) | Phase 4 Part 1 | ML + Student Predictor |
 | Month 5 (Sep) | Phase 4 Part 2 | NLP + AI Hiring Assistant |
