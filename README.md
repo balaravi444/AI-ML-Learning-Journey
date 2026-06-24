@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-35%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-36%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -37,7 +37,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 
 - [x] Python Basics (Days 1–10)
 - [x] OOP, Modules & Advanced Python (Days 11–20)
-- [ ] Pandas & Data Visualization (Days 21–30)
+- [x] Pandas & Data Visualization (Days 21–30)
 - [ ] Classical ML with Scikit-learn (Days 31–50)
 - [ ] First End-to-End ML Project (Day 50)
 - [ ] Deep Learning & Neural Networks (Days 51–70)
