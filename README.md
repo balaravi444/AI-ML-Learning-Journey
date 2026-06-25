@@ -92,7 +92,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 34 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | [📝 Notes](days/day-34/notes.md) | [💻 Code](projects/arthAI) |
 | Day 36 | NumPy — Arrays & Operations | [📝 Notes](days/day-35/notes.md) | [💻 Code](days/day-35/code) |
 | Day 36 | NumPy — Arrays & Operations | [📝 Notes](days/day-36/notes.md) | [💻 Code](days/day-36/code) |
-| Day 37 | Matplotlib & Seaborn — Data Visualization | 🔒 Pending | — |
+| Day 37 | NumPy — Linear Algebra | [📝 Notes](days/day-37/notes.md) | [💻 Code](days/day-37/code) |
 | Day 38 | Exploratory Data Analysis (EDA) | 🔒 Pending | — |
 | Day 39 | Data Preprocessing & Feature Engineering | 🔒 Pending | — |
 | Day 40 | 🏗️ Project 3 — Data Analysis on Real Dataset | 🔒 Pending | — |
