@@ -61,7 +61,7 @@
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
 | Day 36 | NumPy — Arrays & Operations | ✅ Done | 23 June 2026 |
-| Day 37 | NumPy — Linear Algebra | 🔒 Pending | — |
+| Day 37 | NumPy — Linear Algebra | ✅ Done | 24 June 2026 |
 | Day 38 | Pandas — DataFrames & Reading CSV | 🔒 Pending | — |
 | Day 39 | Pandas — Data Cleaning & Manipulation | 🔒 Pending | — |
 | Day 40 | Pandas — GroupBy & Aggregations | 🔒 Pending | — |
