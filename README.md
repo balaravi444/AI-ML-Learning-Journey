@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-37%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-38%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -93,7 +93,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 36 | NumPy — Arrays & Operations | [📝 Notes](days/day-35/notes.md) | [💻 Code](days/day-35/code) |
 | Day 36 | NumPy — Arrays & Operations | [📝 Notes](days/day-36/notes.md) | [💻 Code](days/day-36/code) |
 | Day 37 | NumPy — Linear Algebra | [📝 Notes](days/day-37/notes.md) | [💻 Code](days/day-37/code) |
-| Day 38 | Exploratory Data Analysis (EDA) | 🔒 Pending | — |
+| Day 38 | Pandas — DataFrames | [📝 Notes](days/day-38/notes.md) | [💻 Code](days/day-38/code) |
 | Day 39 | Data Preprocessing & Feature Engineering | 🔒 Pending | — |
 | Day 40 | 🏗️ Project 3 — Data Analysis on Real Dataset | 🔒 Pending | — |
 
