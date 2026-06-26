@@ -1,7 +1,7 @@
 # Day 36 — NumPy: Arrays & Operations 🚀
 
 **Date:** 23 June 2026
-**Time Spent:** (add your hours)
+**Time Spent:** (3.30 hours)
 **Resource Used:** [NumPy Docs](https://numpy.org/doc/) | [Kaggle NumPy](https://www.kaggle.com/learn)
 
 ---
