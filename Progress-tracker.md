@@ -61,9 +61,9 @@
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
 | Day 36 | NumPy — Arrays & Operations | ✅ Done | 23 June 2026 |
-| Day 37 | NumPy — Linear Algebra | ✅ Done | 24 June 2026 |
-| Day 38 | Pandas — DataFrames | ✅ Done | 25 June 2026 |
-| Day 39 | Pandas — Data Cleaning & Manipulation | 🔒 Pending | — |
+| Day 37 | NumPy — Linear Algebra | ✅ Done | 25 June 2026 |
+| Day 38 | Pandas — DataFrames | ✅ Done | 26 June 2026 |
+| Day 39 | Pandas — Data Cleaning | ✅ Done | 27 June 2026 |
 | Day 40 | Pandas — GroupBy & Aggregations | 🔒 Pending | — |
 | Day 41 | Matplotlib — Basic Charts | 🔒 Pending | — |
 | Day 42 | Seaborn — Statistical Visualization | 🔒 Pending | — |
