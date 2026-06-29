@@ -65,7 +65,7 @@
 | Day 38 | Pandas — DataFrames | ✅ Done | 26 June 2026 |
 | Day 39 | Pandas — Data Cleaning | ✅ Done | 27 June 2026 |
 | Day 40 | Pandas — GroupBy & Aggregations | ✅ Done | 27 June 2026 |
-| Day 41 | Matplotlib — Basic Charts | 🔒 Pending | — |
+| Day 41 | Matplotlib — Data Visualization | ✅ Done | 28 June 2026 |
 | Day 42 | Seaborn — Statistical Visualization | 🔒 Pending | — |
 | Day 43 | EDA — Exploratory Data Analysis | 🔒 Pending | — |
 | Day 44 | Feature Engineering | 🔒 Pending | — |
