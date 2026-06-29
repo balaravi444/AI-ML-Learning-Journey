@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-40%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-41%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -96,6 +96,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 38 | Pandas — DataFrames | [📝 Notes](days/day-38/notes.md) | [💻 Code](days/day-38/code) |
 | Day 39 | Pandas — Data Cleaning | [📝 Notes](days/day-39/notes.md) | [💻 Code](days/day-39/code) |
 | Day 40 | Pandas — GroupBy & Aggregations | [📝 Notes](days/day-40/notes.md) | [💻 Code](days/day-40/code) |
+| Day 41 | Matplotlib — Data Visualization | [📝 Notes](days/day-41/notes.md) | [💻 Code](days/day-41/code) |
 
 ---
 
