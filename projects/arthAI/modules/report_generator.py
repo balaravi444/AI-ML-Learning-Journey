@@ -1,0 +1,209 @@
+"""
+ArthAI — PDF Report Generator
+Combines all module outputs into downloadable PDF.
+
+Author: Bala Ravi
+Date: 21 June 2026
+"""
+from io import BytesIO
+from modules.financial_utils import (
+    smart_budget_plan,
+    retirement_corpus_needed,
+    calculate_tax_savings
+)
+
+
+def generate_complete_report(user_data: dict) -> dict:
+    """
+    Orchestrate all ArthAI modules into one report.
+
+    Args:
+        user_data: Complete user financial profile
+
+    Returns:
+        Combined report data from all modules
+    """
+    income = user_data.get('monthly_income', 35000)
+    age = user_data.get('age', 25)
+    retirement_age = user_data.get('retirement_age', 60)
+
+    budget = smart_budget_plan(income)
+
+    retirement = retirement_corpus_needed(
+        age, retirement_age, income * 0.7)
+
+    tax = None
+    if user_data.get('annual_income'):
+        tax = calculate_tax_savings(
+            user_data['annual_income'],
+            {
+                '80c_investments': user_data.get(
+                    'investment_80c', 0),
+                'health_insurance': user_data.get(
+                    'health_insurance', 0),
+                'nps': user_data.get('nps', 0)
+            }
+        )
+
+    return {
+        "user_profile": user_data,
+        "budget": budget,
+        "retirement": retirement,
+        "tax": tax
+    }
+
+
+def generate_pdf_report(report_data: dict) -> BytesIO:
+    """
+    Generate complete PDF report from report data.
+    Uses BytesIO for in-memory generation —
+    no disk I/O, works well in production!
+
+    Args:
+        report_data: Combined data from all modules
+
+    Returns:
+        BytesIO buffer containing PDF
+    """
+    try:
+        from reportlab.lib.pagesizes import A4
+        from reportlab.lib.colors import HexColor
+        from reportlab.pdfgen import canvas
+
+        GREEN = HexColor("#059669")
+        DARK = HexColor("#0f172a")
+        GRAY = HexColor("#64748b")
+        WHITE = HexColor("#ffffff")
+
+        buffer = BytesIO()
+        c = canvas.Canvas(buffer, pagesize=A4)
+
+        # Header
+        c.setFillColor(GREEN)
+        c.rect(0, 780, 595, 62, fill=True, stroke=False)
+        c.setFillColor(WHITE)
+        c.setFont("Helvetica-Bold", 22)
+        c.drawString(50, 815, "ArthAI")
+        c.setFont("Helvetica", 11)
+        c.drawString(50, 795, "Your Personal Financial Report")
+
+        y = 750
+
+        def draw_section(title: str) -> int:
+            nonlocal y
+            y -= 10
+            c.setFillColor(GREEN)
+            c.setFont("Helvetica-Bold", 13)
+            c.drawString(50, y, title)
+            c.setStrokeColor(GREEN)
+            c.line(50, y - 4, 545, y - 4)
+            y -= 25
+            return y
+
+        def draw_row(label: str, value: str) -> int:
+            nonlocal y
+            c.setFillColor(GRAY)
+            c.setFont("Helvetica", 11)
+            c.drawString(60, y, label)
+            c.setFillColor(DARK)
+            c.setFont("Helvetica-Bold", 11)
+            c.drawRightString(540, y, value)
+            y -= 20
+            return y
+
+        # Budget Section
+        draw_section("💰 Smart Budget Plan")
+        budget = report_data['budget']
+        draw_row("Monthly Income",
+                 f"₹{budget['monthly_income']:,}")
+        draw_row("Needs (Essential)",
+                 f"₹{budget['needs']['amount']:,} "
+                 f"({budget['needs']['percentage']}%)")
+        draw_row("Wants (Lifestyle)",
+                 f"₹{budget['wants']['amount']:,} "
+                 f"({budget['wants']['percentage']}%)")
+        draw_row("Savings (Investments)",
+                 f"₹{budget['savings']['amount']:,} "
+                 f"({budget['savings']['percentage']}%)")
+
+        # Retirement Section
+        draw_section("👴 Retirement Plan")
+        retirement = report_data['retirement']
+        draw_row("Years to Retirement",
+                 f"{retirement['years_to_retire']} years")
+        draw_row("Future Monthly Expenses",
+                 f"₹{retirement['future_monthly_expenses']:,}")
+        draw_row("Corpus Needed",
+                 f"₹{retirement['corpus_needed']:,}")
+        draw_row("Required Monthly SIP",
+                 f"₹{retirement['monthly_sip_required']:,}")
+
+        # Tax Section
+        if report_data.get('tax'):
+            draw_section("🛡️ Tax Savings")
+            tax = report_data['tax']
+            draw_row("Annual Income",
+                     f"₹{tax['annual_income']:,}")
+            draw_row("Total Deductions",
+                     f"₹{tax['total_deductions']:,}")
+            draw_row("Tax Payable",
+                     f"₹{tax['tax_payable']:,.0f}")
+            draw_row("Tax Saved",
+                     f"₹{tax['tax_saved']:,.0f}")
+
+        # Footer
+        c.setFillColor(GRAY)
+        c.setFont("Helvetica-Oblique", 9)
+        c.drawString(
+            50, 50,
+            "Generated by ArthAI — Smart Financial "
+            "Advisor for Every Indian")
+        c.drawString(
+            50, 38,
+            "Note: This is general guidance. Consult a "
+            "SEBI registered advisor for personalized advice.")
+
+        c.save()
+        buffer.seek(0)
+        return buffer
+
+    except ImportError:
+        # Fallback: return simple text as bytes
+        content = _generate_text_report(report_data)
+        buffer = BytesIO(content.encode('utf-8'))
+        buffer.seek(0)
+        return buffer
+
+
+def _generate_text_report(report_data: dict) -> str:
+    """Fallback text report if ReportLab not available."""
+    budget = report_data['budget']
+    retirement = report_data['retirement']
+
+    lines = [
+        "=" * 50,
+        "ARTHAI — PERSONAL FINANCIAL REPORT",
+        "=" * 50,
+        "",
+        "BUDGET PLAN",
+        f"Monthly Income: ₹{budget['monthly_income']:,}",
+        f"Needs: ₹{budget['needs']['amount']:,}",
+        f"Wants: ₹{budget['wants']['amount']:,}",
+        f"Savings: ₹{budget['savings']['amount']:,}",
+        "",
+        "RETIREMENT PLAN",
+        f"Corpus Needed: ₹{retirement['corpus_needed']:,}",
+        f"Monthly SIP: ₹{retirement['monthly_sip_required']:,}",
+        "",
+        "Note: Consult a SEBI registered advisor.",
+        "=" * 50
+    ]
+
+    if report_data.get('tax'):
+        tax = report_data['tax']
+        lines.insert(-2, "")
+        lines.insert(-2, "TAX SAVINGS")
+        lines.insert(-2,
+                     f"Tax Saved: ₹{tax['tax_saved']:,.0f}")
+
+    return "\n".join(lines)
