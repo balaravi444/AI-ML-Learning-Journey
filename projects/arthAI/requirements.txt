@@ -6,3 +6,4 @@ pydantic>=2.11.0
 python-dotenv>=1.1.0
 google-genai>=1.16.0
 reportlab>=4.4.0
+gunicorn
