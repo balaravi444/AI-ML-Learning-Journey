@@ -20,7 +20,7 @@ completely FREE, from ₹15,000 salary to ₹1,50,000 salary.
 
 ## 🚀 Live Demo
 
-👉 **[Try ArthAI Live](https://arthai.onrender.com)** ← Add your Render URL here
+👉 **[Try ArthAI Live](https://arth-ai-i51f.onrender.com)** 
 
 ---
 
