@@ -164,7 +164,22 @@ entropy = -sum(w * log2(w) for w in weights if w > 0)
 
 ## 📸 Screenshots
 
-> Add screenshots after running locally
+## Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### SIP Planner
+![SIP Planner](screenshots/sip-planner.png)
+
+### Tax Planner
+![Tax Planner](screenshots/tax-planner.png)
+
+### EMI Analyzer
+![EMI Analyzer](screenshots/emi-analyzer.png)
+
+### Retirement Planner
+![Retirement Planner](screenshots/retirement-planner.png)
 
 ---
 
