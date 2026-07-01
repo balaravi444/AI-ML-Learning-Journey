@@ -1,7 +1,7 @@
 # Day 43 — EDA: Exploratory Data Analysis 🚀
 
 **Date:** 30 June 2026
-**Time Spent:** (3 hours)
+**Time Spent:** (4 hours)
 **Resource Used:** [Kaggle Learn](https://www.kaggle.com/learn) | [Pandas Docs](https://pandas.pydata.org/docs/)
 
 ---
