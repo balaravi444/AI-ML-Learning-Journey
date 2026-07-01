@@ -67,7 +67,7 @@
 | Day 40 | Pandas — GroupBy & Aggregations | ✅ Done | 27 June 2026 |
 | Day 41 | Matplotlib — Data Visualization | ✅ Done | 28 June 2026 |
 | Day 42 | Seaborn — Statistical Visualization | ✅ Done | 29 June 2026 |
-| Day 43 | EDA — Exploratory Data Analysis | 🔒 Pending | — |
+| Day 43 | EDA — Exploratory Data Analysis | ✅ Done | 30 June 2026 |
 | Day 44 | Feature Engineering | 🔒 Pending | — |
 | Day 45 | Data Preprocessing Pipeline | 🔒 Pending | — |
 | Day 46 | Statistics for ML | 🔒 Pending | — |
