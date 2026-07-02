@@ -64,11 +64,11 @@
 | Day 37 | NumPy — Linear Algebra | ✅ Done | 25 June 2026 |
 | Day 38 | Pandas — DataFrames | ✅ Done | 26 June 2026 |
 | Day 39 | Pandas — Data Cleaning | ✅ Done | 27 June 2026 |
-| Day 40 | Pandas — GroupBy & Aggregations | ✅ Done | 27 June 2026 |
-| Day 41 | Matplotlib — Data Visualization | ✅ Done | 28 June 2026 |
-| Day 42 | Seaborn — Statistical Visualization | ✅ Done | 29 June 2026 |
-| Day 43 | EDA — Exploratory Data Analysis | ✅ Done | 30 June 2026 |
-| Day 44 | Feature Engineering | 🔒 Pending | — |
+| Day 40 | Pandas — GroupBy & Aggregations | ✅ Done | 28 June 2026 |
+| Day 41 | Matplotlib — Data Visualization | ✅ Done | 29 June 2026 |
+| Day 42 | Seaborn — Statistical Visualization | ✅ Done | 30 June 2026 |
+| Day 43 | EDA — Exploratory Data Analysis | ✅ Done | 01 June 2026 |
+| Day 44 | Feature Engineering | ✅ Done | 02 July 2026 |
 | Day 45 | Data Preprocessing Pipeline | 🔒 Pending | — |
 | Day 46 | Statistics for ML | 🔒 Pending | — |
 | Day 47 | 🏗️ Project 3 — Indian Job Market Analyzer | 🔒 Pending | — |
