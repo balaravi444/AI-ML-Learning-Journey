@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-44%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-45%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -100,6 +100,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 42 | Seaborn — Statistical Visualization | [📝 Notes](days/day-42/notes.md) | [💻 Code](days/day-42/code) |
 | Day 43 | EDA — Exploratory Data Analysis | [📝 Notes](days/day-43/notes.md) | [💻 Code](days/day-43/code) |
 | Day 44 | Feature Engineering | [📝 Notes](days/day-44/notes.md) | [💻 Code](days/day-44/code) |
+| Day 45 | Statistics for ML | [📝 Notes](days/day-45/notes.md) | [💻 Code](days/day-45/code) |
 ---
 
 
