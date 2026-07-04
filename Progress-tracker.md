@@ -70,7 +70,7 @@
 | Day 43 | EDA — Exploratory Data Analysis | ✅ Done | 01 June 2026 |
 | Day 44 | Feature Engineering | ✅ Done | 02 July 2026 |
 | Day 45 | Statistics for ML | ✅ Done | 03 July 2026 |
-| Day 46 | Statistics for ML | 🔒 Pending | — |
+| Day 46 | Data Preprocessing Pipeline | ✅ Done | 05 July 2026 |
 | Day 47 | 🏗️ Project 3 — Indian Job Market Analyzer | 🔒 Pending | — |
 | Day 48 | 🏗️ Project 3 — Build & Analyze | 🔒 Pending | — |
 | Day 49 | 🏗️ Project 3 — Visualize & Report | 🔒 Pending | — |
