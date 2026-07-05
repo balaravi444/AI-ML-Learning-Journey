@@ -71,7 +71,7 @@
 | Day 44 | Feature Engineering | ✅ Done | 02 July 2026 |
 | Day 45 | Statistics for ML | ✅ Done | 03 July 2026 |
 | Day 46 | Data Preprocessing Pipeline | ✅ Done | 05 July 2026 |
-| Day 47 | 🏗️ Project 3 — Indian Job Market Analyzer | 🔒 Pending | — |
+| Day 47 | 🏗️ Indian Job Market Analyzer — Project Start | ✅ Done | 04 July 2026 |
 | Day 48 | 🏗️ Project 3 — Build & Analyze | 🔒 Pending | — |
 | Day 49 | 🏗️ Project 3 — Visualize & Report | 🔒 Pending | — |
 | Day 50 | 🏗️ Project 3 — Complete & Deploy | 🔒 Pending | — |
