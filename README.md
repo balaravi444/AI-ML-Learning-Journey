@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Day](https://img.shields.io/badge/Day-46%20of%2090-blue)
+![Day](https://img.shields.io/badge/Day-47%20of%2090-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
 ![Started](https://img.shields.io/badge/Started-May%202026-purple)
@@ -102,6 +102,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 44 | Feature Engineering | [📝 Notes](days/day-44/notes.md) | [💻 Code](days/day-44/code) |
 | Day 45 | Statistics for ML | [📝 Notes](days/day-45/notes.md) | [💻 Code](days/day-45/code) |
 | Day 46 | Data Preprocessing Pipeline | [📝 Notes](days/day-46/notes.md) | [💻 Code](days/day-46/code) |
+| Day 47 | 🏗️ Indian Job Market Analyzer — Project Start | [📝 Notes](days/day-47/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
 ---
 
 
@@ -129,7 +130,7 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 |---|---------|--------|--------|
 | 1 | AI Learning Management System | OOP, File Handling | ✅ [View Project](projects/01_ai_learning_management_system/) |
 | 2 | ArthAI — Smart Financial Advisor | DSA, FastAPI, Financial Math | ✅ v1.0 Live |
-| 3 | House Price Predictor | ML, Regression | 🔒 Coming Soon |
+| 3 | Indian Job Market Analyzer | Pandas, NumPy, SciPy, FastAPI | 🚧 In Progress |
 | 4 | Email Spam Classifier | NLP, Classification | 🔒 Coming Soon |
 | 5 | Sentiment Analyzer Web App | NLP, Flask | 🔒 Coming Soon |
 | 6 | Image Classifier | CNN, Keras | 🔒 Coming Soon |
