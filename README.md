@@ -104,6 +104,9 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 46 | Data Preprocessing Pipeline | [📝 Notes](days/day-46/notes.md) | [💻 Code](days/day-46/code) |
 | Day 47 | 🏗️ Indian Job Market Analyzer — Project Start | [📝 Notes](days/day-47/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
 | Day 48 | 🏗️ Job Market Analyzer — ML Model + Charts | [📝 Notes](days/day-48/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
+| Day 49 | 🏗️ Job Market Analyzer — ML Model + Charts | [📝 Notes](days/day-48/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
+| Day 50 | 🏗️ Job Analyzer — Deploy Live + Phase 3 Complete! | [📝 Notes](days/day-50/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
+| Day 51 | ML Fundamentals + Scikit-learn | [📝 Notes](days/day-51/notes.md) | [💻 Code](days/day-51/code) |
 ---
 
 
