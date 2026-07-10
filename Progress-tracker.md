@@ -70,11 +70,11 @@
 | Day 43 | EDA — Exploratory Data Analysis | ✅ Done | 01 June 2026 |
 | Day 44 | Feature Engineering | ✅ Done | 02 July 2026 |
 | Day 45 | Statistics for ML | ✅ Done | 03 July 2026 |
-| Day 46 | Data Preprocessing Pipeline | ✅ Done | 05 July 2026 |
-| Day 47 | 🏗️ Indian Job Market Analyzer — Project Start | ✅ Done | 04 July 2026 |
-| Day 48 | 🏗️ Job Market Analyzer — ML Model + Charts | ✅ Done | 05 July 2026 |
-| Day 49 | 🏗️ Job Market Analyzer — Web Dashboard | ✅ Done | 06 July 2026 |
-| Day 50 | 🏗️ Job Analyzer — Deployed Live! Phase 3 DONE! | ✅ Done | 07 July 2026 |
+| Day 46 | Data Preprocessing Pipeline | ✅ Done | 04July 2026 |
+| Day 47 | 🏗️ Indian Job Market Analyzer — Project Start | ✅ Done | 05 July 2026 |
+| Day 48 | 🏗️ Job Market Analyzer — ML Model + Charts | ✅ Done | 06 July 2026 |
+| Day 49 | 🏗️ Job Market Analyzer — Web Dashboard | ✅ Done | 07 July 2026 |
+| Day 50 | 🏗️ Job Analyzer — Deployed Live! Phase 3 DONE! | ✅ Done | 08 July 2026 |
 
 ---
 
@@ -83,9 +83,9 @@
 
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
-| Day 51 | ML Fundamentals & Scikit-learn | 🔒 Pending | — |
-| Day 52 | Linear Regression — Theory & Code | 🔒 Pending | — |
-| Day 53 | Logistic Regression | 🔒 Pending | — |
+| Day 51 | ML Fundamentals & Scikit-learn |  ✅ Done | 09 July 2026 |
+| Day 52 | Linear Regression — Theory & Code |  ✅ Done | 10 July 2026 |
+| Day 53 | Logistic Regression |🔒 Pending | — |
 | Day 54 | Decision Trees | 🔒 Pending | — |
 | Day 55 | Random Forest & Ensemble Methods | 🔒 Pending | — |
 | Day 56 | SVM & KNN | 🔒 Pending | — |
