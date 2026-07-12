@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Day-54%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streak-53%20days-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-54%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-3%20Live-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LeetCode-35%2B%20solved-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-36%2B%20solved-yellow?style=for-the-badge" />
 </p>
 
 <p align="center">
