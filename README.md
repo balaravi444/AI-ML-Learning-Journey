@@ -7,7 +7,7 @@
 <p align="center"><b>90 days. 0 days missed. AI Engineer by November 2026.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Day-53%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Day-54%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streak-53%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-3%20Live-brightgreen?style=for-the-badge" />
