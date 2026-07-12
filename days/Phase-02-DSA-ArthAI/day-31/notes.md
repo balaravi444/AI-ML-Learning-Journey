@@ -1,7 +1,7 @@
 # Day 31 — ArthAI: Deployment + Goal Planner 🚀
 
 **Date:** 18 June 2026
-**Time Spent:** (add your hours)
+**Time Spent:** (2 hours)
 **Resource Used:** [Render Docs](https://render.com/docs) | [FastAPI Docs](https://fastapi.tiangolo.com/)
 
 ---
