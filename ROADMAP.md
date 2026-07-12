@@ -1,186 +1,255 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="AI Engineer Roadmap Banner" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-Zero%20to%20Expert-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Duration-~24%20weeks-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Projects-5%20Portfolio%20Builds-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Cost-%E2%82%B90%20Free-success?style=flat" />
+</p>
+
 # 🚀 AI Engineer Roadmap — Zero to Expert
 
-A complete, project-driven path from Python basics to a job-ready AI/ML Engineer, covering foundations, math, classical ML, deep learning, LLMs, AI agents, and production deployment.
+A complete, project-driven path from Python basics to a job-ready AI/ML Engineer — foundations, math, classical ML, deep learning, LLMs, AI agents, and production deployment.
 
-> Fork this repo, check off items as you go, and submit your project links in the `projects/` folder.
+> ⭐ Fork this repo, check off items as you go, and drop your project links in the `projects/` folder.
 
 ---
 
 ## 📌 Roadmap Overview
 
-```
-Start
-  │
-  ▼
-Phase 1: Python Foundations (Weeks 1–4)
-  │
-  ▼
-Project 1: Student Report Card Generator
-  │
-  ▼
-Phase 2: Math, DSA & Data Science (Weeks 5–8)
-  │
-  ▼
-Project 2: Data Analysis Dashboard
-  │
-  ▼
-Phase 3: Machine Learning (Weeks 9–14)
-  │
-  ▼
-Project 3: ML Classification Model
-  │
-  ▼
-Phase 4: Deep Learning & Generative AI (Weeks 15–20)
-  │
-  ▼
-Project 4: Generative AI Application
-  │
-  ▼
-Phase 5: LLMOps, Deployment & Scaling (Weeks 21–24)
-  │
-  ▼
-Project 5: Production-Grade AI Agent / RAG System
-  │
-  ▼
-✅ Job-Ready / Expert AI Engineer
+```mermaid
+graph TD
+    Start([🚀 Start Your AI Journey]) --> P1
+    P1["🐍 Phase 1<br/>Python Foundations<br/>Weeks 1-4"] --> Pr1["📄 Project 1<br/>Report Card Generator"]
+    Pr1 --> P2["🔢 Phase 2<br/>Math, DSA & Data Science<br/>Weeks 5-8"]
+    P2 --> Pr2["📊 Project 2<br/>Data Analysis Dashboard"]
+    Pr2 --> P3["🤖 Phase 3<br/>Machine Learning<br/>Weeks 9-14"]
+    P3 --> Pr3["🎯 Project 3<br/>ML Classification Model"]
+    Pr3 --> P4["🧠 Phase 4<br/>Deep Learning & GenAI<br/>Weeks 15-20"]
+    P4 --> Pr4["🧬 Project 4<br/>Generative AI Application"]
+    Pr4 --> P5["⚙️ Phase 5<br/>LLMOps, Deployment & Scaling<br/>Weeks 21-24"]
+    P5 --> Pr5["🏭 Project 5<br/>Production RAG / Agent System"]
+    Pr5 --> End(["✅ Job-Ready AI Engineer"])
+
+    style Start fill:#166534,stroke:#22c55e,color:#fff
+    style End fill:#166534,stroke:#22c55e,color:#fff
+    style P1 fill:#0f766e,stroke:#14b8a6,color:#fff
+    style P2 fill:#1e3a8a,stroke:#3b82f6,color:#fff
+    style P3 fill:#5b21b6,stroke:#a855f7,color:#fff
+    style P4 fill:#9d174d,stroke:#ec4899,color:#fff
+    style P5 fill:#92400e,stroke:#f59e0b,color:#fff
+    style Pr1 fill:#334155,color:#fff
+    style Pr2 fill:#334155,color:#fff
+    style Pr3 fill:#334155,color:#fff
+    style Pr4 fill:#334155,color:#fff
+    style Pr5 fill:#334155,color:#fff
 ```
 
 ---
 
-## Phase 1 — Python Foundations (Weeks 1–4)
+## 📅 Timeline at a Glance
+
+```mermaid
+gantt
+    title 24-Week AI Engineer Roadmap
+    dateFormat  X
+    axisFormat Week %s
+    section Foundations
+    Python Foundations         :p1, 0, 4w
+    section Core
+    Math, DSA & Data Science   :p2, after p1, 4w
+    Machine Learning           :p3, after p2, 6w
+    section Advanced
+    Deep Learning & GenAI      :p4, after p3, 6w
+    LLMOps & Deployment        :p5, after p4, 4w
+```
+
+---
+
+## 🐍 Phase 1 — Python Foundations (Weeks 1–4)
 
 **Goal:** Write clean, idiomatic Python and understand what happens under the hood.
 
-- Variables, data types, type hints (`typing` module)
-- Control flow, comprehensions, generators, iterators
-- Functions: `*args`/`**kwargs`, closures, decorators, `functools`
-- OOP: classes, inheritance, dunder methods, dataclasses, `abc`
-- File I/O: JSON, CSV, context managers (`with`), pathlib
-- Error handling: custom exceptions, `try/except/else/finally`
-- Virtual environments, `pip`, `poetry`/`uv`, packaging basics
-- Testing: `pytest`, fixtures, mocking
-- Git & GitHub: branching, PRs, `.gitignore`, commit hygiene
+```mermaid
+mindmap
+  root((Python<br/>Foundations))
+    Core Syntax
+      Variables & Types
+      Control Flow
+      Comprehensions
+    Functions
+      "*args / **kwargs"
+      Closures & Decorators
+      functools
+    OOP
+      Classes & Inheritance
+      Dunder Methods
+      Dataclasses
+    Tooling
+      File I/O & pathlib
+      pytest
+      Git & GitHub
+```
 
-**Expert add-ons:**
-- Async programming (`asyncio`, `await`)
-- Memory model, GIL, multiprocessing vs multithreading
-- Writing a CLI tool with `argparse`/`click`
-- Type checking with `mypy`
+| Core | Expert Add-ons |
+|---|---|
+| Variables, data types, type hints | Async programming (`asyncio`) |
+| Control flow, comprehensions, generators | Memory model, GIL, multiprocessing |
+| Functions, `*args`/`**kwargs`, decorators | CLI tools with `argparse`/`click` |
+| OOP: classes, inheritance, dataclasses, `abc` | Type checking with `mypy` |
+| File I/O, error handling, context managers | — |
+| `pytest`, fixtures, mocking | — |
+| Git branching, PRs, commit hygiene | — |
 
 **📦 Project 1 — Student Report Card Generator**
-CLI/GUI app that ingests student scores (CSV/JSON), computes grades/GPA, and generates PDF report cards. Add unit tests and a README.
+CLI/GUI app: ingest student scores (CSV/JSON) → compute grades/GPA → export PDF report cards. Include unit tests + README.
 
 ---
 
-## Phase 2 — Math, DSA & Data Science (Weeks 5–8)
+## 🔢 Phase 2 — Math, DSA & Data Science (Weeks 5–8)
 
 **Goal:** Build the mathematical and computational intuition every ML engineer needs.
 
-**Math**
-- Linear Algebra: vectors, matrices, eigenvalues/eigenvectors, SVD
-- Calculus: derivatives, gradients, chain rule, partial derivatives
-- Probability & Statistics: distributions, Bayes' theorem, hypothesis testing, MLE
-- Optimization: gradient descent, convexity basics
+```mermaid
+flowchart LR
+    subgraph Math
+    LA[Linear Algebra] --> SVD[Eigenvalues / SVD]
+    Calc[Calculus] --> Grad[Gradients & Chain Rule]
+    Stats[Probability & Stats] --> Bayes[Bayes / Hypothesis Testing]
+    end
+    subgraph DSA
+    Arr[Arrays & Linked Lists] --> Sort[Sorting & Searching]
+    Sort --> Tree[Trees & Graphs / BFS-DFS]
+    end
+    subgraph "Data Science"
+    Np[NumPy] --> Pd[Pandas]
+    Pd --> Viz[Matplotlib / Seaborn]
+    Viz --> SQL[SQL: Joins, Window Fns]
+    end
 
-**DSA**
-- Arrays, linked lists, stacks, queues, hash maps
-- Sorting & searching, time/space complexity (Big-O)
-- Trees, graphs, BFS/DFS
-- Practice: 50+ problems on LeetCode/NeetCode (arrays, strings, graphs)
+    style Math fill:#1e293b
+    style DSA fill:#1e293b
+    style "Data Science" fill:#1e293b
+```
 
-**Data Science**
-- NumPy: vectorization, broadcasting
-- Pandas: cleaning, merging, groupby, pivot tables
-- Data visualization: Matplotlib, Seaborn, Plotly
-- Exploratory Data Analysis (EDA) workflow
-- SQL: joins, window functions, CTEs
-
-**Expert add-ons:**
-- Statistical significance & A/B testing
-- Feature scaling theory (why it matters mathematically)
-- Vectorized implementations of algorithms from scratch (e.g., linear regression with NumPy only)
+| Core | Expert Add-ons |
+|---|---|
+| Linear algebra: vectors, matrices, eigenvalues, SVD | Statistical significance & A/B testing |
+| Calculus: derivatives, gradients, chain rule | Feature-scaling theory (the *why*, not just the *how*) |
+| Probability & stats: distributions, Bayes, MLE | Linear regression implemented in raw NumPy |
+| DSA: arrays, trees, graphs, sorting, Big-O | — |
+| NumPy, Pandas, Matplotlib/Seaborn, EDA | — |
+| SQL: joins, window functions, CTEs | — |
 
 **📦 Project 2 — Data Analysis Dashboard**
-End-to-end EDA + interactive dashboard (Streamlit/Plotly Dash) on a real dataset (e.g., Kaggle). Include SQL queries, cleaning pipeline, and insights write-up.
+End-to-end EDA + interactive dashboard (Streamlit/Plotly Dash) on a real Kaggle dataset. Include SQL queries, cleaning pipeline, insights write-up.
 
 ---
 
-## Phase 3 — Machine Learning (Weeks 9–14)
+## 🤖 Phase 3 — Machine Learning (Weeks 9–14)
 
 **Goal:** Understand ML theory deeply enough to debug models, not just call `.fit()`.
 
-- Supervised learning: linear/logistic regression, decision trees, ensembles (Random Forest, XGBoost, LightGBM)
-- Unsupervised learning: k-means, hierarchical clustering, PCA, t-SNE/UMAP
-- Feature engineering: encoding, scaling, feature selection, handling imbalance (SMOTE)
-- Model evaluation: cross-validation, ROC-AUC, precision/recall, confusion matrix, bias-variance tradeoff
-- Hyperparameter tuning: grid search, random search, Bayesian optimization (Optuna)
-- NLP basics: tokenization, TF-IDF, word embeddings (Word2Vec, GloVe)
-- Time series: ARIMA, seasonality, train/test splitting for temporal data
-- Scikit-learn pipelines, `ColumnTransformer`
+```mermaid
+flowchart TD
+    D[Raw Data] --> Clean[Clean & Preprocess]
+    Clean --> Feat[Feature Engineering]
+    Feat --> Split[Train / Val / Test Split]
+    Split --> Train[Train Model]
+    Train --> Eval{Evaluate:<br/>Accuracy / ROC-AUC / F1}
+    Eval -->|Underperforms| Feat
+    Eval -->|Good| Tune[Hyperparameter Tuning]
+    Tune --> Explain[Explainability: SHAP/LIME]
+    Explain --> Track[Track in MLflow / W&B]
+    Track --> Ready([✅ Ready to Ship])
 
-**Expert add-ons:**
-- Implement gradient boosting from scratch conceptually
-- Explainability: SHAP, LIME
-- ML system design: train/serve skew, data leakage, drift detection
-- Experiment tracking: MLflow, Weights & Biases
+    style Ready fill:#166534,stroke:#22c55e,color:#fff
+    style Eval fill:#92400e,stroke:#f59e0b,color:#fff
+```
+
+| Core | Expert Add-ons |
+|---|---|
+| Supervised: regression, decision trees, ensembles | Gradient boosting internals (XGBoost/LightGBM) |
+| Unsupervised: k-means, PCA, t-SNE/UMAP | Explainability: SHAP, LIME |
+| Feature engineering, encoding, SMOTE for imbalance | ML system design: train/serve skew, data leakage |
+| Model evaluation: CV, ROC-AUC, confusion matrix | Drift detection |
+| Hyperparameter tuning: grid/random/Optuna | Experiment tracking: MLflow, Weights & Biases |
+| NLP basics: TF-IDF, Word2Vec, GloVe | — |
+| Time series: ARIMA, seasonality | — |
 
 **📦 Project 3 — ML Classification Model**
 Full pipeline: EDA → feature engineering → model comparison (Logistic Regression vs XGBoost) → hyperparameter tuning → SHAP explainability → tracked experiments in MLflow.
 
 ---
 
-## Phase 4 — Deep Learning & Generative AI (Weeks 15–20)
+## 🧠 Phase 4 — Deep Learning & Generative AI (Weeks 15–20)
 
 **Goal:** Understand neural networks from first principles through modern LLMs.
 
-**Deep Learning Core**
-- Neural networks: forward/backprop, activation functions, loss functions
-- Optimizers: SGD, Momentum, Adam, learning rate schedules
-- Regularization: dropout, batch norm, weight decay, early stopping
-- CNNs: convolutions, pooling, architectures (ResNet, EfficientNet)
-- RNNs/LSTMs/GRUs: sequence modeling, vanishing gradients
+```mermaid
+flowchart LR
+    NN[Neural Networks<br/>Forward/Backprop] --> CNN[CNNs<br/>Images]
+    NN --> RNN[RNNs/LSTMs<br/>Sequences]
+    NN --> Trans[Transformers<br/>Attention]
+    Trans --> LLM[LLMs<br/>Pretrain + Fine-tune]
+    LLM --> Prompt[Prompt Engineering]
+    LLM --> Fine[LoRA / QLoRA Fine-tuning]
+    LLM --> RAG[RAG<br/>Vector DB + Embeddings]
+    LLM --> Agent[AI Agents<br/>Tool Calling / ReAct]
 
-**Transformers & LLMs**
-- Attention mechanism & self-attention, multi-head attention
-- Transformer architecture (encoder/decoder), positional encoding
-- Pretraining vs fine-tuning, tokenizers (BPE)
-- Prompt engineering: zero-shot, few-shot, chain-of-thought
-- Fine-tuning: full fine-tune, LoRA/QLoRA, PEFT
-- RAG (Retrieval-Augmented Generation): embeddings, vector DBs (FAISS, Pinecone, Chroma, Weaviate)
-- AI Agents: tool use, function calling, ReAct pattern, agent frameworks (LangChain, LangGraph, LlamaIndex, CrewAI)
-- Multimodal models: vision-language models, diffusion models basics
+    style Trans fill:#5b21b6,color:#fff
+    style LLM fill:#9d174d,color:#fff
+    style RAG fill:#9d174d,color:#fff
+    style Agent fill:#9d174d,color:#fff
+```
 
-**Frameworks**
-- PyTorch (primary), TensorFlow/Keras (familiarity)
-- Hugging Face: `transformers`, `datasets`, `peft`, `accelerate`
-
-**Expert add-ons:**
-- Train a transformer from scratch on a toy dataset
-- Understand KV-caching, quantization (GPTQ, AWQ, GGUF), model compression
-- Evaluation of LLMs: perplexity, benchmark suites, LLM-as-judge
-- Guardrails, hallucination mitigation, prompt injection defense
+| Core | Expert Add-ons |
+|---|---|
+| Neural nets: forward/backprop, activations, loss fns | Train a mini transformer from scratch |
+| Optimizers: SGD, Adam, LR schedules | KV-caching, quantization (GPTQ, AWQ, GGUF) |
+| Regularization: dropout, batch norm, early stopping | LLM evaluation: perplexity, LLM-as-judge |
+| CNNs (ResNet, EfficientNet), RNNs/LSTMs/GRUs | Guardrails, hallucination mitigation, prompt-injection defense |
+| Transformers: attention, positional encoding | — |
+| Prompt engineering: zero-shot, few-shot, CoT | — |
+| Fine-tuning: LoRA/QLoRA, PEFT | — |
+| RAG: embeddings, FAISS/Pinecone/Chroma/Weaviate | — |
+| AI Agents: LangChain, LangGraph, LlamaIndex, CrewAI | — |
+| PyTorch, TensorFlow/Keras, HuggingFace | — |
 
 **📦 Project 4 — Generative AI Application**
-Build a RAG-powered chatbot or AI agent (e.g., "chat with your docs") using an open-source LLM, a vector DB, and a tool-calling agent loop. Deploy with a simple UI (Streamlit/Gradio).
+Build a RAG-powered chatbot or AI agent ("chat with your docs") using an open-source LLM, a vector DB, and a tool-calling agent loop. Deploy with Streamlit/Gradio.
 
 ---
 
-## Phase 5 — LLMOps, Deployment & Scaling (Weeks 21–24) — *Expert Tier*
+## ⚙️ Phase 5 — LLMOps, Deployment & Scaling (Weeks 21–24) — *Expert Tier*
 
 **Goal:** Ship AI systems that survive contact with real users and real traffic.
 
-- Model serving: FastAPI, TorchServe, vLLM, Triton Inference Server
-- Containerization: Docker, docker-compose
-- Orchestration: Kubernetes basics, autoscaling for inference
-- CI/CD for ML: GitHub Actions, automated testing of pipelines
-- Monitoring: latency/throughput metrics, data/model drift, logging (Prometheus/Grafana)
-- Cost optimization: batching, caching, model quantization for inference
-- Cloud platforms: AWS SageMaker / GCP Vertex AI / Azure ML (pick one)
-- Security: API auth, rate limiting, PII handling, secrets management
-- MLOps lifecycle: versioning data/models (DVC), reproducibility
+```mermaid
+flowchart LR
+    Code[Trained Model / App] --> Docker["🐳 Containerize<br/>Docker"]
+    Docker --> Serve["⚡ Serve<br/>FastAPI / vLLM / Triton"]
+    Serve --> CI["🔄 CI/CD<br/>GitHub Actions"]
+    CI --> Cloud["☁️ Deploy<br/>AWS / GCP / Azure"]
+    Cloud --> Mon["📈 Monitor<br/>Prometheus / Grafana"]
+    Mon -->|Feedback loop| Code
+
+    style Cloud fill:#166534,stroke:#22c55e,color:#fff
+    style Code fill:#1e3a8a,color:#fff
+```
+
+| Core | Expert Add-ons |
+|---|---|
+| Model serving: FastAPI, TorchServe, vLLM, Triton | Kubernetes basics, autoscaling for inference |
+| Containerization: Docker, docker-compose | Cost optimization: batching, caching, quantization |
+| CI/CD for ML: GitHub Actions | Security: API auth, rate limiting, PII handling |
+| Monitoring: latency, drift, Prometheus/Grafana | MLOps lifecycle: DVC versioning, reproducibility |
+| Cloud: AWS SageMaker / GCP Vertex AI / Azure ML | — |
 
 **📦 Project 5 — Production-Grade AI Agent / RAG System**
-Take Project 4 and make it production-ready: containerize it, add a CI/CD pipeline, deploy to a cloud service, add monitoring/logging, load-test it, and document the architecture with a diagram.
+Take Project 4 → containerize it → add CI/CD pipeline → deploy to cloud → add monitoring/logging → load-test it → document architecture with a diagram.
 
 ---
 
@@ -204,7 +273,7 @@ Take Project 4 and make it production-ready: containerize it, add a CI/CD pipeli
 | Area | Resource |
 |---|---|
 | Python | *Fluent Python*, Corey Schafer YouTube |
-| Math | *Mathematics for Machine Learning* (book, free PDF), 3Blue1Brown (Linear Algebra & Calculus) |
+| Math | *Mathematics for Machine Learning* (free PDF), 3Blue1Brown |
 | ML | *Hands-On ML with Scikit-Learn, Keras & TensorFlow* — Aurélien Géron |
 | DL | *Deep Learning* — Goodfellow et al., fast.ai course |
 | Transformers/LLMs | Hugging Face NLP Course, Karpathy's "Let's build GPT" |
@@ -213,10 +282,12 @@ Take Project 4 and make it production-ready: containerize it, add a CI/CD pipeli
 
 ---
 
-## 🗂 Repo Structure Suggestion
+## 🗂 Repo Structure
 
 ```
-├── README.md                  (this roadmap)
+├── README.md
+├── assets/
+│   └── banner.svg
 ├── phase1-python/
 ├── phase2-math-dsa-datascience/
 ├── phase3-machine-learning/
@@ -232,4 +303,4 @@ Take Project 4 and make it production-ready: containerize it, add a CI/CD pipeli
 
 ---
 
-*⭐ Star this repo if it helps you. PRs welcome for corrections and resource additions.*
+<p align="center">⭐ Star this repo if it helps you. PRs welcome for corrections and resource additions.</p>
