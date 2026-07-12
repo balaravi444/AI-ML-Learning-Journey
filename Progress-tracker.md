@@ -19,17 +19,17 @@
 | Day 07 | Sets, Arrays & List Comprehensions | ✅ Done | 25 May 2026 |
 | Day 08 | Collections Module | ✅ Done | 26 May 2026 |
 | Day 09 | Exception Handling | ✅ Done | 27 May 2026 |
-| Day 10 | File Handling | ✅ Done | 29 May 2026 |
-| Day 11 | OOP — Classes & Inheritance | ✅ Done | 30 May 2026 |
-| Day 12 | OOP — Encapsulation, Polymorphism | ✅ Done | 31 May 2026 |
-| Day 13 | 🏗️ Project 1 — AI Learning Management System | ✅ Done | 01 Jun 2026 |
-| Day 14 | Modules, Packages & Virtual Environments | ✅ Done | 02 Jun 2026 |
-| Day 15 | Regular Expressions & NLP Preprocessing | ✅ Done | 03 Jun 2026 |
-| Day 16 | JSON & CSV Files | ✅ Done | 04 Jun 2026 |
-| Day 17 | Python APIs | ✅ Done | 05 Jun 2026 |
-| Day 18 | Magic Methods & Operator Overloading | ✅ Done | 06 Jun 2026 |
-| Day 19 | Decorators & Generators | ✅ Done | 07 Jun 2026 |
-| Day 20 | Python Revision + LeetCode Easy | ✅ Done | 08 Jun 2026 |
+| Day 10 | File Handling | ✅ Done | 28 May 2026 |
+| Day 11 | OOP — Classes & Inheritance | ✅ Done | 29 May 2026 |
+| Day 12 | OOP — Encapsulation, Polymorphism | ✅ Done | 30 May 2026 |
+| Day 13 | 🏗️ Project 1 — AI Learning Management System | ✅ Done | 31 May 2026 |
+| Day 14 | Modules, Packages & Virtual Environments | ✅ Done | 01 Jun 2026 |
+| Day 15 | Regular Expressions & NLP Preprocessing | ✅ Done | 02 Jun 2026 |
+| Day 16 | JSON & CSV Files | ✅ Done | 03 Jun 2026 |
+| Day 17 | Python APIs | ✅ Done | 04 Jun 2026 |
+| Day 18 | Magic Methods & Operator Overloading | ✅ Done | 05 Jun 2026 |
+| Day 19 | Decorators & Generators | ✅ Done | 06 Jun 2026 |
+| Day 20 | Python Revision + LeetCode Easy | ✅ Done | 07 Jun 2026 |
 
 ---
 
@@ -38,8 +38,8 @@
 
 | Day | Topic | Status | Date |
 |-----|-------|--------|------|
-| Day 21 | Arrays, Searching & Sorting | ✅ Done | 09 Jun 2026 |
-| Day 22 | Stacks & Queues | ✅ Done | 10 Jun 2026 |
+| Day 21 | Arrays, Searching & Sorting | ✅ Done | 08 Jun 2026 |
+| Day 22 | Stacks & Queues | ✅ Done | 09 Jun 2026 |
 | Day 23 | Linked Lists | ✅ Done | 10 Jun 2026 |
 | Day 24 | Hash Maps & Sets | ✅ Done | 11 Jun 2026 |
 | Day 25 | Recursion & Backtracking | ✅ Done | 12 Jun 2026 |
