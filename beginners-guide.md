@@ -1,5 +1,24 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="AI/ML Engineer Roadmap Banner" width="100%"/>
+  <img src="assets/<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <circle cx="1080" cy="60" r="120" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="120" cy="220" r="150" fill="#a855f7" opacity="0.10"/>
+  <text x="60" y="110" font-family="Verdana, sans-serif" font-size="52" font-weight="bold" fill="#f8fafc">🚀 AI/ML Engineer</text>
+  <text x="60" y="165" font-family="Verdana, sans-serif" font-size="52" font-weight="bold" fill="url(#accent)">Zero to Expert</text>
+  <text x="60" y="205" font-family="Verdana, sans-serif" font-size="20" fill="#cbd5e1">Python → Math &amp; DSA → ML → Deep Learning → LLMs &amp; Agents → Production</text>
+  <rect x="60" y="225" width="1080" height="4" rx="2" fill="url(#accent)"/>
+</svg>banner.svg" alt="AI/ML Engineer Roadmap Banner" width="100%"/>
 </p>
 
 <p align="center">
