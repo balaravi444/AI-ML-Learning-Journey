@@ -1,16 +1,27 @@
-# 🚀 AI/ML Learning Journey — Bala Ravi
+<p align="center">
+  <img src="assets/banner.svg" alt="AI/ML Learning Journey Banner" width="100%"/>
+</p>
 
-> 90 days. 0 days missed. AI Engineer by November 2026.
+<h1 align="center">🚀 AI/ML Learning Journey — Bala Ravi</h1>
 
-![Day](https://img.shields.io/badge/Day-53%20of%2090-blue)
-![Phase](https://img.shields.io/badge/Phase-4%20ML-orange)
-![Streak](https://img.shields.io/badge/Streak-53%20days-green)
-![Projects](https://img.shields.io/badge/Projects-3%20Live-brightgreen)
-![LeetCode](https://img.shields.io/badge/LeetCode-35%2B%20solved-yellow)
+<p align="center"><b>90 days. 0 days missed. AI Engineer by November 2026.</b></p>
 
-**👨‍💻 Bala Ravi** | BCA Student, The Oxford College of Science, Bangalore University
+<p align="center">
+  <img src="https://img.shields.io/badge/Day-53%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-53%20days-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-3%20Live-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-35%2B%20solved-yellow?style=for-the-badge" />
+</p>
 
-🐙 [GitHub](https://github.com/balaravi444) · 💼 [LinkedIn](https://linkedin.com/in/bala-ravi444) · 🐦 [@balaravi444](https://twitter.com/balaravi444) · 🎯 [LeetCode](https://leetcode.com/balaravi4545)
+<p align="center">
+  <a href="https://github.com/balaravi444"><img src="https://img.shields.io/badge/GitHub-balaravi444-black?style=flat&logo=github" /></a>
+  <a href="https://linkedin.com/in/bala-ravi444"><img src="https://img.shields.io/badge/LinkedIn-Bala%20Ravi-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://twitter.com/balaravi444"><img src="https://img.shields.io/badge/Twitter-@balaravi444-1DA1F2?style=flat&logo=twitter" /></a>
+  <a href="https://leetcode.com/balaravi4545"><img src="https://img.shields.io/badge/LeetCode-balaravi4545-orange?style=flat&logo=leetcode" /></a>
+</p>
+
+**👨‍💻 Bala Ravi** — BCA Student, The Oxford College of Science, Bangalore University
 
 ---
 
@@ -18,25 +29,72 @@
 
 Become an **AI Engineer** by November 2026 — starting from Python basics, building real products, solving real problems, deploying real apps.
 
-No toy datasets. No tutorial clones. Real products that real people use.
+> No toy datasets. No tutorial clones. Real products that real people use.
+
+---
+
+## 📊 Progress Snapshot
+
+```mermaid
+graph LR
+    P1["🐍 Phase 1<br/>Python<br/>Day 01-20<br/>✅ Complete"] --> P2["🔢 Phase 2<br/>DSA + ArthAI<br/>Day 21-35<br/>✅ Complete"]
+    P2 --> P3["📊 Phase 3<br/>Data Science<br/>Day 36-50<br/>✅ Complete"]
+    P3 --> P4["🤖 Phase 4<br/>ML<br/>Day 51-70<br/>⏳ Day 53/70"]
+    P4 --> P5["🧠 Phase 5<br/>Deep Learning + AI<br/>Day 71-90<br/>🔒 Pending"]
+    P5 --> P6["🚀 Phase 6<br/>Enterprise AI<br/>Day 90+<br/>🔒 Planned"]
+
+    style P1 fill:#166534,stroke:#22c55e,color:#fff
+    style P2 fill:#166534,stroke:#22c55e,color:#fff
+    style P3 fill:#166534,stroke:#22c55e,color:#fff
+    style P4 fill:#92400e,stroke:#f59e0b,color:#fff
+    style P5 fill:#334155,stroke:#64748b,color:#fff
+    style P6 fill:#334155,stroke:#64748b,color:#fff
+```
+
+```mermaid
+gantt
+    title 90-Day Journey — Where I Am Now
+    dateFormat X
+    axisFormat Day %s
+    section Complete
+    Phase 1 - Python           :done, p1, 0, 20
+    Phase 2 - DSA + ArthAI      :done, p2, 20, 15
+    Phase 3 - Data Science      :done, p3, 35, 15
+    section In Progress
+    Phase 4 - Machine Learning  :active, p4, 50, 20
+    section Upcoming
+    Phase 5 - Deep Learning/AI  :p5, 70, 20
+```
+
+**53 / 90 days done — 59% complete, on track for November 2026.**
 
 ---
 
 ## 🏗️ Live Projects
 
-| # | Project | What It Does | Tech | Live |
-|---|---------|-------------|------|------|
-| 1 | **ArthAI** | AI-powered personal finance advisor for every Indian | FastAPI, Gemini LLM, DSA (DP + Binary Search) | 🟢 Live |
-| 2 | **Indian Job Market Analyzer** | Salary fairness checker + ML salary predictor for Indian AI/ML jobs | Pandas, Sklearn, Random Forest, FastAPI, Chart.js | 🟢 Live |
-| 3 | **AI Learning Management System** | Track and manage AI/ML learning progress | Python OOP, File Handling | ✅ Built |
+```mermaid
+graph TD
+    A1["💰 ArthAI<br/>Personal Finance Advisor<br/>FastAPI + Gemini LLM + DSA"] -->|🟢 Live| U1[500M+ potential users]
+    A2["📈 Indian Job Market Analyzer<br/>Salary Fairness + ML Predictor<br/>Sklearn + Random Forest"] -->|🟢 Live| U2[Every job seeker in India]
+    A3["🎓 AI Learning Management System<br/>Progress Tracker<br/>Python OOP + File Handling"] -->|✅ Built| U3[Self-learners]
 
+    style A1 fill:#166534,color:#fff
+    style A2 fill:#166534,color:#fff
+    style A3 fill:#1e3a8a,color:#fff
+```
+
+| # | Project | What It Does | Tech | Status |
+|---|---|---|---|---|
+| 1 | **[ArthAI](projects/arthAI)** | AI-powered personal finance advisor for every Indian | FastAPI, Gemini LLM, DSA (DP + Binary Search) | 🟢 Live |
+| 2 | **[Indian Job Market Analyzer](projects/indian_job_market_analyzer)** | Salary fairness checker + ML salary predictor for Indian AI/ML jobs | Pandas, Sklearn, Random Forest, FastAPI, Chart.js | 🟢 Live |
+| 3 | **[AI Learning Management System](projects/01_ai_learning_management_system)** | Track and manage AI/ML learning progress | Python OOP, File Handling | ✅ Built |
 
 ---
 
 ## 🗺️ Roadmap Overview
 
 | Phase | Focus | Days | Status |
-|-------|-------|------|--------|
+|---|---|---|---|
 | 🐍 **Phase 1** | Python Foundations | Day 01–20 | ✅ Complete |
 | 🔢 **Phase 2** | DSA + ArthAI (Fintech App) | Day 21–35 | ✅ Complete |
 | 📊 **Phase 3** | Data Science + Job Market Analyzer | Day 36–50 | ✅ Complete |
@@ -46,12 +104,13 @@ No toy datasets. No tutorial clones. Real products that real people use.
 
 ---
 
-## 📋 Daily Progress
+## 📋 Daily Progress Log
 
-### 🐍 Phase 1 — Python Foundations ✅
+<details>
+<summary><b>🐍 Phase 1 — Python Foundations ✅ (Day 01–20) — click to expand</b></summary>
 
 | Day | Topic | Notes | Code |
-|-----|-------|-------|------|
+|---|---|---|---|
 | Day 01 | Python Basics — Variables, I/O | [📝 Notes](days/Phase-01-Python-Foundations/day-01/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-01/code) |
 | Day 02 | Data Types & Operators | [📝 Notes](days/Phase-01-Python-Foundations/day-02/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-02/code) |
 | Day 03 | Control Flow | [📝 Notes](days/Phase-01-Python-Foundations/day-03/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-03/code) |
@@ -73,10 +132,13 @@ No toy datasets. No tutorial clones. Real products that real people use.
 | Day 19 | Decorators & Generators | [📝 Notes](days/Phase-01-Python-Foundations/day-19/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-19/code) |
 | Day 20 | Python Revision + LeetCode | [📝 Notes](days/Phase-01-Python-Foundations/day-20/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-20/code) |
 
-### 🔢 Phase 2 — DSA ✅
+</details>
+
+<details>
+<summary><b>🔢 Phase 2 — DSA + ArthAI ✅ (Day 21–35) — click to expand</b></summary>
 
 | Day | Topic | Notes | Code |
-|-----|-------|-------|------|
+|---|---|---|---|
 | Day 21 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-21/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-21/code) |
 | Day 22 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-22/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-22/code) |
 | Day 23 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-23/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-23/code) |
@@ -93,10 +155,13 @@ No toy datasets. No tutorial clones. Real products that real people use.
 | Day 34 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-34/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-34/code) |
 | Day 35 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-35/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-35/code) |
 
-### 📊 Phase 3 — Data Science ✅
+</details>
+
+<details>
+<summary><b>📊 Phase 3 — Data Science ✅ (Day 36–50) — click to expand</b></summary>
 
 | Day | Topic | Notes | Code |
-|-----|-------|-------|------|
+|---|---|---|---|
 | Day 36 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-36/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-36/code) |
 | Day 37 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-37/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-37/code) |
 | Day 38 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-38/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-38/code) |
@@ -113,10 +178,13 @@ No toy datasets. No tutorial clones. Real products that real people use.
 | Day 49 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-49/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-49/code) |
 | Day 50 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-50/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-50/code) |
 
-### 🤖 Phase 4 — Machine Learning ⏳ In Progress
+</details>
+
+<details open>
+<summary><b>🤖 Phase 4 — Machine Learning ⏳ In Progress (Day 51–70) — click to expand</b></summary>
 
 | Day | Topic | Notes | Code |
-|-----|-------|-------|------|
+|---|---|---|---|
 | Day 51 | Machine Learning | [📝 Notes](days/Phase-04-Machine-Learning/day-51/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-51/code) |
 | Day 52 | Machine Learning | [📝 Notes](days/Phase-04-Machine-Learning/day-52/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-52/code) |
 | Day 53 | Logistic Regression | [📝 Notes](days/Phase-04-Machine-Learning/day-53/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-53/code) |
@@ -132,10 +200,13 @@ No toy datasets. No tutorial clones. Real products that real people use.
 | Day 66 | Named Entity Recognition | 🔒 Pending | — |
 | Day 67–70 | 🏗️ AI Hiring Assistant | 🔒 Pending | — |
 
-### 🧠 Phase 5 — Deep Learning + AI 🔒
+</details>
+
+<details>
+<summary><b>🧠 Phase 5 — Deep Learning + AI 🔒 (Day 71–90) — click to expand</b></summary>
 
 | Day | Topic | Notes | Code |
-|-----|-------|-------|------|
+|---|---|---|---|
 | Day 71 | Neural Networks from Scratch | 🔒 Pending | — |
 | Day 72 | TensorFlow & Keras Basics | 🔒 Pending | — |
 | Day 73 | CNN — Convolutional Neural Networks | 🔒 Pending | — |
@@ -151,33 +222,40 @@ No toy datasets. No tutorial clones. Real products that real people use.
 | Day 86 | AI Agents & Tool Use | 🔒 Pending | — |
 | Day 87–90 | 🏗️ AI Study Buddy (LLM + RAG Capstone) | 🔒 Pending | — |
 
+</details>
+
 ---
 
 ## 🚀 Phase 6 — Enterprise AI Products (Post Day 90)
 
-These are the two major enterprise projects planned after the 90-day journey:
+```mermaid
+flowchart LR
+    E1["🔧 AI Engineering Copilot<br/>Ask your codebase questions"] --> Stack1[LLMs · RAG · LangChain<br/>GitHub/Jira/Slack APIs · Vector DB]
+    E2["🧠 ReqMind AI<br/>Requirement intelligence platform"] --> Stack2[LLMs · NLP · LangChain<br/>FastAPI · React SaaS]
+
+    style E1 fill:#5b21b6,color:#fff
+    style E2 fill:#9d174d,color:#fff
+```
 
 ### 🔧 AI Engineering Copilot
-> **AI-powered assistant that helps software engineering teams work faster**
+> AI-powered assistant that helps software engineering teams work faster.
 
-Instead of developers manually searching through GitHub repositories, Jira tickets, Slack messages, documentation, and CI/CD build logs — they simply ask questions in natural language and get accurate answers within seconds.
+Instead of developers manually searching GitHub, Jira, Slack, docs, and CI/CD logs — they ask in natural language and get accurate answers in seconds.
 
 **What it does:**
 - Understands your entire codebase, docs, issues, PRs, and logs
-- Answers questions like *"Why is the CI failing?"* or *"Which component handles auth?"*
+- Answers *"Why is the CI failing?"* or *"Which component handles auth?"*
 - Suggests contextual code improvements
-- Acts as an intelligent on-call assistant for your team
+- Acts as an intelligent on-call assistant
 
 **Tech Stack:** LLMs, RAG, LangChain, GitHub API, Jira API, Slack API, Vector DB
 
----
-
 ### 🧠 ReqMind AI
-> **AI-powered software requirement intelligence platform**
+> AI-powered software requirement intelligence platform.
 
-ReqMind AI analyzes software requirements *before development begins* — finding missing requirements, contradictions, security gaps, edge cases, and testing needs. Instead of relying on manual reviews, teams get structured AI insights within minutes.
+Analyzes requirements *before development begins* — finding missing requirements, contradictions, security gaps, and edge cases. Structured AI insights in minutes, not manual review cycles.
 
-**Target Users:** Product Managers, Business Analysts, Solution Architects, Developers, QA Engineers
+**Target Users:** Product Managers, Business Analysts, Solution Architects, Developers, QA
 
 **What it does:**
 - Detects missing requirements and logical contradictions
@@ -185,7 +263,6 @@ ReqMind AI analyzes software requirements *before development begins* — findin
 - Identifies edge cases and ambiguous language
 - Suggests implementation approaches
 - Generates test case outlines from requirements
-- Reduces costly requirement errors early in the SDLC
 
 **Tech Stack:** LLMs, NLP, LangChain, FastAPI, React (SaaS)
 
@@ -195,16 +272,22 @@ ReqMind AI analyzes software requirements *before development begins* — findin
 
 ```
 AI-ML-Learning-Journey/
+├── assets/
+│   └── banner.svg
 ├── days/
-│   ├── day-01/ → day-53/     ← daily notes + code
+│   ├── Phase-01-Python-Foundations/  → day-01 to day-20
+│   ├── Phase-02-DSA-ArthAI/          → day-21 to day-35
+│   ├── Phase-03-Data-Science/        → day-36 to day-50
+│   ├── Phase-04-Machine-Learning/    → day-51 to day-70
+│   └── Phase-05-Deep-Learning-AI/    → day-71 to day-90
 ├── projects/
 │   ├── 01_ai_learning_management_system/
-│   ├── arthAI/               ← Live fintech app 🟢
-│   └── indian_job_market_analyzer/  ← Live salary tool 🟢
-├── cheatsheets/              ← quick reference sheets
+│   ├── arthAI/                       ← Live fintech app 🟢
+│   └── indian_job_market_analyzer/   ← Live salary tool 🟢
+├── cheatsheets/                      ← quick reference sheets
 ├── resources/
-│   └── useful-links.md       ← curated resources
-├── progress-tracker.md       ← full roadmap + status
+│   └── useful-links.md               ← curated resources
+├── progress-tracker.md               ← full roadmap + status
 └── README.md
 ```
 
@@ -212,19 +295,21 @@ AI-ML-Learning-Journey/
 
 ## 💡 What Makes This Journey Different
 
-- ✅ **No toy datasets** — every project solves a real Indian problem
-- ✅ **Build while learning** — 80% building, 20% theory
-- ✅ **Deployed products** — not just Jupyter notebooks
-- ✅ **DSA + ML** — algorithms that power real products
-- ✅ **0 days missed** — consistency over intensity
-- ✅ **Enterprise vision** — Phase 6 targets real business problems
+| Principle | What It Means |
+|---|---|
+| ✅ No toy datasets | Every project solves a real Indian problem |
+| ✅ Build while learning | 80% building, 20% theory |
+| ✅ Deployed products | Live apps, not just Jupyter notebooks |
+| ✅ DSA + ML together | Algorithms that power real products |
+| ✅ 0 days missed | Consistency over intensity |
+| ✅ Enterprise vision | Phase 6 targets real business problems |
 
 ---
 
 ## 🏆 Why These Projects Stand Out
 
 | Project | Problem | Who Benefits |
-|---------|---------|-------------|
+|---|---|---|
 | ArthAI | 99% of Indians have no financial advisor | 500M+ potential users |
 | Job Market Analyzer | Fresh grads don't know if offers are fair | Every job seeker in India |
 | Student Predictor | Schools need early warning for at-risk students | Ed-tech companies, schools |
@@ -240,5 +325,5 @@ All projects are built for learning and portfolio purposes. AI-powered tools lik
 
 ---
 
-*90 days. 0 missed. Building in public. 🔥*
-*github.com/balaravi444/AI-ML-Learning-Journey*
+<p align="center"><b>90 days. 0 missed. Building in public. 🔥</b></p>
+<p align="center"><a href="https://github.com/balaravi444/AI-ML-Learning-Journey">github.com/balaravi444/AI-ML-Learning-Journey</a></p>
