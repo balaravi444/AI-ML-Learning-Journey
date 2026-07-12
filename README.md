@@ -53,7 +53,7 @@ No toy datasets. No tutorial clones. Real products that real people use.
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
-| Day 01 | Python Basics — Variables, I/O | [📝 Notes](days/Phase-01-Python-Foundations/day-01/notes.md) | [💻 Code](days/day-01/code) |
+| Day 01 | Python Basics — Variables, I/O | [📝 Notes](days/Phase-01-Python-Foundations/day-01/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-01/code) |
 | Day 02 | Data Types, Operators | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-02/code) |
 | Day 03 | Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
 | Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | [💻 Code](days/day-04/code) |
