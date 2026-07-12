@@ -120,7 +120,7 @@ No toy datasets. No tutorial clones. Real products that real people use.
 |-----|-------|-------|------|
 | Day 51 | Machine Learning | [📝 Notes](days/Phase-04-Machine-Learning/day-51/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-51/code) |
 | Day 52 | Machine Learning | [📝 Notes](days/Phase-04-Machine-Learning/day-52/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-52/code) |
-| Day 53 | Logistic Regression  [📝 Notes](days/Phase-04-Machine-Learning/day-53/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-53/code) |
+| Day 53 | Logistic Regression | [📝 Notes](days/Phase-04-Machine-Learning/day-53/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-53/code) |
 | Day 54 | Decision Trees | ⏳ Coming | — |
 | Day 55 | Random Forest & Ensemble Methods | 🔒 Pending | — |
 | Day 56 | SVM & KNN | 🔒 Pending | — |
