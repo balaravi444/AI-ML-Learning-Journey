@@ -48,7 +48,7 @@ Become an **AI Engineer** by November 2026 — starting from Python basics, buil
 ```mermaid
 graph TD
     A1["💰 ArthAI<br/>Personal Finance Advisor<br/>FastAPI + Gemini LLM + DSA"] -->|🟢 Live| U1[500M+ potential users]
-    A2["📈 Indian Job Market Analyzer<br/>Salary Fairness + ML Predictor<br/>Sklearn + Random Forest"] -->|🟢 Live| U2[Every job seeker in India]
+    A2["📈 Indian Job Market Analyzer<br/>Salary Fairness + ML Predictor<br/>Sklearn + Random Forest"] -->|✅ Built| U2[Every job seeker in India]
     A3["🎓 AI Learning Management System<br/>Progress Tracker<br/>Python OOP + File Handling"] -->|✅ Built| U3[Self-learners]
 
     style A1 fill:#166534,color:#fff
