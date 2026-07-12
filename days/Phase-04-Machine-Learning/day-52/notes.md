@@ -38,7 +38,9 @@ Understanding it means understanding:
 
 ## 🔑 The Math — OLS (Ordinary Least Squares)
 
-**Goal:** Find weights w that minimize:
+**Goal:**
+
+Find weights w that minimize:
 Loss = Σ(y_true - y_pred)²
 = Σ(y - Xw)²This is Mean Squared Error × n!
 **Closed form solution:**
@@ -48,6 +50,7 @@ One matrix equation = perfect weights
 We're finding the projection of y
 onto the column space of X!
 Pure linear algebra from Day 37! 🔥
+
 ---
 
 ## 🔑 Assumptions of Linear Regression
