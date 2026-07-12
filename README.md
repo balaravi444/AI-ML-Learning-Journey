@@ -1,98 +1,100 @@
-# 🤖 AI/ML Learning Journey — Road to My First AI Engineer Job
+# 🚀 AI/ML Learning Journey — Bala Ravi
 
-> A public day-by-day journey from Python basics to AI Engineer 🎯
-> Everything documented openly — notes, code, projects, and mistakes!
+> 90 days. 0 days missed. AI Engineer by November 2026.
 
-<div align="center">
+![Day](https://img.shields.io/badge/Day-53%20of%2090-blue)
+![Phase](https://img.shields.io/badge/Phase-4%20ML-orange)
+![Streak](https://img.shields.io/badge/Streak-53%20days-green)
+![Projects](https://img.shields.io/badge/Projects-3%20Live-brightgreen)
+![LeetCode](https://img.shields.io/badge/LeetCode-35%2B%20solved-yellow)
 
-![Day](https://img.shields.io/badge/Day-52%20of%2090-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Goal](https://img.shields.io/badge/Goal-AI%20Engineer-orange)
-![Started](https://img.shields.io/badge/Started-May%202026-purple)
+**👨‍💻 Bala Ravi** | BCA Student, The Oxford College of Science, Bangalore University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bala%20Ravi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bala-ravi444/)
-[![GitHub](https://img.shields.io/badge/GitHub-balaravi444-black?style=flat&logo=github)](https://github.com/balaravi444)
-![Profile Views](https://komarev.com/ghpvc/?username=balaravi444&color=blue)
-
-</div>
+🐙 [GitHub](https://github.com/balaravi444) · 💼 [LinkedIn](https://linkedin.com/in/bala-ravi444) · 🐦 [@balaravi444](https://twitter.com/balaravi444) · 🎯 [LeetCode](https://leetcode.com/balaravi4545)
 
 ---
 
-## 👋 About This Journey
+## 🎯 Goal
 
-Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journey day by day until I land my first job as an **AI Engineer**.
+Become an **AI Engineer** by November 2026 — starting from Python basics, building real products, solving real problems, deploying real apps.
 
-- 🎯 On a mission to become an **AI Engineer** by November 2026
-- 📚 Currently learning **Python → DSA → ML → Deep Learning**
-- 🌱 Documenting every single day publicly
-- 💡 Started from absolute scratch — no prior coding experience
-- 🇮🇳 Based in India
-
-**Started:** 19 May 2026
-**Target:** November 2026
-**Current Phase:** Python Foundations — OOP
-
----
-## 🗺️ Learning Roadmap
-
-- [x] Python Basics (Days 1–10)
-- [x] OOP, Modules & Advanced Python (Days 11–20)
-- [x] Pandas & Data Visualization (Days 21–30)
-- [ ] Classical ML with Scikit-learn (Days 31–50)
-- [ ] First End-to-End ML Project (Day 50)
-- [ ] Deep Learning & Neural Networks (Days 51–70)
-- [ ] LLMs & AI Agents (Days 71–90)
+No toy datasets. No tutorial clones. Real products that real people use.
 
 ---
 
-## 📅 Daily Progress
+## 🏗️ Live Projects
+
+| # | Project | What It Does | Tech | Live |
+|---|---------|-------------|------|------|
+| 1 | **ArthAI** | AI-powered personal finance advisor for every Indian | FastAPI, Gemini LLM, DSA (DP + Binary Search) | 🟢 Live |
+| 2 | **Indian Job Market Analyzer** | Salary fairness checker + ML salary predictor for Indian AI/ML jobs | Pandas, Sklearn, Random Forest, FastAPI, Chart.js | 🟢 Live |
+| 3 | **AI Learning Management System** | Track and manage AI/ML learning progress | Python OOP, File Handling | ✅ Built |
+
+> 🔗 Add your Render URLs above once deployed!
+
+---
+
+## 🗺️ Roadmap Overview
+
+| Phase | Focus | Days | Status |
+|-------|-------|------|--------|
+| 🐍 **Phase 1** | Python Foundations | Day 01–20 | ✅ Complete |
+| 🔢 **Phase 2** | DSA + ArthAI (Fintech App) | Day 21–35 | ✅ Complete |
+| 📊 **Phase 3** | Data Science + Job Market Analyzer | Day 36–50 | ✅ Complete |
+| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 53/70 |
+| 🧠 **Phase 5** | Deep Learning + AI + 3 Projects | Day 71–90 | 🔒 Pending |
+| 🚀 **Phase 6** | Enterprise AI Products | Day 90+ | 🔒 Planned |
+
+---
+
+## 📋 Daily Progress
+
+### 🐍 Phase 1 — Python Foundations ✅
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
-| Day 01 | Python Basics — Variables, I/O, Loops | [📝 Notes](days/day-01/notes.md) | [💻 Code](days/day-01/code) |
-| Day 02 | Data Types, Operators, Conditions | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-02/code) |
-| Day 03 | Python Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
+| Day 01 | Python Basics — Variables, I/O | [📝 Notes](days/day-01/notes.md) | [💻 Code](days/day-01/code) |
+| Day 02 | Data Types, Operators | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-02/code) |
+| Day 03 | Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
 | Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | [💻 Code](days/day-04/code) |
-| Day 05 | Advanced Functions & Recursion | [📝 Notes](days/day-05/notes.md) | [💻 Code](days/day-05/code) |
-| Day 06 | Python Data Structures | [📝 Notes](days/day-06/notes.md) | [💻 Code](days/day-06/code) |
+| Day 05 | Advanced Functions, Lambda, Recursion | [📝 Notes](days/day-05/notes.md) | [💻 Code](days/day-05/code) |
+| Day 06 | Data Structures | [📝 Notes](days/day-06/notes.md) | [💻 Code](days/day-06/code) |
 | Day 07 | Sets, Arrays & List Comprehensions | [📝 Notes](days/day-07/notes.md) | [💻 Code](days/day-07/code) |
-| Day 08 | Python Collections Module | [📝 Notes](days/day-08/notes.md) | [💻 Code](days/day-08/code) |
+| Day 08 | Collections Module | [📝 Notes](days/day-08/notes.md) | [💻 Code](days/day-08/code) |
 | Day 09 | Exception Handling | [📝 Notes](days/day-09/notes.md) | [💻 Code](days/day-09/code) |
 | Day 10 | File Handling | [📝 Notes](days/day-10/notes.md) | [💻 Code](days/day-10/code) |
 | Day 11 | OOP — Classes & Inheritance | [📝 Notes](days/day-11/notes.md) | [💻 Code](days/day-11/code) |
-| Day 12 | OOP — Encapsulation, Polymorphism, Abstract Classes | [📝 Notes](days/day-12/notes.md) | [💻 Code](days/day-12/code) |
-| Day 13 | OOP Capstone — AI Learning Management System | [📝 Notes](days/day-13/notes.md) | [💻 Code](days/day-13/code) |
+| Day 12 | OOP — Encapsulation, Polymorphism | [📝 Notes](days/day-12/notes.md) | [💻 Code](days/day-12/code) |
+| Day 13 | 🏗️ Project 1 — AI Learning Management System | [📝 Notes](days/day-13/notes.md) | [💻 Code](projects/01_ai_learning_management_system) |
 | Day 14 | Modules, Packages & Virtual Environments | [📝 Notes](days/day-14/notes.md) | [💻 Code](days/day-14/code) |
-| Day 15 | Regular Expressions (Regex) | [📝 Notes](days/day-15/notes.md) | [💻 Code](days/day-15/code) |
-| Day 16 | Working with JSON & CSV Files | [📝 Notes](days/day-16/notes.md) | [💻 Code](days/day-16/code) |
-| Day 17 | Python APIs — requests library | [📝 Notes](days/day-17/notes.md) | [💻 Code](days/day-17/code) |
+| Day 15 | Regular Expressions & NLP Preprocessing | [📝 Notes](days/day-15/notes.md) | [💻 Code](days/day-15/code) |
+| Day 16 | JSON & CSV Files | [📝 Notes](days/day-16/notes.md) | [💻 Code](days/day-16/code) |
+| Day 17 | Python APIs | [📝 Notes](days/day-17/notes.md) | [💻 Code](days/day-17/code) |
 | Day 18 | Magic Methods & Operator Overloading | [📝 Notes](days/day-18/notes.md) | [💻 Code](days/day-18/code) |
-| Day 19 | Decorators & Generators |  [📝 Notes](days/day-19/notes.md) | [💻 Code](days/day-19/code) |
-| Day 20 | 🏗️ Project 1 — Student Report Card Generator |  [📝 Notes](days/day-20/notes.md) | [💻 Code](days/day-20/code) |
+| Day 19 | Decorators & Generators | [📝 Notes](days/day-19/notes.md) | [💻 Code](days/day-19/code) |
+| Day 20 | Python Revision + LeetCode | [📝 Notes](days/day-20/notes.md) | [💻 Code](days/day-20/code) |
 
+### 🔢 Phase 2 — DSA ✅
 
-## 🔢 Phase 2 — Math & DSA for AI (Days 21–40)
-*Goal: Build the problem-solving brain that ML interviews test*
+| Day | Topic | Notes | Code |
+|-----|-------|-------|------|
+| Day 21 | Arrays, Searching & Sorting | [📝 Notes](days/day-21/notes.md) | [💻 Code](days/day-21/code) |
+| Day 22 | Stacks & Queues | [📝 Notes](days/day-22/notes.md) | [💻 Code](days/day-22/code) |
+| Day 23 | Linked Lists | [📝 Notes](days/day-23/notes.md) | [💻 Code](days/day-23/code) |
+| Day 24 | Hash Maps & Sets | [📝 Notes](days/day-24/notes.md) | [💻 Code](days/day-24/code) |
+| Day 25 | Recursion & Backtracking | [📝 Notes](days/day-25/notes.md) | [💻 Code](days/day-25/code) |
+| Day 26 | Trees & Binary Search Trees | [📝 Notes](days/day-26/notes.md) | [💻 Code](days/day-26/code) |
+| Day 27 | Graphs — BFS & DFS | [📝 Notes](days/day-27/notes.md) | [💻 Code](days/day-27/code) |
+| Day 28 | Dynamic Programming | [📝 Notes](days/day-28/notes.md) | [💻 Code](days/day-28/code) |
+| Day 29 | Advanced DSA Patterns | [📝 Notes](days/day-29/notes.md) | [💻 Code](days/day-29/code) |
+| Day 30–35 | 🏗️ ArthAI — Smart Financial Advisor | [📝 Notes](days/day-30/notes.md) | [💻 Code](projects/arthAI) |
 
-| Day | Topic | Status | Date |
-|-----|-------|--------|------|
-| Day 21 | DSA — Arrays, Searching & Sorting | [📝 Notes](days/day-21/notes.md) | [💻 Code](days/day-21/code) |
-| Day 22 | DSA — Stacks & Queues | [📝 Notes](days/day-22/notes.md) | [💻 Code](days/day-22/code) |
-| Day 23 | DSA — Linked Lists | [📝 Notes](days/day-23/notes.md) | [💻 Code](days/day-23/code) |
-| Day 24 | DSA — Hash Maps & Sets | [📝 Notes](days/day-24/notes.md) | [💻 Code](days/day-24/code) |
-| Day 25 | DSA — Recursion & Backtracking | [📝 Notes](days/day-25/notes.md) | [💻 Code](days/day-25/code) |
-| Day 26 | DSA — Trees & Binary Search Trees | [📝 Notes](days/day-26/notes.md) | [💻 Code](days/day-26/code)|
-| Day 27 | DSA — Graphs Basics | [📝 Notes](days/day-27/notes.md) | [💻 Code](days/day-27/code)|
-| Day 28 | DSA — Dynamic Programming Basics | [📝 Notes](days/day-28/notes.md) | [💻 Code](days/day-28/code) |
-| Day 29 | DSA — Advanced Patterns + ArthAI Launch | [📝 Notes](days/day-29/notes.md) | [💻 Code](days/day-29/code) |
-| Day 30 | 🏗️ ArthAI — Web Interface Complete | [📝 Notes](days/day-30/notes.md) | [💻 Code](projects/arthAI) |
-| Day 31 | 🏗️ ArthAI — Deployed Live + Goal Planner | [📝 Notes](days/day-31/notes.md) | [💻 Code](projects/arthAI) |
-| Day 32 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | [📝 Notes](days/day-32/notes.md) | [💻 Code](projects/arthAI) |
-| Day 33 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | [📝 Notes](days/day-33/notes.md) | [💻 Code](projects/arthAI) |
-| Day 34 | 🏗️ ArthAI — PDF Reports + v1.0 Complete | [📝 Notes](days/day-34/notes.md) | [💻 Code](projects/arthAI) |
-| Day 36 | NumPy — Arrays & Operations | [📝 Notes](days/day-35/notes.md) | [💻 Code](days/day-35/code) |
+### 📊 Phase 3 — Data Science ✅
+
+| Day | Topic | Notes | Code |
+|-----|-------|-------|------|
 | Day 36 | NumPy — Arrays & Operations | [📝 Notes](days/day-36/notes.md) | [💻 Code](days/day-36/code) |
-| Day 37 | NumPy — Linear Algebra | [📝 Notes](days/day-37/notes.md) | [💻 Code](days/day-37/code) |
+| Day 37 | NumPy — Linear Algebra & PCA | [📝 Notes](days/day-37/notes.md) | [💻 Code](days/day-37/code) |
 | Day 38 | Pandas — DataFrames | [📝 Notes](days/day-38/notes.md) | [💻 Code](days/day-38/code) |
 | Day 39 | Pandas — Data Cleaning | [📝 Notes](days/day-39/notes.md) | [💻 Code](days/day-39/code) |
 | Day 40 | Pandas — GroupBy & Aggregations | [📝 Notes](days/day-40/notes.md) | [💻 Code](days/day-40/code) |
@@ -102,122 +104,134 @@ Hi! I'm **Balaravi** from India 🇮🇳 — documenting my AI/ML learning journ
 | Day 44 | Feature Engineering | [📝 Notes](days/day-44/notes.md) | [💻 Code](days/day-44/code) |
 | Day 45 | Statistics for ML | [📝 Notes](days/day-45/notes.md) | [💻 Code](days/day-45/code) |
 | Day 46 | Data Preprocessing Pipeline | [📝 Notes](days/day-46/notes.md) | [💻 Code](days/day-46/code) |
-| Day 47 | 🏗️ Indian Job Market Analyzer — Project Start | [📝 Notes](days/day-47/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
-| Day 48 | 🏗️ Job Market Analyzer — ML Model + Charts | [📝 Notes](days/day-48/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
-| Day 49 | 🏗️ Job Market Analyzer — ML Model + Charts | [📝 Notes](days/day-48/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
-| Day 50 | 🏗️ Job Analyzer — Deploy Live + Phase 3 Complete! | [📝 Notes](days/day-50/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
+| Day 47–50 | 🏗️ Indian Job Market Analyzer | [📝 Notes](days/day-47/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
+
+### 🤖 Phase 4 — Machine Learning ⏳ In Progress
+
+| Day | Topic | Notes | Code |
+|-----|-------|-------|------|
 | Day 51 | ML Fundamentals + Scikit-learn | [📝 Notes](days/day-51/notes.md) | [💻 Code](days/day-51/code) |
-| Day 52 | Linear Regression | [📝 Notes](days/day-52/notes.md) | [💻 Code](days/day-52/code) |
----
+| Day 52 | Linear Regression (OLS + Ridge + Lasso) | [📝 Notes](days/day-52/notes.md) | [💻 Code](days/day-52/code) |
+| Day 53 | Logistic Regression | [📝 Notes](days/day-53/notes.md) | [💻 Code](days/day-53/code) |
+| Day 54 | Decision Trees | ⏳ Coming | — |
+| Day 55 | Random Forest & Ensemble Methods | 🔒 Pending | — |
+| Day 56 | SVM & KNN | 🔒 Pending | — |
+| Day 57 | Model Evaluation & Metrics | 🔒 Pending | — |
+| Day 58 | Cross Validation & Hyperparameter Tuning | 🔒 Pending | — |
+| Day 59–62 | 🏗️ Student Performance Predictor | 🔒 Pending | — |
+| Day 63 | NLP Basics & Text Processing | 🔒 Pending | — |
+| Day 64 | TF-IDF & Word Embeddings | 🔒 Pending | — |
+| Day 65 | Sentiment Analysis | 🔒 Pending | — |
+| Day 66 | Named Entity Recognition | 🔒 Pending | — |
+| Day 67–70 | 🏗️ AI Hiring Assistant | 🔒 Pending | — |
 
+### 🧠 Phase 5 — Deep Learning + AI 🔒
 
-## 🛠️ Skills & Tools
-
-**Currently Learning:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-**Tools:**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-
----
-
-## 🏗️ Projects
-
-| # | Project | Skills | Status |
-|---|---------|--------|--------|
-| 1 | AI Learning Management System | OOP, File Handling | ✅ [View Project](projects/01_ai_learning_management_system/) |
-| 2 | ArthAI — Smart Financial Advisor | DSA, FastAPI, Financial Math | ✅ v1.0 Live |
-| 3 | Indian Job Market Analyzer | Pandas, NumPy, SciPy, FastAPI | 🚧 In Progress |
-| 4 | Email Spam Classifier | NLP, Classification | 🔒 Coming Soon |
-| 5 | Sentiment Analyzer Web App | NLP, Flask | 🔒 Coming Soon |
-| 6 | Image Classifier | CNN, Keras | 🔒 Coming Soon |
-| 7 | Text Summarizer | Transformers | 🔒 Coming Soon |
-| 8 | Final AI Portfolio Project | Everything | 🔒 Coming Soon |
-
-## 🚀 Featured Projects
-
-| Project Name | Skills Used | Status |
-| :--- | :--- | :--- |
-| **[AI Learning Management System](./days/day-13)** | `OOP`, `Abstract Classes`, `File I/O` | ✅ Completed |
-| **[NLP Text Preprocessor](./days/day-15)** | `NLTK`, `Regex`, `Data Cleaning` | ✅ Completed |
-| **[Teachable Machine AI](https://github.com/balaravi444 )** | `FastAPI`, `PyTorch`, `Streamlit` | 🛠️ In Progress |
-| **[Causal Insight Engine](https://github.com/balaravi444 )** | `Causal AI`, `Python`, `DoWhy` | 🛠️ In Progress |
+| Day | Topic | Notes | Code |
+|-----|-------|-------|------|
+| Day 71 | Neural Networks from Scratch | 🔒 Pending | — |
+| Day 72 | TensorFlow & Keras Basics | 🔒 Pending | — |
+| Day 73 | CNN — Convolutional Neural Networks | 🔒 Pending | — |
+| Day 74 | Transfer Learning | 🔒 Pending | — |
+| Day 75 | Image Augmentation & Preprocessing | 🔒 Pending | — |
+| Day 76 | Model Optimization & Callbacks | 🔒 Pending | — |
+| Day 77–80 | 🏗️ Skin Disease Detector | 🔒 Pending | — |
+| Day 81 | Transformers — How They Work | 🔒 Pending | — |
+| Day 82 | HuggingFace — Pretrained Models | 🔒 Pending | — |
+| Day 83 | LangChain Basics | 🔒 Pending | — |
+| Day 84 | Vector Databases & Embeddings | 🔒 Pending | — |
+| Day 85 | RAG — Retrieval Augmented Generation | 🔒 Pending | — |
+| Day 86 | AI Agents & Tool Use | 🔒 Pending | — |
+| Day 87–90 | 🏗️ AI Study Buddy (LLM + RAG Capstone) | 🔒 Pending | — |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Phase 6 — Enterprise AI Products (Post Day 90)
 
-<div align="center">
+These are the two major enterprise projects planned after the 90-day journey:
 
-<img src="https://github-readme-stats.vercel.app/api?username=balaravi444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+### 🔧 AI Engineering Copilot
+> **AI-powered assistant that helps software engineering teams work faster**
 
-</div>
+Instead of developers manually searching through GitHub repositories, Jira tickets, Slack messages, documentation, and CI/CD build logs — they simply ask questions in natural language and get accurate answers within seconds.
 
-<br/>
+**What it does:**
+- Understands your entire codebase, docs, issues, PRs, and logs
+- Answers questions like *"Why is the CI failing?"* or *"Which component handles auth?"*
+- Suggests contextual code improvements
+- Acts as an intelligent on-call assistant for your team
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=balaravi444&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=1800" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaravi444&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balaravi444&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
+**Tech Stack:** LLMs, RAG, LangChain, GitHub API, Jira API, Slack API, Vector DB
 
 ---
 
-## 🎯 For Fellow Learners
+### 🧠 ReqMind AI
+> **AI-powered software requirement intelligence platform**
 
-If you're also starting your AI/ML journey:
-- ⭐ **Star this repo** to follow along
-- 🍴 **Fork it** and start your own journey
-- 💬 **Open a Discussion** to share your progress
-- 📄 Check [progress-tracker.md](progress-tracker.md) for the full roadmap
-- 📖 Check [beginners-guide.md](beginners-guide.md) if you're just starting!
+ReqMind AI analyzes software requirements *before development begins* — finding missing requirements, contradictions, security gaps, edge cases, and testing needs. Instead of relying on manual reviews, teams get structured AI insights within minutes.
 
----
+**Target Users:** Product Managers, Business Analysts, Solution Architects, Developers, QA Engineers
 
-## 🎯 2026 Goals
+**What it does:**
+- Detects missing requirements and logical contradictions
+- Flags security vulnerabilities in requirements
+- Identifies edge cases and ambiguous language
+- Suggests implementation approaches
+- Generates test case outlines from requirements
+- Reduces costly requirement errors early in the SDLC
 
-- [ ] Complete 90-day AI/ML roadmap
-- [ ] Build 8 real projects
-- [ ] Land first AI Engineer job 🎉
-- [ ] Help 100+ beginners start their AI journey
-
----
-
-## 💬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bala-ravi444/)
-[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/balaravi444)
+**Tech Stack:** LLMs, NLP, LangChain, FastAPI, React (SaaS)
 
 ---
 
-<div align="center">
+## 📁 Repository Structure
 
-*"Consistency beats motivation. Show up every day."* 🔥
+```
+AI-ML-Learning-Journey/
+├── days/
+│   ├── day-01/ → day-53/     ← daily notes + code
+├── projects/
+│   ├── 01_ai_learning_management_system/
+│   ├── arthAI/               ← Live fintech app 🟢
+│   └── indian_job_market_analyzer/  ← Live salary tool 🟢
+├── cheatsheets/              ← quick reference sheets
+├── resources/
+│   └── useful-links.md       ← curated resources
+├── progress-tracker.md       ← full roadmap + status
+└── README.md
+```
 
-**Started: 19 May 2026 | Target: AI Engineer by November 2026**
+---
 
-</div>
+## 💡 What Makes This Journey Different
+
+- ✅ **No toy datasets** — every project solves a real Indian problem
+- ✅ **Build while learning** — 80% building, 20% theory
+- ✅ **Deployed products** — not just Jupyter notebooks
+- ✅ **DSA + ML** — algorithms that power real products
+- ✅ **0 days missed** — consistency over intensity
+- ✅ **Enterprise vision** — Phase 6 targets real business problems
+
+---
+
+## 🏆 Why These Projects Stand Out
+
+| Project | Problem | Who Benefits |
+|---------|---------|-------------|
+| ArthAI | 99% of Indians have no financial advisor | 500M+ potential users |
+| Job Market Analyzer | Fresh grads don't know if offers are fair | Every job seeker in India |
+| Student Predictor | Schools need early warning for at-risk students | Ed-tech companies, schools |
+| AI Hiring Assistant | HR teams spend hours screening resumes | Every company with hiring needs |
+| AI Engineering Copilot | Dev teams waste hours searching codebases | Every software engineering team |
+| ReqMind AI | Bad requirements = costly rework | Product teams everywhere |
+
+---
+
+## ⚠️ Disclaimer
+
+All projects are built for learning and portfolio purposes. AI-powered tools like ArthAI provide general guidance only — not professional financial, medical, or legal advice.
+
+---
+
+*90 days. 0 missed. Building in public. 🔥*
+*github.com/balaravi444/AI-ML-Learning-Journey*
