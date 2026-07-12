@@ -1,178 +1,367 @@
-# 🚀 Complete Beginner's Guide to AI/ML
+<p align="center">
+  <img src="assets/banner.svg" alt="AI/ML Engineer Roadmap Banner" width="100%"/>
+</p>
 
-> Written by a beginner, for beginners!
-> This guide is based on my real daily learning experience.
-> No fluff — just exactly what works! 🔥
+<p align="center">
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Expert-blueviolet?style=flat" />
+  <img src="https://img.shields.io/badge/Cost-%E2%82%B90%20Free-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Duration-~6%20months-orange?style=flat" />
+  <a href="https://www.linkedin.com/in/bala-ravi444/"><img src="https://img.shields.io/badge/LinkedIn-Bala%20Ravi-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/balaravi444"><img src="https://img.shields.io/badge/GitHub-balaravi444-black?style=flat&logo=github" /></a>
+</p>
 
----
+# 🚀 AI/ML Engineer Roadmap — Beginner to Expert
 
-## 👋 Is This Guide For You?
-
-This guide is perfect if you are:
-- ✅ Complete beginner with zero coding experience
-- ✅ Someone confused about where to start
-- ✅ Someone who tried before and gave up
-- ✅ Someone who wants to become an AI Engineer
-
----
-
-## ❌ The Biggest Mistake Beginners Make
-
-Most beginners do this:
-Watch YouTube → Jump into ML → Get confused → Give up 😞
-The right path is:
-Python → DSA & Math → ML → Deep Learning → AI Engineer 🎯
-
-**Don't skip steps — every phase builds on the previous one!**
+> Written from real daily learning experience — now leveled up with expert-track depth, diagrams, and a production-grade final phase.
+> No fluff. Just the path that works. 🔥
 
 ---
 
-## 🗺️ Your Complete Learning Path
+## 👋 Who This Is For
 
-### 🐍 Step 1 — Learn Python First (4 weeks)
-**Why:** Every AI/ML library is built in Python.
-Without Python you can't do anything in AI/ML!
+- ✅ Complete beginner, zero coding background
+- ✅ Confused about where to start
+- ✅ Tried before, lost momentum, want a structured restart
+- ✅ Wants to go all the way to **job-ready AI Engineer**, not just "know some ML"
+
+---
+
+## ❌ The Mistake vs ✅ The Right Path
+
+```mermaid
+flowchart LR
+    A[Watch random YouTube videos] --> B[Jump straight into ML]
+    B --> C[Get confused by math/jargon]
+    C --> D[Give up 😞]
+
+    style A fill:#3f1d1d,stroke:#ef4444,color:#fff
+    style B fill:#3f1d1d,stroke:#ef4444,color:#fff
+    style C fill:#3f1d1d,stroke:#ef4444,color:#fff
+    style D fill:#3f1d1d,stroke:#ef4444,color:#fff
+```
+
+```mermaid
+flowchart LR
+    P[🐍 Python] --> M[🔢 Math & DSA]
+    M --> ML[🤖 Machine Learning]
+    ML --> DL[🧠 Deep Learning & GenAI]
+    DL --> OPS[⚙️ Deployment & LLMOps]
+    OPS --> J[🎯 AI Engineer]
+
+    style P fill:#0f766e,stroke:#14b8a6,color:#fff
+    style M fill:#1e3a8a,stroke:#3b82f6,color:#fff
+    style ML fill:#5b21b6,stroke:#a855f7,color:#fff
+    style DL fill:#9d174d,stroke:#ec4899,color:#fff
+    style OPS fill:#92400e,stroke:#f59e0b,color:#fff
+    style J fill:#166534,stroke:#22c55e,color:#fff
+```
+
+**Don't skip steps — every phase builds on the previous one. Skipping math to "get to the fun part" is the #1 reason people plateau at intermediate level.**
+
+---
+
+## 🗺️ The Full Learning Path (Expert Track)
+
+```mermaid
+graph TD
+    Start([🚀 Start]) --> P1
+    P1[🐍 Phase 1: Python<br/>Weeks 1-4] --> Pr1[📄 Project: Report Card Generator]
+    Pr1 --> P2[🔢 Phase 2: Math, DSA & Data Science<br/>Weeks 5-8]
+    P2 --> Pr2[📊 Project: Data Analysis Dashboard]
+    Pr2 --> P3[🤖 Phase 3: Machine Learning<br/>Weeks 9-14]
+    P3 --> Pr3[🎯 Project: ML Classification Model]
+    Pr3 --> P4[🧠 Phase 4: Deep Learning & GenAI<br/>Weeks 15-20]
+    P4 --> Pr4[🧬 Project: Generative AI App]
+    Pr4 --> P5[⚙️ Phase 5: LLMOps & Deployment<br/>Weeks 21-24]
+    P5 --> Pr5[🏭 Project: Production RAG/Agent System]
+    Pr5 --> End([✅ Job-Ready AI Engineer])
+
+    style Start fill:#166534,stroke:#22c55e,color:#fff
+    style End fill:#166534,stroke:#22c55e,color:#fff
+    style P1 fill:#0f766e,color:#fff
+    style P2 fill:#1e3a8a,color:#fff
+    style P3 fill:#5b21b6,color:#fff
+    style P4 fill:#9d174d,color:#fff
+    style P5 fill:#92400e,color:#fff
+```
+
+---
+
+### 🐍 Phase 1 — Python Foundations (Weeks 1–4)
+
+**Why:** Every AI/ML library — NumPy, PyTorch, HuggingFace — is Python. No Python, no AI/ML.
+
+**Core:**
+- Variables, data types, loops, recursion
+- Data structures — lists, dicts, sets, tuples
+- Functions, `*args`/`**kwargs`, decorators, closures
+- OOP — classes, inheritance, encapsulation, dunder methods
+- File handling, exception handling, context managers
+
+**Expert add-ons (what separates you from tutorial-followers):**
+- Type hints + `mypy` for catching bugs before runtime
+- `asyncio` basics — needed later for serving AI apps
+- Writing tests with `pytest`
+- Git branching workflow + clean commit history (recruiters check this!)
+
+**Resources:** [GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language/) · [W3Schools Python](https://www.w3schools.com/python/)
+
+**Done when:** You can write a program from memory, no Googling syntax.
+
+**📦 Project 1:** Student Report Card Generator (CLI, reads CSV, computes grades, exports PDF, has unit tests).
+
+---
+
+### 🔢 Phase 2 — Math, DSA & Data Science (Weeks 5–8)
+
+**Why:** ML *is* math. Skip this and you'll memorize `.fit()` calls without knowing why a model fails.
+
+```mermaid
+mindmap
+  root((Math for ML))
+    Linear Algebra
+      Vectors & Matrices
+      Eigenvalues/Eigenvectors
+      Dot products
+    Statistics
+      Mean/Median/Std Dev
+      Distributions
+      Hypothesis testing
+    Probability
+      Bayes Theorem
+      Conditional probability
+    Calculus
+      Derivatives
+      Gradients
+      Chain rule
+```
+
+**Core:**
+- Arrays, searching, sorting, Big-O basics
+- Statistics — mean, median, standard deviation, correlation
+- Probability — Bayes' theorem, conditional probability
+- Linear algebra — vectors, matrices, dot products
+- NumPy, Pandas, Matplotlib/Seaborn
+
+**Expert add-ons:**
+- Eigenvalues/eigenvectors → why PCA works
+- Gradient & chain rule → why backpropagation works
+- SQL — joins, window functions, CTEs (most real data lives in databases, not CSVs)
+
+**Resources:** [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability) · [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
+
+**Done when:** You can look at a dataset and explain what the numbers *mean*, not just plot them.
+
+**📦 Project 2:** Data Analysis Dashboard (EDA + SQL + interactive Streamlit dashboard on a real Kaggle dataset).
+
+---
+
+### 🤖 Phase 3 — Machine Learning (Weeks 9–14)
+
+**Why:** This is where machines start "learning" patterns from data instead of following fixed rules.
+
+```mermaid
+flowchart TD
+    D[Raw Data] --> C[Clean & Preprocess]
+    C --> F[Feature Engineering]
+    F --> S[Split: Train/Val/Test]
+    S --> M[Train Model]
+    M --> E[Evaluate: Accuracy/Precision/Recall]
+    E -->|Not good enough| F
+    E -->|Good enough| Deploy[Ready to Deploy]
+
+    style Deploy fill:#166534,stroke:#22c55e,color:#fff
+```
+
+**Core:**
+- Supervised vs unsupervised learning
+- Linear & logistic regression
+- Decision trees, random forests
+- Model evaluation — accuracy, precision, recall, F1, confusion matrix
+- Scikit-learn
+
+**Expert add-ons:**
+- Gradient boosting: XGBoost/LightGBM (used in most real-world tabular ML)
+- Cross-validation + hyperparameter tuning (GridSearch, Optuna)
+- Explainability — SHAP values ("why did the model predict this?")
+- Experiment tracking — MLflow or Weights & Biases (so your work is reproducible)
+
+**Resources:** [Kaggle Learn ML](https://www.kaggle.com/learn/intro-to-machine-learning) · [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+
+**Done when:** You can build, tune, evaluate, and explain a model on a real dataset — not just run one cell of code.
+
+**📦 Project 3:** ML Classification Model (compare 2+ algorithms, tune hyperparameters, explain predictions with SHAP, track experiments).
+
+---
+
+### 🧠 Phase 4 — Deep Learning & Generative AI (Weeks 15–20)
+
+**Why:** This is what powers ChatGPT, image generation, voice assistants — the "AI" everyone talks about today.
+
+```mermaid
+flowchart LR
+    subgraph "Neural Network Basics"
+    N1[Neural Networks] --> N2[CNN - Images]
+    N1 --> N3[RNN/LSTM - Sequences]
+    end
+    subgraph "Modern AI"
+    N4[Transformers] --> N5[LLMs]
+    N5 --> N6[RAG]
+    N5 --> N7[AI Agents]
+    end
+    N1 --> N4
+
+    style N4 fill:#5b21b6,color:#fff
+    style N5 fill:#9d174d,color:#fff
+    style N6 fill:#9d174d,color:#fff
+    style N7 fill:#9d174d,color:#fff
+```
+
+**Core:**
+- Neural networks from scratch (forward pass, backprop, activation functions)
+- TensorFlow/Keras and PyTorch
+- CNNs for images, RNN/LSTM for sequences
+- Transformers, attention mechanism
+- HuggingFace ecosystem
+
+**Expert add-ons:**
+- Prompt engineering — zero-shot, few-shot, chain-of-thought
+- Fine-tuning with LoRA/QLoRA (train big models on a normal GPU)
+- **RAG (Retrieval-Augmented Generation)** — embeddings + vector databases (FAISS, Chroma, Pinecone)
+- **AI Agents** — tool calling, ReAct pattern, frameworks like LangChain/LangGraph
+- Model quantization basics — running big models efficiently
+
+**Resources:** [fast.ai](https://www.fast.ai/) · [HuggingFace Course](https://huggingface.co/learn)
+
+**Done when:** You can build and deploy a real AI application that talks to your own data.
+
+**📦 Project 4:** Generative AI Application — a RAG chatbot or AI agent over your own documents, with a simple UI (Streamlit/Gradio).
+
+---
+
+### ⚙️ Phase 5 — LLMOps & Deployment (Weeks 21–24) — *This is what makes you "expert," not just "knowledgeable"*
+
+Most tutorials stop at Phase 4. **Real AI Engineer jobs need this phase.**
+
+```mermaid
+flowchart LR
+    Code[Your Model/App] --> Docker[🐳 Containerize]
+    Docker --> API[⚡ Serve via FastAPI]
+    API --> CI[🔄 CI/CD Pipeline]
+    CI --> Cloud[☁️ Deploy to Cloud]
+    Cloud --> Mon[📈 Monitor & Log]
+    Mon -->|Feedback loop| Code
+
+    style Code fill:#1e3a8a,color:#fff
+    style Cloud fill:#166534,color:#fff
+```
 
 **What to learn:**
-- Variables, Data Types, Loops
-- Functions and Recursion
-- Data Structures — Lists, Dicts, Sets
-- OOP — Classes, Inheritance, Encapsulation
-- File Handling, Exception Handling
+- Serving models: FastAPI, vLLM
+- Docker — containerize your app so it runs anywhere
+- CI/CD basics — GitHub Actions to auto-test and deploy
+- Monitoring — logging, latency tracking, catching model drift
+- Cloud basics — deploy on AWS/GCP/Azure free tier
+- Security — API keys, rate limiting, not leaking secrets in your repo
 
-**Resources:**
-- [GeeksforGeeks Python](https://www.geeksforgeeks.org/python-programming-language/)
-- [W3Schools Python](https://www.w3schools.com/python/)
+**Done when:** A stranger can call your deployed API and get a real response — not just "works on my laptop."
 
-**Done when:** You can write Python programs from memory without googling syntax!
-
----
-
-### 🔢 Step 2 — Learn Math & DSA (4 weeks)
-**Why:** ML is just math — if you skip this you won't understand WHY algorithms work.
-
-**What to learn:**
-- Arrays, Searching, Sorting
-- Statistics — Mean, Median, Standard Deviation
-- Probability basics
-- Linear Algebra — Vectors and Matrices
-- NumPy, Pandas, Matplotlib
-
-**Resources:**
-- [Khan Academy Statistics](https://www.khanacademy.org/math/statistics-probability)
-- [GeeksforGeeks DSA](https://www.geeksforgeeks.org/data-structures/)
-
-**Done when:** You can analyze a dataset and explain what the numbers mean!
-
----
-
-### 🤖 Step 3 — Learn Machine Learning (6 weeks)
-**Why:** This is the core of AI/ML — understanding how machines learn from data.
-
-**What to learn:**
-- Types of ML — Supervised, Unsupervised
-- Linear Regression, Logistic Regression
-- Decision Trees, Random Forest
-- Model Evaluation — Accuracy, Precision, Recall
-- Scikit-learn library
-
-**Resources:**
-- [Kaggle Learn ML](https://www.kaggle.com/learn/intro-to-machine-learning)
-- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
-
-**Done when:** You can build, train and evaluate an ML model on a real dataset!
-
----
-
-### 🧠 Step 4 — Learn Deep Learning & AI (6 weeks)
-**Why:** This is what makes modern AI work — ChatGPT, image recognition, voice assistants.
-
-**What to learn:**
-- Neural Networks from scratch
-- TensorFlow and Keras
-- CNN for images
-- RNN and LSTM for sequences
-- Transformers and HuggingFace
-- LLMs and AI Agents
-
-**Resources:**
-- [fast.ai](https://www.fast.ai/)
-- [HuggingFace Course](https://huggingface.co/learn)
-
-**Done when:** You can build and deploy a real AI application!
+**📦 Project 5:** Take Project 4, containerize it with Docker, add a CI/CD pipeline, deploy it live, and add basic monitoring. Document the architecture with a diagram in your README.
 
 ---
 
 ## 💡 Tips That Actually Work
 
-### 1. Code Every Single Day
-Even 30 minutes is enough.
-Consistency beats 8-hour weekend sessions every time!
-
-### 2. Write Code From Memory
-Don't just read — close your notes and write it yourself.
-Struggling to remember is how your brain actually learns!
-
-### 3. Document Everything Publicly
-Start a GitHub repo like this one.
-Public accountability keeps you consistent!
-
-### 4. Build Projects Early
-Don't wait until you "know enough".
-Build small projects from Day 1 — they teach you faster than tutorials!
-
-### 5. Learn in Public
-Post your progress on LinkedIn every day.
-The community support will keep you going on hard days!
-
-### 6. Don't Compare Your Day 1 to Someone's Day 500
-Everyone starts from zero.
-Focus on being better than yesterday — not better than someone else!
+| Tip | Why It Works |
+|---|---|
+| 🗓️ **Code every single day** | Even 30 min beats 8-hour weekend cramming — consistency compounds |
+| 🧠 **Write code from memory** | Struggling to recall is literally how the brain encodes learning |
+| 📝 **Document everything publicly** | Public accountability keeps you consistent (this repo is proof) |
+| 🛠️ **Build projects from Day 1** | Projects teach faster than tutorials — don't wait to "know enough" |
+| 📢 **Learn in public** | Post progress on LinkedIn — community keeps you going on hard days |
+| 📊 **Compare Day-N to your own Day-1** | Not to someone else's Day 500 — everyone starts at zero |
 
 ---
 
 ## 🛠️ Tools You Need
 
 | Tool | Purpose | Cost |
-|------|---------|------|
+|---|---|---|
 | [Python](https://www.python.org/) | Programming language | Free |
 | [VS Code](https://code.visualstudio.com/) | Code editor | Free |
-| [Google Colab](https://colab.research.google.com/) | ML notebooks with free GPU | Free |
-| [GitHub](https://github.com/) | Store and share your code | Free |
-| [Kaggle](https://www.kaggle.com/) | Datasets and competitions | Free |
+| [Google Colab](https://colab.research.google.com/) | Notebooks with free GPU | Free |
+| [GitHub](https://github.com/) | Store & showcase your code | Free |
+| [Kaggle](https://www.kaggle.com/) | Datasets & competitions | Free |
+| [Hugging Face](https://huggingface.co/) | Pretrained models & datasets | Free |
+| [MLflow](https://mlflow.org/) | Experiment tracking | Free |
+| [Docker](https://www.docker.com/) | Containerize your apps | Free |
 
-**Total cost: ₹0** — everything you need is completely free! 🎉
+**Total cost: ₹0 — everything here is free.** 🎉
 
 ---
 
 ## 📅 Realistic Timeline
 
+```mermaid
+gantt
+    title AI/ML Engineer Roadmap Timeline
+    dateFormat  X
+    axisFormat %s
+    section Phase 1
+    Python Foundations       :p1, 0, 4w
+    section Phase 2
+    Math, DSA & Data Science :p2, after p1, 4w
+    section Phase 3
+    Machine Learning         :p3, after p2, 6w
+    section Phase 4
+    Deep Learning & GenAI    :p4, after p3, 6w
+    section Phase 5
+    LLMOps & Deployment      :p5, after p4, 4w
+```
+
 | Phase | Duration | Outcome |
-|-------|----------|---------|
+|---|---|---|
 | Python Foundations | 4 weeks | Write clean Python code |
-| Math & DSA | 4 weeks | Understand data and algorithms |
-| Machine Learning | 6 weeks | Build and evaluate ML models |
-| Deep Learning & AI | 6 weeks | Build real AI applications |
-| **Total** | **~5 months** | **Ready for AI Engineer jobs!** |
+| Math & DSA | 4 weeks | Understand data & algorithms |
+| Machine Learning | 6 weeks | Build & evaluate ML models |
+| Deep Learning & GenAI | 6 weeks | Build real AI applications |
+| LLMOps & Deployment | 4 weeks | Ship production-ready AI |
+| **Total** | **~6 months** | **Job-ready AI Engineer** |
 
 ---
 
 ## 🎯 Your First Week Action Plan
 
-**Day 1:** Install Python and VS Code. Write Hello World!
-**Day 2:** Learn variables and data types
-**Day 3:** Learn conditions and loops
-**Day 4:** Learn functions
-**Day 5:** Build your first mini project
-**Day 6:** Review and practice everything
-**Day 7:** Rest and plan next week
+| Day | Task |
+|---|---|
+| 1 | Install Python + VS Code, write Hello World |
+| 2 | Learn variables & data types |
+| 3 | Learn conditions & loops |
+| 4 | Learn functions |
+| 5 | Build first mini project |
+| 6 | Review & practice everything |
+| 7 | Rest, plan next week |
+
+---
+
+## ✅ Expert-Level Checklist
+
+- [ ] Python & DSA
+- [ ] Math for ML (Linear Algebra, Calculus, Statistics)
+- [ ] SQL + Data Analysis
+- [ ] Classical ML (regression, trees, boosting)
+- [ ] Model evaluation & explainability (SHAP)
+- [ ] Deep Learning (CNN, RNN, Transformers)
+- [ ] LLMs, RAG & AI Agents
+- [ ] Docker, CI/CD, cloud deployment
+- [ ] Monitoring & MLOps basics
+- [ ] 5 portfolio projects with clean READMEs
 
 ---
 
 ## 🔗 Follow My Journey
 
-I'm documenting every single day of this journey publicly!
-Check the daily notes and code to see exactly what I learned each day.
+I'm documenting every single day of this journey publicly.
 
 - 📅 [Daily Progress](README.md)
 - 📊 [Full Roadmap](progress-tracker.md)
@@ -183,14 +372,10 @@ Check the daily notes and code to see exactly what I learned each day.
 
 ## 💬 Connect & Learn Together
 
-If you're also on this journey — let's connect!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bala%20Ravi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bala-ravi444/)
 [![GitHub](https://img.shields.io/badge/GitHub-balaravi444-black?style=flat&logo=github)](https://github.com/balaravi444)
 
 ---
 
-*You don't have to be great to start.*
-*But you have to start to be great.* 🔥
-
-*— Balaravi, Day 12 of my AI Engineer journey*
+<p align="center"><i>You don't have to be great to start.<br/>But you have to start to be great. 🔥</i></p>
+<p align="center"><b>— Balaravi, AI Engineer Journey</b></p>
