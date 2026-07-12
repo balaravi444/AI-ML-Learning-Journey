@@ -54,65 +54,73 @@ No toy datasets. No tutorial clones. Real products that real people use.
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
 | Day 01 | Python Basics — Variables, I/O | [📝 Notes](days/Phase-01-Python-Foundations/day-01/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-01/code) |
-| Day 02 | Data Types, Operators | [📝 Notes](days/day-02/notes.md) | [💻 Code](days/day-02/code) |
-| Day 03 | Control Flow | [📝 Notes](days/day-03/notes.md) | [💻 Code](days/day-03/code) |
-| Day 04 | Functions & Variable Scope | [📝 Notes](days/day-04/notes.md) | [💻 Code](days/day-04/code) |
-| Day 05 | Advanced Functions, Lambda, Recursion | [📝 Notes](days/day-05/notes.md) | [💻 Code](days/day-05/code) |
-| Day 06 | Data Structures | [📝 Notes](days/day-06/notes.md) | [💻 Code](days/day-06/code) |
-| Day 07 | Sets, Arrays & List Comprehensions | [📝 Notes](days/day-07/notes.md) | [💻 Code](days/day-07/code) |
-| Day 08 | Collections Module | [📝 Notes](days/day-08/notes.md) | [💻 Code](days/day-08/code) |
-| Day 09 | Exception Handling | [📝 Notes](days/day-09/notes.md) | [💻 Code](days/day-09/code) |
-| Day 10 | File Handling | [📝 Notes](days/day-10/notes.md) | [💻 Code](days/day-10/code) |
-| Day 11 | OOP — Classes & Inheritance | [📝 Notes](days/day-11/notes.md) | [💻 Code](days/day-11/code) |
-| Day 12 | OOP — Encapsulation, Polymorphism | [📝 Notes](days/day-12/notes.md) | [💻 Code](days/day-12/code) |
-| Day 13 | 🏗️ Project 1 — AI Learning Management System | [📝 Notes](days/day-13/notes.md) | [💻 Code](projects/01_ai_learning_management_system) |
-| Day 14 | Modules, Packages & Virtual Environments | [📝 Notes](days/day-14/notes.md) | [💻 Code](days/day-14/code) |
-| Day 15 | Regular Expressions & NLP Preprocessing | [📝 Notes](days/day-15/notes.md) | [💻 Code](days/day-15/code) |
-| Day 16 | JSON & CSV Files | [📝 Notes](days/day-16/notes.md) | [💻 Code](days/day-16/code) |
-| Day 17 | Python APIs | [📝 Notes](days/day-17/notes.md) | [💻 Code](days/day-17/code) |
-| Day 18 | Magic Methods & Operator Overloading | [📝 Notes](days/day-18/notes.md) | [💻 Code](days/day-18/code) |
-| Day 19 | Decorators & Generators | [📝 Notes](days/day-19/notes.md) | [💻 Code](days/day-19/code) |
-| Day 20 | Python Revision + LeetCode | [📝 Notes](days/day-20/notes.md) | [💻 Code](days/day-20/code) |
+| Day 02 | Data Types & Operators | [📝 Notes](days/Phase-01-Python-Foundations/day-02/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-02/code) |
+| Day 03 | Control Flow | [📝 Notes](days/Phase-01-Python-Foundations/day-03/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-03/code) |
+| Day 04 | Functions & Variable Scope | [📝 Notes](days/Phase-01-Python-Foundations/day-04/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-04/code) |
+| Day 05 | Advanced Functions, Lambda, Recursion | [📝 Notes](days/Phase-01-Python-Foundations/day-05/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-05/code) |
+| Day 06 | Data Structures | [📝 Notes](days/Phase-01-Python-Foundations/day-06/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-06/code) |
+| Day 07 | Sets, Arrays & List Comprehensions | [📝 Notes](days/Phase-01-Python-Foundations/day-07/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-07/code) |
+| Day 08 | Collections Module | [📝 Notes](days/Phase-01-Python-Foundations/day-08/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-08/code) |
+| Day 09 | Exception Handling | [📝 Notes](days/Phase-01-Python-Foundations/day-09/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-09/code) |
+| Day 10 | File Handling | [📝 Notes](days/Phase-01-Python-Foundations/day-10/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-10/code) |
+| Day 11 | OOP — Classes & Inheritance | [📝 Notes](days/Phase-01-Python-Foundations/day-11/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-11/code) |
+| Day 12 | OOP — Encapsulation, Polymorphism | [📝 Notes](days/Phase-01-Python-Foundations/day-12/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-12/code) |
+| Day 13 | Project 1 — AI Learning Management System | [📝 Notes](days/Phase-01-Python-Foundations/day-13/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-13/code) |
+| Day 14 | Modules, Packages & Virtual Environments | [📝 Notes](days/Phase-01-Python-Foundations/day-14/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-14/code) |
+| Day 15 | Regular Expressions & NLP Preprocessing | [📝 Notes](days/Phase-01-Python-Foundations/day-15/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-15/code) |
+| Day 16 | JSON & CSV Files | [📝 Notes](days/Phase-01-Python-Foundations/day-16/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-16/code) |
+| Day 17 | Python APIs | [📝 Notes](days/Phase-01-Python-Foundations/day-17/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-17/code) |
+| Day 18 | Magic Methods & Operator Overloading | [📝 Notes](days/Phase-01-Python-Foundations/day-18/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-18/code) |
+| Day 19 | Decorators & Generators | [📝 Notes](days/Phase-01-Python-Foundations/day-19/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-19/code) |
+| Day 20 | Python Revision + LeetCode | [📝 Notes](days/Phase-01-Python-Foundations/day-20/notes.md) | [💻 Code](days/Phase-01-Python-Foundations/day-20/code) |
 
 ### 🔢 Phase 2 — DSA ✅
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
-| Day 21 | Arrays, Searching & Sorting | [📝 Notes](days/day-21/notes.md) | [💻 Code](days/day-21/code) |
-| Day 22 | Stacks & Queues | [📝 Notes](days/day-22/notes.md) | [💻 Code](days/day-22/code) |
-| Day 23 | Linked Lists | [📝 Notes](days/day-23/notes.md) | [💻 Code](days/day-23/code) |
-| Day 24 | Hash Maps & Sets | [📝 Notes](days/day-24/notes.md) | [💻 Code](days/day-24/code) |
-| Day 25 | Recursion & Backtracking | [📝 Notes](days/day-25/notes.md) | [💻 Code](days/day-25/code) |
-| Day 26 | Trees & Binary Search Trees | [📝 Notes](days/day-26/notes.md) | [💻 Code](days/day-26/code) |
-| Day 27 | Graphs — BFS & DFS | [📝 Notes](days/day-27/notes.md) | [💻 Code](days/day-27/code) |
-| Day 28 | Dynamic Programming | [📝 Notes](days/day-28/notes.md) | [💻 Code](days/day-28/code) |
-| Day 29 | Advanced DSA Patterns | [📝 Notes](days/day-29/notes.md) | [💻 Code](days/day-29/code) |
-| Day 30–35 | 🏗️ ArthAI — Smart Financial Advisor | [📝 Notes](days/day-30/notes.md) | [💻 Code](projects/arthAI) |
+| Day 21 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-21/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-21/code) |
+| Day 22 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-22/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-22/code) |
+| Day 23 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-23/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-23/code) |
+| Day 24 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-24/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-24/code) |
+| Day 25 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-25/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-25/code) |
+| Day 26 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-26/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-26/code) |
+| Day 27 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-27/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-27/code) |
+| Day 28 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-28/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-28/code) |
+| Day 29 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-29/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-29/code) |
+| Day 30 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-30/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-30/code) |
+| Day 31 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-31/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-31/code) |
+| Day 32 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-32/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-32/code) |
+| Day 33 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-33/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-33/code) |
+| Day 34 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-34/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-34/code) |
+| Day 35 | DSA + ArthAI | [📝 Notes](days/Phase-02-DSA-ArthAI/day-35/notes.md) | [💻 Code](days/Phase-02-DSA-ArthAI/day-35/code) |
 
 ### 📊 Phase 3 — Data Science ✅
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
-| Day 36 | NumPy — Arrays & Operations | [📝 Notes](days/day-36/notes.md) | [💻 Code](days/day-36/code) |
-| Day 37 | NumPy — Linear Algebra & PCA | [📝 Notes](days/day-37/notes.md) | [💻 Code](days/day-37/code) |
-| Day 38 | Pandas — DataFrames | [📝 Notes](days/day-38/notes.md) | [💻 Code](days/day-38/code) |
-| Day 39 | Pandas — Data Cleaning | [📝 Notes](days/day-39/notes.md) | [💻 Code](days/day-39/code) |
-| Day 40 | Pandas — GroupBy & Aggregations | [📝 Notes](days/day-40/notes.md) | [💻 Code](days/day-40/code) |
-| Day 41 | Matplotlib — Data Visualization | [📝 Notes](days/day-41/notes.md) | [💻 Code](days/day-41/code) |
-| Day 42 | Seaborn — Statistical Visualization | [📝 Notes](days/day-42/notes.md) | [💻 Code](days/day-42/code) |
-| Day 43 | EDA — Exploratory Data Analysis | [📝 Notes](days/day-43/notes.md) | [💻 Code](days/day-43/code) |
-| Day 44 | Feature Engineering | [📝 Notes](days/day-44/notes.md) | [💻 Code](days/day-44/code) |
-| Day 45 | Statistics for ML | [📝 Notes](days/day-45/notes.md) | [💻 Code](days/day-45/code) |
-| Day 46 | Data Preprocessing Pipeline | [📝 Notes](days/day-46/notes.md) | [💻 Code](days/day-46/code) |
-| Day 47–50 | 🏗️ Indian Job Market Analyzer | [📝 Notes](days/day-47/notes.md) | [💻 Code](projects/indian_job_market_analyzer) |
+| Day 36 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-36/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-36/code) |
+| Day 37 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-37/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-37/code) |
+| Day 38 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-38/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-38/code) |
+| Day 39 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-39/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-39/code) |
+| Day 40 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-40/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-40/code) |
+| Day 41 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-41/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-41/code) |
+| Day 42 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-42/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-42/code) |
+| Day 43 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-43/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-43/code) |
+| Day 44 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-44/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-44/code) |
+| Day 45 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-45/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-45/code) |
+| Day 46 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-46/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-46/code) |
+| Day 47 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-47/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-47/code) |
+| Day 48 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-48/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-48/code) |
+| Day 49 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-49/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-49/code) |
+| Day 50 | Data Science + Job Market Analyzer | [📝 Notes](days/Phase-03-Data-Science/day-50/notes.md) | [💻 Code](days/Phase-03-Data-Science/day-50/code) |
 
 ### 🤖 Phase 4 — Machine Learning ⏳ In Progress
 
 | Day | Topic | Notes | Code |
 |-----|-------|-------|------|
-| Day 51 | ML Fundamentals + Scikit-learn | [📝 Notes](days/day-51/notes.md) | [💻 Code](days/day-51/code) |
-| Day 52 | Linear Regression (OLS + Ridge + Lasso) | [📝 Notes](days/day-52/notes.md) | [💻 Code](days/day-52/code) |
-| Day 53 | Logistic Regression | [📝 Notes](days/day-53/notes.md) | [💻 Code](days/day-53/code) |
+| Day 51 | Machine Learning | [📝 Notes](days/Phase-04-Machine-Learning/day-51/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-51/code) |
+| Day 52 | Machine Learning | [📝 Notes](days/Phase-04-Machine-Learning/day-52/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-52/code) |
+| Day 53 | Logistic Regression  [📝 Notes](days/Phase-04-Machine-Learning/day-53/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-53/code) |
 | Day 54 | Decision Trees | ⏳ Coming | — |
 | Day 55 | Random Forest & Ensemble Methods | 🔒 Pending | — |
 | Day 56 | SVM & KNN | 🔒 Pending | — |
