@@ -35,36 +35,9 @@ Become an **AI Engineer** by November 2026 — starting from Python basics, buil
 
 ## 📊 Progress Snapshot
 
-```mermaid
-graph LR
-    P1["🐍 Phase 1<br/>Python<br/>Day 01-20<br/>✅ Complete"] --> P2["🔢 Phase 2<br/>DSA + ArthAI<br/>Day 21-35<br/>✅ Complete"]
-    P2 --> P3["📊 Phase 3<br/>Data Science<br/>Day 36-50<br/>✅ Complete"]
-    P3 --> P4["🤖 Phase 4<br/>ML<br/>Day 51-70<br/>⏳ Day 53/70"]
-    P4 --> P5["🧠 Phase 5<br/>Deep Learning + AI<br/>Day 71-90<br/>🔒 Pending"]
-    P5 --> P6["🚀 Phase 6<br/>Enterprise AI<br/>Day 90+<br/>🔒 Planned"]
-
-    style P1 fill:#166534,stroke:#22c55e,color:#fff
-    style P2 fill:#166534,stroke:#22c55e,color:#fff
-    style P3 fill:#166534,stroke:#22c55e,color:#fff
-    style P4 fill:#92400e,stroke:#f59e0b,color:#fff
-    style P5 fill:#334155,stroke:#64748b,color:#fff
-    style P6 fill:#334155,stroke:#64748b,color:#fff
-```
-
-```mermaid
-gantt
-    title 90-Day Journey — Where I Am Now
-    dateFormat X
-    axisFormat Day %s
-    section Complete
-    Phase 1 - Python           :done, p1, 0, 20
-    Phase 2 - DSA + ArthAI      :done, p2, 20, 15
-    Phase 3 - Data Science      :done, p3, 35, 15
-    section In Progress
-    Phase 4 - Machine Learning  :active, p4, 50, 20
-    section Upcoming
-    Phase 5 - Deep Learning/AI  :p5, 70, 20
-```
+<p align="center">
+  <img src="assets/progress.svg" alt="Progress Snapshot" width="100%"/>
+</p>
 
 **53 / 90 days done — 59% complete, on track for November 2026.**
 
