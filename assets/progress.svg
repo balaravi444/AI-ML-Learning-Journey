@@ -1,0 +1,52 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barfill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" fill="#0f172a" rx="16"/>
+
+  <!-- Title -->
+  <text x="40" y="50" font-family="Verdana, sans-serif" font-size="24" font-weight="bold" fill="#f8fafc">📊 Progress Snapshot</text>
+  <text x="40" y="76" font-family="Verdana, sans-serif" font-size="14" fill="#94a3b8">Day 53 of 90 · Phase 4 in progress</text>
+
+  <!-- Overall progress bar -->
+  <rect x="40" y="95" width="1120" height="22" rx="11" fill="#1e293b"/>
+  <rect x="40" y="95" width="660" height="22" rx="11" fill="url(#barfill)"/>
+  <text x="1160" y="111" font-family="Verdana, sans-serif" font-size="14" font-weight="bold" fill="#f8fafc" text-anchor="end">59%</text>
+
+  <!-- Phase timeline -->
+  <line x1="90" y1="220" x2="1110" y2="220" stroke="#334155" stroke-width="4"/>
+  <line x1="90" y1="220" x2="730" y2="220" stroke="url(#barfill)" stroke-width="4"/>
+
+  <!-- Phase 1 -->
+  <circle cx="90" cy="220" r="22" fill="#166534" stroke="#22c55e" stroke-width="3"/>
+  <text x="90" y="227" font-family="Verdana" font-size="18" text-anchor="middle">✅</text>
+  <text x="90" y="260" font-family="Verdana" font-size="13" fill="#f8fafc" text-anchor="middle">Phase 1</text>
+  <text x="90" y="278" font-family="Verdana" font-size="11" fill="#94a3b8" text-anchor="middle">Python</text>
+
+  <!-- Phase 2 -->
+  <circle cx="345" cy="220" r="22" fill="#166534" stroke="#22c55e" stroke-width="3"/>
+  <text x="345" y="227" font-family="Verdana" font-size="18" text-anchor="middle">✅</text>
+  <text x="345" y="260" font-family="Verdana" font-size="13" fill="#f8fafc" text-anchor="middle">Phase 2</text>
+  <text x="345" y="278" font-family="Verdana" font-size="11" fill="#94a3b8" text-anchor="middle">DSA + ArthAI</text>
+
+  <!-- Phase 3 -->
+  <circle cx="600" cy="220" r="22" fill="#166534" stroke="#22c55e" stroke-width="3"/>
+  <text x="600" y="227" font-family="Verdana" font-size="18" text-anchor="middle">✅</text>
+  <text x="600" y="260" font-family="Verdana" font-size="13" fill="#f8fafc" text-anchor="middle">Phase 3</text>
+  <text x="600" y="278" font-family="Verdana" font-size="11" fill="#94a3b8" text-anchor="middle">Data Science</text>
+
+  <!-- Phase 4 (current) -->
+  <circle cx="855" cy="220" r="26" fill="#92400e" stroke="#f59e0b" stroke-width="4"/>
+  <text x="855" y="228" font-family="Verdana" font-size="20" text-anchor="middle">⏳</text>
+  <text x="855" y="264" font-family="Verdana" font-size="13" font-weight="bold" fill="#f8fafc" text-anchor="middle">Phase 4</text>
+  <text x="855" y="282" font-family="Verdana" font-size="11" fill="#fbbf24" text-anchor="middle">Machine Learning (now)</text>
+
+  <!-- Phase 5 -->
+  <circle cx="1110" cy="220" r="22" fill="#1e293b" stroke="#475569" stroke-width="3"/>
+  <text x="1110" y="227" font-family="Verdana" font-size="16" text-anchor="middle">🔒</text>
+  <text x="1110" y="260" font-family="Verdana" font-size="13" fill="#94a3b8" text-anchor="middle">Phase 5</text>
+  <text x="1110" y="278" font-family="Verdana" font-size="11" fill="#64748b" text-anchor="middle">Deep Learning</text>
+</svg>
