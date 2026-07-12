@@ -30,7 +30,6 @@ No toy datasets. No tutorial clones. Real products that real people use.
 | 2 | **Indian Job Market Analyzer** | Salary fairness checker + ML salary predictor for Indian AI/ML jobs | Pandas, Sklearn, Random Forest, FastAPI, Chart.js | 🟢 Live |
 | 3 | **AI Learning Management System** | Track and manage AI/ML learning progress | Python OOP, File Handling | ✅ Built |
 
-> 🔗 Add your Render URLs above once deployed!
 
 ---
 
