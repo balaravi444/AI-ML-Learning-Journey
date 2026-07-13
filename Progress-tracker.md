@@ -92,7 +92,7 @@
 | Day 51 | ML Fundamentals + Scikit-learn | ✅ Done | 08 Jul 2026 |
 | Day 52 | Linear Regression (OLS + Ridge + Lasso) | ✅ Done | 09 Jul 2026 |
 | Day 53 | Logistic Regression | ✅ Done | 10 Jul 2026 |
-| Day 54 | Decision Trees | ⏳ Up Next | — |
+| Day 54 | Decision Trees | ✅ Done | 11 Jul 2026 |
 | Day 55 | Random Forest & Ensemble Methods | 🔒 Pending | — |
 | Day 56 | SVM & KNN | 🔒 Pending | — |
 | Day 57 | Model Evaluation & Metrics Deep Dive | 🔒 Pending | — |
