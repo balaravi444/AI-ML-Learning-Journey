@@ -7,7 +7,7 @@
 <p align="center"><b>90 days. 0 days missed. AI Engineer by November 2026.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Day-54%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Day-55%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streak-54%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-3%20Live-brightgreen?style=for-the-badge" />
@@ -39,7 +39,7 @@ Become an **AI Engineer** by November 2026 — starting from Python basics, buil
   <img src="assets/progress.svg" alt="Progress Snapshot" width="100%"/>
 </p>
 
-**54 / 90 days done — 59% complete, on track for November 2026.**
+**55 / 90 days done — 59% complete, on track for November 2026.**
 
 ---
 
