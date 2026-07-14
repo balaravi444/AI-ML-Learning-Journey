@@ -162,7 +162,7 @@ graph TD
 | Day 52 | Machine Learning | [📝 Notes](days/Phase-04-Machine-Learning/day-52/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-52/code) |
 | Day 53 | Logistic Regression | [📝 Notes](days/Phase-04-Machine-Learning/day-53/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-53/code) |
 | Day 54 | Decision Trees | [📝 Notes](days/Phase-04-Machine-Learning/day-55/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-54/code) | 
-| Day 55 | Random Forest & Ensemble Methods || [📝 Notes](days/Phase-04-Machine-Learning/day-55/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-55/code) | 
+| Day 55 | Random Forest & Ensemble Methods | [📝 Notes](days/Phase-04-Machine-Learning/day-55/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-55/code) | 
 | Day 56 | SVM & KNN | 🔒 Pending | — |
 | Day 57 | Model Evaluation & Metrics | 🔒 Pending | — |
 | Day 58 | Cross Validation & Hyperparameter Tuning | 🔒 Pending | — |
