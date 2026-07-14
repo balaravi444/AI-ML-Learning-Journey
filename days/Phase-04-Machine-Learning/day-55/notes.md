@@ -1,7 +1,7 @@
 # Day 55 — Random Forest & Ensemble Methods 🚀
 
 **Date:** 12 July 2026
-**Time Spent:** (add your hours)
+**Time Spent:** (3 hours)
 **Resource Used:** [Scikit-learn Docs](https://scikit-learn.org/) | [StatQuest](https://www.youtube.com/@statquest)
 
 ---
