@@ -7,9 +7,9 @@
 <p align="center"><b>90 days. 0 days missed. AI Engineer by November 2026.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Day-55%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Day-58%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streak-54%20days-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-58%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-3%20Live-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-36%2B%20solved-yellow?style=for-the-badge" />
 </p>
@@ -71,7 +71,7 @@ graph TD
 | 🐍 **Phase 1** | Python Foundations | Day 01–20 | ✅ Complete |
 | 🔢 **Phase 2** | DSA + ArthAI (Fintech App) | Day 21–35 | ✅ Complete |
 | 📊 **Phase 3** | Data Science + Job Market Analyzer | Day 36–50 | ✅ Complete |
-| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 53/70 |
+| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 58/70 |
 | 🧠 **Phase 5** | Deep Learning + AI + 3 Projects | Day 71–90 | 🔒 Pending |
 | 🚀 **Phase 6** | Enterprise AI Products | Day 90+ | 🔒 Planned |
 
@@ -163,9 +163,9 @@ graph TD
 | Day 53 | Logistic Regression | [📝 Notes](days/Phase-04-Machine-Learning/day-53/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-53/code) |
 | Day 54 | Decision Trees | [📝 Notes](days/Phase-04-Machine-Learning/day-55/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-54/code) | 
 | Day 55 | Random Forest & Ensemble Methods | [📝 Notes](days/Phase-04-Machine-Learning/day-55/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-55/code) | 
-| Day 56 | SVM & KNN | 🔒 Pending | — |
-| Day 57 | Model Evaluation & Metrics | 🔒 Pending | — |
-| Day 58 | Cross Validation & Hyperparameter Tuning | 🔒 Pending | — |
+| Day 56 | SVM & KNN | [📝 Notes](days/Phase-04-Machine-Learning/day-56/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-56/code)  |
+| Day 57 | Model Evaluation & Metrics | [📝 Notes](days/Phase-04-Machine-Learning/day-57/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-57/code) |
+| Day 58 | Cross Validation & Hyperparameter Tuning | [📝 Notes](days/Phase-04-Machine-Learning/day-58/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-58/code)  |
 | Day 59–62 | 🏗️ Student Performance Predictor | 🔒 Pending | — |
 | Day 63 | NLP Basics & Text Processing | 🔒 Pending | — |
 | Day 64 | TF-IDF & Word Embeddings | 🔒 Pending | — |
