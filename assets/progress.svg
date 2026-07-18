@@ -9,7 +9,7 @@
 
   <!-- Title -->
   <text x="40" y="50" font-family="Verdana, sans-serif" font-size="24" font-weight="bold" fill="#f8fafc">📊 Progress Snapshot</text>
-  <text x="40" y="76" font-family="Verdana, sans-serif" font-size="14" fill="#94a3b8">Day 53 of 90 · Phase 4 in progress</text>
+  <text x="40" y="76" font-family="Verdana, sans-serif" font-size="14" fill="#94a3b8">Day 60 of 90 · Phase 4 in progress</text>
 
   <!-- Overall progress bar -->
   <rect x="40" y="95" width="1120" height="22" rx="11" fill="#1e293b"/>
