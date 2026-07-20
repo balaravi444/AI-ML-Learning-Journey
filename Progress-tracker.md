@@ -94,13 +94,13 @@
 | Day 53 | Logistic Regression | ✅ Done | 10 Jul 2026 |
 | Day 54 | Decision Trees | ✅ Done | 11 Jul 2026 |
 | Day 55 | Random Forest & Ensemble Methods | ✅ Done | 12 Jul 2026 |
-| Day 56 | SVM & KNN | 🔒 Pending | — |
-| Day 57 | Model Evaluation & Metrics Deep Dive | 🔒 Pending | — |
-| Day 58 | Cross Validation & Hyperparameter Tuning | 🔒 Pending | — |
-| Day 59 | 🏗️ Student Performance Predictor — Start | 🔒 Pending | — |
-| Day 60 | 🏗️ Student Predictor — ML Pipeline | 🔒 Pending | — |
-| Day 61 | 🏗️ Student Predictor — Web Interface | 🔒 Pending | — |
-| Day 62 | 🏗️ Student Predictor — Deploy Live ✅ | 🔒 Pending | — |
+| Day 56 | SVM & KNN | ✅ Done | 13 Jul 2026  |
+| Day 57 | Model Evaluation & Metrics Deep Dive | ✅ Done | 14 Jul 2026 |
+| Day 58 | Cross Validation & Hyperparameter Tuning | ✅ Done | 15 Jul 2026 |
+| Day 59 | 🏗️ Software Bug Priority Predictor — Start | ✅ Done | 16 Jul 2026 |
+| Day 60 | 🏗️ Software Bug Priority Predictor — ML Pipeline | ✅ Done | 17 Jul 2026 |
+| Day 61 | 🏗️ Software Bug Priority Predictor — Web Interface | ✅ Done | 18 Jul 2026 |
+| Day 62 | 🏗️ Software Bug Priority Predictor — Deploy Live ✅ | ✅ Done | 19 Jul 2026 |
 | Day 63 | NLP Basics & Text Processing | 🔒 Pending | — |
 | Day 64 | TF-IDF & Word Embeddings | 🔒 Pending | — |
 | Day 65 | Sentiment Analysis | 🔒 Pending | — |
