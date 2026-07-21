@@ -2,7 +2,7 @@
 # Project Day 3 of 4 — Backend + Dashboard
 
 **Date:** 18 July 2026
-**Time Spent:** (add your hours)
+**Time Spent:** (2 hours)
 **Project:** Software Bug Priority Predictor — Day 3
 
 ---
