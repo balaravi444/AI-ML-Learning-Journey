@@ -101,9 +101,9 @@
 | Day 60 | 🏗️ Software Bug Priority Predictor — ML Pipeline | ✅ Done | 17 Jul 2026 |
 | Day 61 | 🏗️ Software Bug Priority Predictor — Web Interface | ✅ Done | 18 Jul 2026 |
 | Day 62 | 🏗️ Software Bug Priority Predictor — Deploy Live ✅ | ✅ Done | 19 Jul 2026 |
-| Day 63 | NLP Basics & Text Processing | 🔒 Pending | — |
-| Day 64 | TF-IDF & Word Embeddings | 🔒 Pending | — |
-| Day 65 | Sentiment Analysis | 🔒 Pending | — |
+| Day 63 | NLP Basics & Text Processing | ✅ Done | 20 Jul 2026 |
+| Day 64 | TF-IDF & Word Embeddings | ✅ Done | 21 Jul 2026  |
+| Day 65 | Sentiment Analysis | ✅ Done |22 Jul 2026  |
 | Day 66 | Named Entity Recognition | 🔒 Pending | — |
 | Day 67 | 🏗️ AI Hiring Assistant — Start | 🔒 Pending | — |
 | Day 68 | 🏗️ AI Hiring Assistant — Build | 🔒 Pending | — |
