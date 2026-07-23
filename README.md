@@ -7,9 +7,9 @@
 <p align="center"><b>90 days. 0 days missed. AI Engineer by November 2026.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Day-62%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Day-65%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streak-62%20days-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-65%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-4%20Live-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-36%2B%20solved-yellow?style=for-the-badge" />
 </p>
@@ -39,7 +39,7 @@ Become an **AI Engineer** by November 2026 — starting from Python basics, buil
   <img src="assets/progress.svg" alt="Progress Snapshot" width="100%"/>
 </p>
 
-**62 / 90 days done — 62% complete, on track for November 2026.**
+**65 / 90 days done — 65% complete, on track for November 2026.**
 
 ---
 
@@ -71,7 +71,7 @@ graph TD
 | 🐍 **Phase 1** | Python Foundations | Day 01–20 | ✅ Complete |
 | 🔢 **Phase 2** | DSA + ArthAI (Fintech App) | Day 21–35 | ✅ Complete |
 | 📊 **Phase 3** | Data Science + Job Market Analyzer | Day 36–50 | ✅ Complete |
-| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 62/70 |
+| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 65/70 |
 | 🧠 **Phase 5** | Deep Learning + AI + 3 Projects | Day 71–90 | 🔒 Pending |
 | 🚀 **Phase 6** | Enterprise AI Products | Day 90+ | 🔒 Planned |
 
@@ -168,9 +168,9 @@ graph TD
 | Day 58 | Cross Validation & Hyperparameter Tuning | [📝 Notes](days/Phase-04-Machine-Learning/day-58/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-58/code)  |
 | Day 59–61 | 🏗️Bug Priority Predictor  | 🔒 Pending only to deploy live | — |
 | Day 62 | NLP | [📝 Notes](days/Phase-04-Machine-Learning/day-62/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-62/code) |
-| Day 63 | TF-IDF & Word Embeddings | 🔒 Pending | — |
-| Day 64 | Sentiment Analysis | 🔒 Pending | — |
-| Day 65 | Named Entity Recognition | 🔒 Pending | — |
+| Day 63 | TF-IDF & Word Embeddings |  [📝 Notes](days/Phase-04-Machine-Learning/day-63/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-63/code) |
+| Day 64 | Sentiment Analysis | [📝 Notes](days/Phase-04-Machine-Learning/day-64/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-64/code)|
+| Day 65 | Named Entity Recognition |  [📝 Notes](days/Phase-04-Machine-Learning/day-65/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-65/code)|
 | Day 66–70 | 🏗️ AI Hiring Assistant | 🔒 Pending | — |
 
 </details>
