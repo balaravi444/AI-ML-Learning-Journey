@@ -285,7 +285,7 @@ AI-ML-Learning-Journey/
 |---|---|---|
 | ArthAI | 99% of Indians have no financial advisor | 500M+ potential users |
 | Job Market Analyzer | Fresh grads don't know if offers are fair | Every job seeker in India |
-| Student Predictor | Schools need early warning for at-risk students | Ed-tech companies, schools |
+| Software Bug Priority Predictor | early warning for at-risk software | tech companies  |
 | AI Hiring Assistant | HR teams spend hours screening resumes | Every company with hiring needs |
 | AI Engineering Copilot | Dev teams waste hours searching codebases | Every software engineering team |
 | ReqMind AI | Bad requirements = costly rework | Product teams everywhere |
