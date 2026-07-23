@@ -167,7 +167,7 @@ graph TD
 | Day 57 | Model Evaluation & Metrics | [📝 Notes](days/Phase-04-Machine-Learning/day-57/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-57/code) |
 | Day 58 | Cross Validation & Hyperparameter Tuning | [📝 Notes](days/Phase-04-Machine-Learning/day-58/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-58/code)  |
 | Day 59–61 | 🏗️Bug Priority Predictor  | 🔒 Pending only to deploy live | — |
-| Day 62 | NLP | [📝 Notes](days/Phase-04-Machine-Learning/day-62/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-62/code) |
+| Day 62 | NLP Basics & Text Processing  | [📝 Notes](days/Phase-04-Machine-Learning/day-62/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-62/code) |
 | Day 63 | TF-IDF & Word Embeddings |  [📝 Notes](days/Phase-04-Machine-Learning/day-63/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-63/code) |
 | Day 64 | Sentiment Analysis | [📝 Notes](days/Phase-04-Machine-Learning/day-64/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-64/code)|
 | Day 65 | Named Entity Recognition |  [📝 Notes](days/Phase-04-Machine-Learning/day-65/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-65/code)|
