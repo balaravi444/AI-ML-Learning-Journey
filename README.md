@@ -7,9 +7,9 @@
 <p align="center"><b>90 days. 0 days missed. AI Engineer by November 2026.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Day-65%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Day-67%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streak-65%20days-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-67%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-4%20Live-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-36%2B%20solved-yellow?style=for-the-badge" />
 </p>
@@ -39,7 +39,7 @@ Become an **AI Engineer** by November 2026 — starting from Python basics, buil
   <img src="assets/progress.svg" alt="Progress Snapshot" width="100%"/>
 </p>
 
-**65 / 90 days done — 65% complete, on track for November 2026.**
+**67 / 90 days done — 74% complete, on track for November 2026.**
 
 ---
 
@@ -71,7 +71,7 @@ graph TD
 | 🐍 **Phase 1** | Python Foundations | Day 01–20 | ✅ Complete |
 | 🔢 **Phase 2** | DSA + ArthAI (Fintech App) | Day 21–35 | ✅ Complete |
 | 📊 **Phase 3** | Data Science + Job Market Analyzer | Day 36–50 | ✅ Complete |
-| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 65/70 |
+| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 67/70 |
 | 🧠 **Phase 5** | Deep Learning + AI + 3 Projects | Day 71–90 | 🔒 Pending |
 | 🚀 **Phase 6** | Enterprise AI Products | Day 90+ | 🔒 Planned |
 
