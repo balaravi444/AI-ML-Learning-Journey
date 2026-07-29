@@ -2,7 +2,7 @@
 # Project Day 3 of 4 — SHAP + FastAPI
 
 **Date:** 26 July 2026
-**Time Spent:** (add your hours)
+**Time Spent:** (3 hours)
 **Project:** Autonomous Data Scientist — Day 3
 
 ---
