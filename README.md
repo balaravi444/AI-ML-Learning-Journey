@@ -7,9 +7,9 @@
 <p align="center"><b>90 days. 0 days missed. AI Engineer by November 2026.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Day-70%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Day-73%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streak-70%20days-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-73%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-5%20Live-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-36%2B%20solved-yellow?style=for-the-badge" />
 </p>
@@ -71,7 +71,7 @@ graph TD
 | 🐍 **Phase 1** | Python Foundations | Day 01–20 | ✅ Complete |
 | 🔢 **Phase 2** | DSA + ArthAI (Fintech App) | Day 21–35 | ✅ Complete |
 | 📊 **Phase 3** | Data Science + Job Market Analyzer | Day 36–50 | ✅ Complete |
-| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ⏳ Day 67/70 |
+| 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ✅ Complete |
 | 🧠 **Phase 5** | Deep Learning + AI + 3 Projects | Day 71–90 | 🔒 Pending |
 | 🚀 **Phase 6** | Enterprise AI Products | Day 90+ | 🔒 Planned |
 
@@ -180,7 +180,7 @@ graph TD
 
 | Day | Topic | Notes | Code |
 |---|---|---|---|
-| Day 71 | Neural Networks from Scratch | 🔒 Pending | — |
+| Day 71 | Neural Networks from Scratch | |
 | Day 72 | TensorFlow & Keras Basics | 🔒 Pending | — |
 | Day 73 | CNN — Convolutional Neural Networks | 🔒 Pending | — |
 | Day 74 | Transfer Learning | 🔒 Pending | — |
