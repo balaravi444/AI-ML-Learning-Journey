@@ -181,9 +181,9 @@ graph TD
 | Day | Topic | Notes | Code |
 |---|---|---|---|
 | Day 71 | Neural Networks from Scratch | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-71/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-71/code)| |
-| Day 72 | TensorFlow & Keras Basics | 🔒 Pending | — |
-| Day 73 | CNN — Convolutional Neural Networks | 🔒 Pending | — |
-| Day 74 | Transfer Learning | 🔒 Pending | — |
+| Day 72 | TensorFlow & Keras Basics | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-72/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-72/code)||
+| Day 73 | CNN — Convolutional Neural Networks | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-73/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-73/code)| |
+| Day 74 | Transfer Learning | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-74/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-74/code)| |
 | Day 75 | Image Augmentation & Preprocessing | 🔒 Pending | — |
 | Day 76 | Model Optimization & Callbacks | 🔒 Pending | — |
 | Day 77–80 | 🏗️ Skin Disease Detector | 🔒 Pending | — |
