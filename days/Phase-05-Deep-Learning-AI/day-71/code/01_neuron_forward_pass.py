@@ -2,7 +2,7 @@
 Day 71 — Neural Networks from Scratch
 Topic: Neuron + Forward Pass
 Date: 28 July 2026
-Author: Bala Ravi
+Author: Bala Ravii
 
 Building every piece of a neural network
 from scratch using only NumPy!
