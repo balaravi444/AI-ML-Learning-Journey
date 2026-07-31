@@ -180,7 +180,7 @@ graph TD
 
 | Day | Topic | Notes | Code |
 |---|---|---|---|
-| Day 71 | Neural Networks from Scratch | |
+| Day 71 | Neural Networks from Scratch | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-71/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-71/code)| |
 | Day 72 | TensorFlow & Keras Basics | 🔒 Pending | — |
 | Day 73 | CNN — Convolutional Neural Networks | 🔒 Pending | — |
 | Day 74 | Transfer Learning | 🔒 Pending | — |
@@ -193,7 +193,7 @@ graph TD
 | Day 84 | Vector Databases & Embeddings | 🔒 Pending | — |
 | Day 85 | RAG — Retrieval Augmented Generation | 🔒 Pending | — |
 | Day 86 | AI Agents & Tool Use | 🔒 Pending | — |
-| Day 87–90 | 🏗️ AI Study Buddy (LLM + RAG Capstone) | 🔒 Pending | — |
+| Day 87–90 | 🏗️ AI Study Buddy (LLM + RAG Capstone) | 🔒 Pending | — |   Phase-05-Deep-Learning-AI
 
 </details>
 
