@@ -39,7 +39,7 @@ Become an **AI Engineer** by November 2026 — starting from Python basics, buil
   <img src="assets/progress.svg" alt="Progress Snapshot" width="100%"/>
 </p>
 
-**70 / 90 days done — 80% complete, on track for November 2026.**
+**75 / 90 days done — 80% complete, on track for November 2026.**
 
 ---
 
