@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streak-73%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-5%20Live-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LeetCode-36%2B%20solved-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-50%2B%20solved-yellow?style=for-the-badge" />
 </p>
 
 <p align="center">
