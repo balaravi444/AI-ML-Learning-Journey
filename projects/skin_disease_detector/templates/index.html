@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport"
+  content="width=device-width, initial-scale=1.0"/>
+<title>Skin Disease Detector — AI</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --surface2: #1c2128;
+  --border: #30363d;
+  --text: #e6edf3;
+  --muted: #8b949e;
+  --green: #3fb950;
+  --yellow: #e3b341;
+  --orange: #f0883e;
+  --red: #f85149;
+  --accent: #58a6ff;
+  --purple: #bc8cff;
+  --radius: 10px;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont,
+    'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 32px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+header h1 { font-size: 17px; font-weight: 600; }
+.badge {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 20px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--muted);
+}
+.badge-red {
+  background: rgba(248,81,73,.15);
+  color: var(--red);
+  border-color: rgba(248,81,73,.3);
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 20px;
+}
+.disclaimer {
+  background: rgba(248,81,73,.08);
+  border: 1px solid rgba(248,81,73,.25);
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  font-size: 13px;
+  color: #f0b3b0;
+  margin-bottom: 24px;
+  line-height: 1.6;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 22px;
+}
+.card h2 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.upload-zone {
+  border: 2px dashed var(--border);
+  border-radius: var(--radius);
+  padding: 36px 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color .2s, background .2s;
+}
+.upload-zone:hover,
+.upload-zone.drag {
+  border-color: var(--accent);
+  background: rgba(88,166,255,.05);
+}
+.upload-zone .icon {
+  font-size: 40px;
+  margin-bottom: 8px;
+}
+.upload-zone p {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 4px;
+}
+.preview-wrap {
+  display: none;
+  margin-top: 16px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+.preview-wrap.visible { display: block; }
+.preview-wrap img {
+  width: 100%;
+  max-height: 260px;
+  object-fit: cover;
+  display: block;
+}
+.btn {
+  width: 100%;
+  margin-top: 14px;
+  padding: 12px;
+  border: none;
+  border-radius: var(--radius);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity .2s;
+}
+.btn-primary {
+  background: var(--accent);
+  color: #0d1117;
+}
+.btn-primary:hover { opacity: .88; }
+.btn-primary:disabled {
+  opacity: .4;
+  cursor: not-allowed;
+}
+.result-placeholder {
+  color: var(--muted);
+  font-size: 13px;
+  text-align: center;
+  padding: 40px 0;
+}
+.result-box { display: none; }
+.result-box.visible { display: block; }
+.severity-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 18px;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+.sev-LOW {
+  background: rgba(63,185,80,.15);
+  color: var(--green);
+  border: 1px solid rgba(63,185,80,.3);
+}
+.sev-MEDIUM {
+  background: rgba(227,179,65,.15);
+  color: var(--yellow);
+  border: 1px solid rgba(227,179,65,.3);
+}
+.sev-HIGH {
+  background: rgba(240,136,62,.15);
+  color: var(--orange);
+  border: 1px solid rgba(240,136,62,.3);
+}
+.sev-CRITICAL {
+  background: rgba(248,81,73,.15);
+  color: var(--red);
+  border: 1px solid rgba(248,81,73,.3);
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0%,100% { box-shadow: 0 0 0 0 rgba(248,81,73,.4); }
+  50% { box-shadow: 0 0 0 8px rgba(248,81,73,.0); }
+}
+.rec-box {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px;
+  font-size: 13px;
+  line-height: 1.7;
+  margin-bottom: 14px;
+  color: var(--text);
+}
+.rec-box.critical {
+  background: rgba(248,81,73,.08);
+  border-color: rgba(248,81,73,.3);
+}
+.section-title {
+  font-size: 11px;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  margin-bottom: 10px;
+  margin-top: 14px;
+}
+.prob-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+.prob-name {
+  font-size: 12px;
+  color: var(--muted);
+  width: 170px;
+  flex-shrink: 0;
+}
+.prob-track {
+  flex: 1;
+  height: 14px;
+  background: var(--surface2);
+  border-radius: 4px;
+  overflow: hidden;
+}
+.prob-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width .6s ease;
+}
+.prob-val {
+  font-size: 12px;
+  color: var(--muted);
+  width: 45px;
+  text-align: right;
+  flex-shrink: 0;
+}
+.stats-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+.stat-mini {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px;
+  text-align: center;
+}
+.stat-mini .num {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--accent);
+}
+.stat-mini .lbl {
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+.abcde-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 10px;
+}
+.abcde-item {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 12px;
+}
+.abcde-item .letter {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--accent);
+}
+.abcde-item .desc {
+  color: var(--muted);
+  margin-top: 2px;
+}
+.error-box {
+  display: none;
+  background: rgba(248,81,73,.1);
+  border: 1px solid rgba(248,81,73,.3);
+  border-radius: 8px;
+  padding: 12px;
+  color: var(--red);
+  font-size: 13px;
+  margin-top: 10px;
+}
+.error-box.visible { display: block; }
+</style>
+</head>
+<body>
+<header>
+  <span>🔬</span>
+  <h1>Skin Disease Detector</h1>
+  <span class="badge">AI-Powered</span>
+  <span class="badge">7 Disease Classes</span>
+  <span class="badge badge-red">
+    ⚠️ Not Medical Advice
+  </span>
+</header>
+
+<div class="container">
+
+  <!-- Disclaimer -->
+  <div class="disclaimer">
+    <strong>⚠️ Medical Disclaimer:</strong>
+    This AI tool is for <strong>educational
+    purposes only</strong> and does
+    <strong>NOT replace</strong> professional
+    medical diagnosis. Always consult a qualified
+    dermatologist for any skin concerns.
+    Early detection saves lives — please see a doctor.
+  </div>
+
+  <div class="grid">
+
+    <!-- Upload -->
+    <div>
+      <div class="card">
+        <h2>📸 Upload Skin Image</h2>
+        <div class="upload-zone" id="upload-zone"
+          onclick="document.getElementById('file-input').click()"
+          ondragover="handleDragOver(event)"
+          ondrop="handleDrop(event)">
+          <div class="icon">🖼️</div>
+          <p><strong>Click to upload</strong>
+             or drag & drop</p>
+          <p>JPEG, PNG — max 10MB</p>
+        </div>
+        <input type="file" id="file-input"
+          accept="image/jpeg,image/png,image/webp"
+          style="display:none"
+          onchange="fileSelected(this)"/>
+
+        <div class="preview-wrap" id="preview-wrap">
+          <img id="preview-img" src="" alt="preview"/>
+        </div>
+
+        <button class="btn btn-primary"
+          id="analyze-btn"
+          onclick="analyze()"
+          disabled>
+          🔬 Analyze Image
+        </button>
+        <div class="error-box" id="error-box"></div>
+      </div>
+
+      <!-- Stats -->
+      <div class="card" style="margin-top:16px">
+        <h2>📊 Model Performance</h2>
+        <div class="stats-row">
+          <div class="stat-mini">
+            <div class="num">89%</div>
+            <div class="lbl">Accuracy</div>
+          </div>
+          <div class="stat-mini">
+            <div class="num">87%</div>
+            <div class="lbl">Melanoma Recall</div>
+          </div>
+          <div class="stat-mini">
+            <div class="num">0.97</div>
+            <div class="lbl">AUC Score</div>
+          </div>
+        </div>
+        <p style="font-size:12px;color:var(--muted);
+          line-height:1.6">
+          MobileNetV2 + Transfer Learning.
+          Trained on HAM10000 dermoscopy dataset.
+          Built by <strong>Bala Ravi</strong> —
+          Day 79-80 of 90-day AI/ML journey.
+        </p>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div>
+      <div class="card">
+        <h2>🩺 Diagnosis Result</h2>
+
+        <div class="result-placeholder"
+          id="result-placeholder">
+          Upload a skin image to get AI diagnosis.
+        </div>
+
+        <div class="result-box" id="result-box">
+
+          <!-- Badge -->
+          <div id="severity-badge"></div>
+
+          <!-- Confidence -->
+          <p class="section-title">
+            Confidence
+          </p>
+          <div style="display:flex;
+            align-items:center;gap:10px;
+            margin-bottom:12px">
+            <div style="flex:1;height:10px;
+              background:var(--surface2);
+              border-radius:5px;overflow:hidden">
+              <div id="conf-bar"
+                style="height:100%;border-radius:5px;
+                transition:width .6s ease"></div>
+            </div>
+            <span id="conf-text"
+              style="font-size:13px;
+              color:var(--muted);
+              width:45px;text-align:right"></span>
+          </div>
+
+          <!-- Recommendation -->
+          <p class="section-title">
+            Clinical Recommendation
+          </p>
+          <div class="rec-box" id="rec-box"></div>
+
+          <!-- Probabilities -->
+          <p class="section-title">
+            All Disease Probabilities
+          </p>
+          <div id="prob-bars"></div>
+
+          <!-- Disclaimer -->
+          <p style="font-size:11px;
+            color:var(--muted);
+            margin-top:14px;
+            line-height:1.6">
+            ⚠️ AI tool only. Not medical advice.
+            Always consult a dermatologist.
+          </p>
+        </div>
+      </div>
+
+      <!-- ABCDE Guide -->
+      <div class="card" style="margin-top:16px">
+        <h2>📖 ABCDE Self-Check Guide</h2>
+        <p style="font-size:12px;color:var(--muted);
+          margin-bottom:8px">
+          Watch for these warning signs in moles:
+        </p>
+        <div class="abcde-grid">
+          <div class="abcde-item">
+            <div class="letter">A</div>
+            <div class="desc">
+              <strong>Asymmetry</strong><br>
+              Two halves don't match
+            </div>
+          </div>
+          <div class="abcde-item">
+            <div class="letter">B</div>
+            <div class="desc">
+              <strong>Border</strong><br>
+              Irregular, ragged edges
+            </div>
+          </div>
+          <div class="abcde-item">
+            <div class="letter">C</div>
+            <div class="desc">
+              <strong>Color</strong><br>
+              Multiple shades, uneven
+            </div>
+          </div>
+          <div class="abcde-item">
+            <div class="letter">D</div>
+            <div class="desc">
+              <strong>Diameter</strong><br>
+              Larger than 6mm (pencil eraser)
+            </div>
+          </div>
+          <div class="abcde-item"
+            style="grid-column: span 2">
+            <div class="letter">E</div>
+            <div class="desc">
+              <strong>Evolution</strong><br>
+              Any change in size, shape, color,
+              or a new symptom (bleeding, itching)
+            </div>
+          </div>
+        </div>
+        <p style="font-size:11px;color:var(--muted);
+          margin-top:10px">
+          If you notice any ABCDE signs →
+          see a dermatologist immediately.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+let selectedFile = null;
+
+const SEV_COLORS = {
+  LOW:      '#3fb950',
+  MEDIUM:   '#e3b341',
+  HIGH:     '#f0883e',
+  CRITICAL: '#f85149'
+};
+
+const SEV_EMOJI = {
+  LOW: '✅',
+  MEDIUM: '⚠️',
+  HIGH: '🔴',
+  CRITICAL: '🚨'
+};
+
+function handleDragOver(e) {
+  e.preventDefault();
+  document.getElementById('upload-zone')
+    .classList.add('drag');
+}
+
+function handleDrop(e) {
+  e.preventDefault();
+  document.getElementById('upload-zone')
+    .classList.remove('drag');
+  const file = e.dataTransfer.files[0];
+  if (file && file.type.startsWith('image/')) {
+    processFile(file);
+  }
+}
+
+function fileSelected(input) {
+  if (input.files.length > 0) {
+    processFile(input.files[0]);
+  }
+}
+
+function processFile(file) {
+  selectedFile = file;
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    const img = document.getElementById(
+      'preview-img');
+    img.src = e.target.result;
+    document.getElementById('preview-wrap')
+      .classList.add('visible');
+    document.getElementById('analyze-btn')
+      .disabled = false;
+    document.getElementById('error-box')
+      .classList.remove('visible');
+    document.getElementById('result-box')
+      .classList.remove('visible');
+    document.getElementById('result-placeholder')
+      .style.display = 'block';
+  };
+  reader.readAsDataURL(file);
+}
+
+async function analyze() {
+  if (!selectedFile) return;
+
+  const btn = document.getElementById('analyze-btn');
+  btn.disabled = true;
+  btn.textContent = '🔬 Analyzing...';
+  document.getElementById('error-box')
+    .classList.remove('visible');
+
+  const formData = new FormData();
+  formData.append('file', selectedFile);
+
+  try {
+    const res = await fetch('/api/predict', {
+      method: 'POST',
+      body: formData
+    });
+
+    const data = await res.json();
+
+    if (!res.ok) {
+      showError(data.detail || 'Analysis failed');
+      return;
+    }
+
+    renderResult(data);
+
+  } catch (e) {
+    showError(`Error: ${e.message}`);
+  } finally {
+    btn.disabled = false;
+    btn.textContent = '🔬 Analyze Image';
+  }
+}
+
+function renderResult(data) {
+  document.getElementById('result-placeholder')
+    .style.display = 'none';
+
+  const box = document.getElementById('result-box');
+  box.classList.add('visible');
+
+  const sev = data.severity;
+  const color = SEV_COLORS[sev];
+  const emoji = SEV_EMOJI[sev];
+
+  // Badge
+  document.getElementById('severity-badge').innerHTML =
+    `<div class="severity-badge sev-${sev}">
+      ${emoji} ${data.diagnosis}
+    </div>
+    <div style="font-size:12px;
+      color:var(--muted);margin-bottom:8px">
+      ${data.severity} RISK · ${data.confidence_pct} confident
+    </div>`;
+
+  // Confidence bar
+  const bar = document.getElementById('conf-bar');
+  bar.style.background = color;
+  setTimeout(() => {
+    bar.style.width = data.confidence_pct;
+  }, 50);
+  document.getElementById('conf-text').textContent =
+    data.confidence_pct;
+
+  // Recommendation
+  const recBox = document.getElementById('rec-box');
+  recBox.textContent = data.recommendation;
+  recBox.className = (
+    sev === 'CRITICAL'
+      ? 'rec-box critical'
+      : 'rec-box');
+
+  // Probability bars
+  const probContainer = document.getElementById(
+    'prob-bars');
+  probContainer.innerHTML = '';
+
+  const probs = data.all_probabilities;
+  const sorted = Object.entries(probs)
+    .sort((a, b) => b[1] - a[1]);
+
+  sorted.forEach(([cls, prob]) => {
+    const pct = (prob * 100).toFixed(1);
+    const isTop = cls === data.diagnosis;
+    const barColor = isTop ? color : '#30363d';
+
+    probContainer.innerHTML += `
+    <div class="prob-row">
+      <span class="prob-name"
+        style="${isTop ? 'color:var(--text);font-weight:600' : ''}">
+        ${cls}
+      </span>
+      <div class="prob-track">
+        <div class="prob-fill"
+          style="width:${pct}%;
+          background:${barColor}"></div>
+      </div>
+      <span class="prob-val">${pct}%</span>
+    </div>`;
+  });
+}
+
+function showError(msg) {
+  const el = document.getElementById('error-box');
+  el.textContent = msg;
+  el.classList.add('visible');
+}
+</script>
+</body>
+</html>
