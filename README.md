@@ -59,8 +59,8 @@ graph TD
 | # | Project | What It Does | Tech | Status |
 |---|---|---|---|---|
 | 1 | **[ArthAI](projects/arthAI)** | AI-powered personal finance advisor for every Indian | FastAPI, Gemini LLM, DSA (DP + Binary Search) | 🟢 Live |
-| 2 | **[Indian Job Market Analyzer](projects/indian_job_market_analyzer)** | Salary fairness checker + ML salary predictor for Indian AI/ML jobs | Pandas, Sklearn, Random Forest, FastAPI, Chart.js | 🟢 Live |
-| 3 | **[AI Learning Management System](projects/01_ai_learning_management_system)** | Track and manage AI/ML learning progress | Python OOP, File Handling | ✅ Built |
+| 2 | **[Indian Job Market Analyzer]** | Salary fairness checker + ML salary predictor for Indian AI/ML jobs | Pandas, Sklearn, Random Forest, FastAPI, Chart.js | 🟢 Live |
+| 3 | **[AI Learning Management System]** | Track and manage AI/ML learning progress | Python OOP, File Handling | ✅ Built |
 
 ---
 
