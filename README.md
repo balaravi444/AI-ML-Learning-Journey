@@ -72,7 +72,7 @@ graph TD
 | 🔢 **Phase 2** | DSA + ArthAI (Fintech App) | Day 21–35 | ✅ Complete |
 | 📊 **Phase 3** | Data Science + Job Market Analyzer | Day 36–50 | ✅ Complete |
 | 🤖 **Phase 4** | Machine Learning + 2 Projects | Day 51–70 | ✅ Complete |
-| 🧠 **Phase 5** | Deep Learning + AI + 3 Projects | Day 71–90 | 🔒 Pending |
+| 🧠 **Phase 5** | Deep Learning + AI + 3 Projects | Day 71–90 | ✅ Complete |
 | 🚀 **Phase 6** | Enterprise AI Products | Day 90+ | 🔒 Planned |
 
 ---
