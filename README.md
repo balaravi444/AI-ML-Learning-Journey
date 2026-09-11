@@ -4,10 +4,10 @@
 
 <h1 align="center">🚀 AI/ML Learning Journey — Bala Ravi</h1>
 
-<p align="center"><b>90 days. 5 days missed. AI Engineer by November 2026.</b></p>
+<p align="center"><b>90 days. 6 days missed. AI Engineer by November 2026.</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Day-78%20of%2090-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Day-90%20of%2090-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streak-85%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-5%20Live-brightgreen?style=for-the-badge" />
@@ -180,12 +180,12 @@ graph TD
 
 | Day | Topic | Notes | Code |
 |---|---|---|---|
-| Day 71 | Neural Networks from Scratch | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-71/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-71/code)| |
-| Day 72 | TensorFlow & Keras Basics | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-72/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-72/code)||
-| Day 73 | CNN — Convolutional Neural Networks | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-73/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-73/code)| |
-| Day 74 | Transfer Learning | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-74/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-74/code)| |
-| Day 75 | Image Augmentation & Preprocessing | 🔒 Pending | — |
-| Day 76 | Model Optimization & Callbacks | 🔒 Pending | — |
+| Day 71 | Neural Networks from Scratch | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-71/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-71/code)|
+| Day 72 | TensorFlow & Keras Basics | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-72/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-72/code)|
+| Day 73 | CNN — Convolutional Neural Networks | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-73/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-73/code)| 
+| Day 74 | Transfer Learning | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-74/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-74/code)| 
+| Day 75 | Image Augmentation & Preprocessing | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-75/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-75/code) |
+| Day 76 | Model Optimization & Callbacks | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-76/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-76/code)|
 | Day 77–80 | 🏗️ Skin Disease Detector | 🔒 Pending | — |
 | Day 81 | Transformers — How They Work | 🔒 Pending | — |
 | Day 82 | HuggingFace — Pretrained Models | 🔒 Pending | — |
@@ -274,7 +274,7 @@ AI-ML-Learning-Journey/
 | ✅ Build while learning | 80% building, 20% theory |
 | ✅ Deployed products | Live apps, not just Jupyter notebooks |
 | ✅ DSA + ML together | Algorithms that power real products |
-| ✅ 0 days missed | Consistency over intensity |
+| ✅ 6 days missed | Consistency over intensity |
 | ✅ Enterprise vision | Phase 6 targets real business problems |
 
 ---
