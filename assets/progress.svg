@@ -12,7 +12,7 @@
 
 <rect x="40" y="95" width="1120" height="22" rx="11" fill="#1e293b"/>
 <rect x="40" y="95" width="874" height="22" rx="11" fill="url(#barfill)"/>
-<text x="1160" y="111" font-family="Verdana, sans-serif" font-size="14" font-weight="bold" fill="#f8fafc" text-anchor="end">78%</text>
+<text x="1160" y="111" font-family="Verdana, sans-serif" font-size="14" font-weight="bold" fill="#f8fafc" text-anchor="end">100%</text>
 
 <line x1="90" y1="220" x2="1110" y2="220" stroke="#334155" stroke-width="4"/>
 <line x1="90" y1="220" x2="1110" y2="220" stroke="url(#barfill)" stroke-width="4"/>
