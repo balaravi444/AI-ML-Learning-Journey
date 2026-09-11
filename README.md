@@ -154,7 +154,7 @@ graph TD
 </details>
 
 <details open>
-<summary><b>🤖 Phase 4 — Machine Learning ⏳ In Progress (Day 51–70) — click to expand</b></summary>
+<summary><b>🤖 Phase 4 — Machine Learning ✅ (Day 51–70) — click to expand</b></summary>
 
 | Day | Topic | Notes | Code |
 |---|---|---|---|
@@ -176,7 +176,7 @@ graph TD
 </details>
 
 <details>
-<summary><b>🧠 Phase 5 — Deep Learning + AI 🔒 (Day 71–90) — click to expand</b></summary>
+<summary><b>🧠 Phase 5 — Deep Learning + AI ✅ (Day 71–90) — click to expand</b></summary>
 
 | Day | Topic | Notes | Code |
 |---|---|---|---|
@@ -186,14 +186,14 @@ graph TD
 | Day 74 | Transfer Learning | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-74/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-74/code)| 
 | Day 75 | Image Augmentation & Preprocessing | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-75/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-75/code) |
 | Day 76 | Model Optimization & Callbacks | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-76/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-76/code)|
-| Day 77–80 | 🏗️ Skin Disease Detector | 🔒 Pending | — |
-| Day 81 | Transformers — How They Work | 🔒 Pending | — |
-| Day 82 | HuggingFace — Pretrained Models | 🔒 Pending | — |
-| Day 83 | LangChain Basics | 🔒 Pending | — |
-| Day 84 | Vector Databases & Embeddings | 🔒 Pending | — |
-| Day 85 | RAG — Retrieval Augmented Generation | 🔒 Pending | — |
-| Day 86 | AI Agents & Tool Use | 🔒 Pending | — |
-| Day 87–90 | 🏗️ AI Study Buddy (LLM + RAG Capstone) | 🔒 Pending | — |   Phase-05-Deep-Learning-AI
+| Day 77–80 | 🏗️ Skin Disease Detector | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-77/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-77/code)|
+| Day 81 | Transformers — How They Work |[📝 Notes](days/Phase-05-Deep-Learning-AI/day-81/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-81/code) |
+| Day 82 | HuggingFace — Pretrained Models | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-82/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-82/code) |
+| Day 83 | LangChain Basics | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-83/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-83/code) |
+| Day 84 | Vector Databases & Embeddings | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-84/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-84/code)|
+| Day 85 | RAG — Retrieval Augmented Generation | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-85/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-85/code) |
+| Day 86 | AI Agents & Tool Use | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-86/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-86/code) |
+| Day 87–90 | 🏗️ AI Study Buddy (LLM + RAG Capstone) | [📝 Notes](days/Phase-05-Deep-Learning-AI/day-87/notes.md) | [💻 Code](days/Phase-05-Deep-Learning-AI/day-87/code)|   Phase-05-Deep-Learning-AI
 
 </details>
 
