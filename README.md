@@ -171,7 +171,7 @@ graph TD
 | Day 63 | TF-IDF & Word Embeddings |  [📝 Notes](days/Phase-04-Machine-Learning/day-63/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-63/code) |
 | Day 64 | Sentiment Analysis | [📝 Notes](days/Phase-04-Machine-Learning/day-64/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-64/code)|
 | Day 65 | Named Entity Recognition |  [📝 Notes](days/Phase-04-Machine-Learning/day-65/notes.md) | [💻 Code](days/Phase-04-Machine-Learning/day-65/code)|
-| Day 66–70 | 🏗️ AI Hiring Assistant | 🔒 Pending | — |
+| Day 66–70 | 🏗️ AI Hiring Assistant | 🔒 Pending only to deploy live | — |
 
 </details>
 
