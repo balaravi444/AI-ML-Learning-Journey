@@ -2,7 +2,6 @@
 
 **Date:** 12 August 2026
 **Phase:** 5 — Deep Learning + AI
-**Time Spent:** (add your hours)
 
 ---
 
