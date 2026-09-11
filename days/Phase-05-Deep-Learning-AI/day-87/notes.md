@@ -3,7 +3,7 @@
 
 **Date:** 13 August 2026
 **Phase:** 5 Capstone
-**Time Spent:** (add your hours)
+
 
 ---
 
