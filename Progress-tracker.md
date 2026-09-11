@@ -123,20 +123,20 @@
 | Day 74 | Transfer Learning | ✅ Done | 01 Aug 2026 |
 | Day 75 | Image Augmentation & Preprocessing | ✅ Done | 02 Aug 2026 |
 | Day 76 | Model Optimization & Callbacks | ✅ Done | 03 Aug 2026|
-| Day 77 | 🏗️ Skin Disease Detector — Start | 🔒 Pending | — |
-| Day 78 | 🏗️ Skin Disease Detector — CNN Model | 🔒 Pending | — |
-| Day 79 | 🏗️ Skin Disease Detector — Web App | 🔒 Pending | — |
-| Day 80 | 🏗️ Skin Disease Detector — Deploy Live ✅ | 🔒 Pending | — |
-| Day 81 | Transformers — How They Work | 🔒 Pending | — |
-| Day 82 | HuggingFace — Pretrained Models | 🔒 Pending | — |
-| Day 83 | LangChain Basics | 🔒 Pending | — |
-| Day 84 | Vector Databases & Embeddings | 🔒 Pending | — |
-| Day 85 | RAG — Retrieval Augmented Generation | 🔒 Pending | — |
-| Day 86 | AI Agents & Tool Use | 🔒 Pending | — |
-| Day 87 | 🏗️ AI Study Buddy — Start | 🔒 Pending | — |
-| Day 88 | 🏗️ AI Study Buddy — RAG Pipeline | 🔒 Pending | — |
-| Day 89 | 🏗️ AI Study Buddy — Complete | 🔒 Pending | — |
-| Day 90 | 🏗️ AI Engineering Copilot — Start (Phase 6 Bridge) | 🔒 Pending | — |
+| Day 77 | 🏗️ Skin Disease Detector — Start |✅ Done | 04 Aug 2026 |
+| Day 78 | 🏗️ Skin Disease Detector — CNN Model | ✅ Done | 04 Aug 2026 |
+| Day 79 | 🏗️ Skin Disease Detector — Web App | ✅ Done | 04 Aug 2026 |
+| Day 80 | 🏗️ Skin Disease Detector — Deploy Live ✅ | ✅ Done | 04 Aug 2026 |
+| Day 81 | Transformers — How They Work | ✅ Done | 05 Aug 2026 |
+| Day 82 | HuggingFace — Pretrained Models |✅ Done | 06 Aug 2026|
+| Day 83 | LangChain Basics | ✅ Done | 07 Aug 2026 |
+| Day 84 | Vector Databases & Embeddings | ✅ Done | 08 Aug 2026 |
+| Day 85 | RAG — Retrieval Augmented Generation | ✅ Done | 09 Aug 2026 |
+| Day 86 | AI Agents & Tool Use | ✅ Done | 10 Aug 2026 |
+| Day 87 | 🏗️ AI Study Buddy — Start | ✅ Done | 11 Aug 2026|
+| Day 88 | 🏗️ AI Study Buddy — RAG Pipeline | ✅ Done | 12 Aug 2026 |
+| Day 89 | 🏗️ AI Study Buddy — Complete | ✅ Done | 13 Aug 2026 |
+| Day 90 | 🏗️ AI Engineering Copilot — Start (Phase 6 Bridge) | ✅ Done | 14 Aug 2026 |
 
 ---
 
@@ -147,12 +147,11 @@
 | 1 | AI Learning Management System | Track student learning progress | OOP, File Handling, Python | ✅ Built |
 | 2 | ArthAI — Smart Financial Advisor | AI-powered personal finance for every Indian | DSA (DP, Binary Search), FastAPI, Gemini LLM | ✅ Live |
 | 3 | Indian Job Market Analyzer | Salary insights + fairness checker for job seekers | Pandas, Sklearn, FastAPI, Chart.js | ✅ Live |
-| 4 | Student Performance Predictor | Predict student pass/fail + recommendations | ML, Scikit-learn, FastAPI | 🔒 Day 59 |
-| 5 | AI Hiring Assistant | Automate resume screening for HR teams | NLP, ML, Transformers | 🔒 Day 67 |
-| 6 | Skin Disease Detector | Healthcare AI for rural India | CNN, Transfer Learning | 🔒 Day 77 |
-| 7 | AI Study Buddy | Personalized learning via LLM + RAG | LangChain, RAG, HuggingFace | 🔒 Day 87 |
-| 8 | AI Engineering Copilot | Help dev teams understand their codebase via natural language | LLMs, RAG, GitHub/Jira/Slack integration | 🔒 Phase 6 |
-| 9 | ReqMind AI | Analyze software requirements — find gaps, contradictions, security issues | LLMs, NLP, SaaS Architecture | 🔒 Phase 6 |
+| 4 | Student Performance Predictor | Predict student pass/fail + recommendations | ML, Scikit-learn, FastAPI | ✅ Built |
+| 5 | AI Hiring Assistant | Automate resume screening for HR teams | NLP, ML, Transformers | ✅ Built made in Private |
+| 6 | Skin Disease Detector | Healthcare AI for rural India | CNN, Transfer Learning | ✅ Built made in  Private  |
+| 7 | AI Engineering Copilot | Help dev teams understand their codebase via natural language | LLMs, RAG, GitHub/Jira/Slack integration | 🔒 Phase 6 |
+| 8 | ReqMind AI | Analyze software requirements — find gaps, contradictions, security issues | LLMs, NLP, SaaS Architecture | 🔒 Phase 6 |
 
 ---
 
@@ -189,7 +188,7 @@
 | 🏗️ Projects Built | 3 |
 | 🎯 LeetCode Problems | 35+ |
 | 📝 Topics Covered | 70+ |
-| 🔥 Days Missed | 0 |
+| 🔥 Days Missed | 6 |
 
 ---
 
