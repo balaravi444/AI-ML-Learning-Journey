@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Day-90%20of%2090-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Phase-4%20ML-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Phase-5%20ML-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streak-85%20days-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Projects-5%20Live-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LeetCode-50%2B%20solved-yellow?style=for-the-badge" />
