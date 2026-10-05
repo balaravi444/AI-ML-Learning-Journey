@@ -18,7 +18,7 @@
   <a href="https://github.com/balaravi444"><img src="https://img.shields.io/badge/GitHub-balaravi444-black?style=flat&logo=github" /></a>
   <a href="https://linkedin.com/in/bala-ravi444"><img src="https://img.shields.io/badge/LinkedIn-Bala%20Ravi-blue?style=flat&logo=linkedin" /></a>
   <a href="https://twitter.com/balaravi444"><img src="https://img.shields.io/badge/Twitter-@balaravi444-1DA1F2?style=flat&logo=twitter" /></a>
-  <a href="https://leetcode.com/balaravi4545"><img src="https://img.shields.io/badge/LeetCode-balaravi4545-orange?style=flat&logo=leetcode" /></a>
+  <a href="https://leetcode.com/balaravi444"><img src="https://img.shields.io/badge/LeetCode-balaravi4545-orange?style=flat&logo=leetcode" /></a>
 </p>
 
 **👨‍💻 Bala Ravi** — BCA Student, The Oxford College of Science, Bangalore University
